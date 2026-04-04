@@ -1,0 +1,11 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-307-1-1,pmv,Proto-Mississipi-Valley,,,307,slip (1),*-šrótE,,
+pwc-307-1-1,pwc,Proto-Hoocąk-Chiwere,,,307,slip (1),*-šróte,,
+pdh-307-1-1,pdh,Proto-Dhegiha,,,307,slip (1),*-šróte,,
+ch-307-1-1,ch,Chiwere,iowa1245,iow,307,slip (1),lišlóǰe,marsh,
+ch-307-1-2,ch,Chiwere,iowa1245,iow,307,slip (1),lištóǰe,,
+wi-307-1-1,wi,Hoocąk,hoch1243,win,307,slip (1),"-šoróč, ru-",km[2987],
+wi-307-1-2,wi,Hoocąk,hoch1243,win,307,slip (1),rušoroc,,
+op-307-1-1,op,Omaha-Ponca,omah1247,oma,307,slip (1),"[†-šnode, ná-]",jod,
+ks-307-1-1,ks,Kanza/Kaw,kans1243,ksk,307,slip (1),"-štóǰe, yü- ~ yüščóǰe",rr,
+qu-307-1-1,qu,Quapaw,quap1242,qua,307,slip (1),"-štótte, di-",jod,

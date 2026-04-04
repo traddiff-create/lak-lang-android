@@ -1,0 +1,7 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-691-1-1,pmv,Proto-Mississipi-Valley,,,691,hole,*hpóɣe,,
+pda-691-1-1,pda,Proto-Dakota,,,691,hole,*phóɣe,,
+la-691-1-1,la,Lakota,lako1247,lkt,691,hole,phóɣe,rtc,
+da-691-1-1,da,Dakota,dako1258,dak,691,hole,póġe,r[423b],
+wi-691-1-1,wi,Hoocąk,hoch1243,win,691,hole,póox,km[2497],
+wi-691-1-2,wi,Hoocąk,hoch1243,win,691,hole,poox,,

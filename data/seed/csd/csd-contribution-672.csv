@@ -1,0 +1,13 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-672-1-1,psi,Proto-Siouan,,sio,672,"husk, pull off (1), flay",*-xáhe,,
+pmv-672-1-1,pmv,Proto-Mississipi-Valley,,,672,"husk, pull off (1), flay",*-ɣá,,
+ma-672-1-1,ma,Mandan,mand1446,mhq,672,"husk, pull off (1), flay",ruxá,,
+pda-672-1-1,pda,Proto-Dakota,,,672,"husk, pull off (1), flay",*-ɣá,,
+pbo-672-1-1,pbo,Proto-Biloxi-Ofo,,,672,"husk, pull off (1), flay",*-xáhi,,
+la-672-1-1,la,Lakota,lako1247,lkt,672,"husk, pull off (1), flay",yuɣá,c,
+la-672-1-2,la,Lakota,lako1247,lkt,672,"husk, pull off (1), flay","-gá, ya-",b[618],
+da-672-1-1,da,Dakota,dako1258,dak,672,"husk, pull off (1), flay",yuġá,r[622b],
+ch-672-1-1,ch,Chiwere,iowa1245,iow,672,"husk, pull off (1), flay",ruɣé,jgt92[166],
+qu-672-1-1,qu,Quapaw,quap1242,qua,672,"husk, pull off (1), flay",diɣá,jod,
+bi-672-1-1,bi,Biloxi,bilo1248,bll,672,"husk, pull off (1), flay",páxaxahí,ds[219a],
+of-672-1-1,of,Ofo,ofoo1242,ofo,672,"husk, pull off (1), flay","tusháhi, dusháhi",ds[331a],

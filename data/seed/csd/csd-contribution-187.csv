@@ -1,0 +1,13 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-187-1-1,psi,Proto-Siouan,,sio,187,strike (3),*-satá•,,
+hi-187-1-1,hi,Hidatsa,hida1246,hid,187,strike (3),núcata•,awj,
+hi-187-1-2,hi,Hidatsa,hida1246,hid,187,strike (3),pácata•,awj,
+hi-187-1-3,hi,Hidatsa,hida1246,hid,187,strike (3),aracáta•,awj,
+hi-187-1-4,hi,Hidatsa,hida1246,hid,187,strike (3),nakcáta•,awj,
+pdh-187-1-1,pdh,Proto-Dhegiha,,,187,strike (3),*-stá,,
+op-187-1-1,op,Omaha-Ponca,omah1247,oma,187,strike (3),nąstá,jod,
+ks-187-1-1,ks,Kanza/Kaw,kans1243,ksk,187,strike (3),"sta, íbo-",rr,
+ks-187-1-2,ks,Kanza/Kaw,kans1243,ksk,187,strike (3),"stá, ną-",rr,
+ks-187-1-3,ks,Kanza/Kaw,kans1243,ksk,187,strike (3),"stá, ga-",rr,
+ks-187-1-4,ks,Kanza/Kaw,kans1243,ksk,187,strike (3),"stá, ya-",rr,
+qu-187-1-1,qu,Quapaw,quap1242,qua,187,strike (3),"stá, ka-",rr,

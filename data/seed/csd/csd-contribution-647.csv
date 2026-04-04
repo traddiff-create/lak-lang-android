@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-647-1-1,psi,Proto-Siouan,,sio,647,knife,*sąhi (?),,
+pch-647-1-1,pch,Proto-Crow-Hidatsa,,,647,knife,*-chi < *-cVhi,,
+ca-647-1-1,ca,Catawba,cata1286,chc,647,knife,sępaʔ,swadesh;ks,
+ca-647-1-2,ca,Catawba,cata1286,chc,647,knife,sįpé,sp,
+cr-647-1-1,cr,Crow,crow1244,cro,647,knife,bíččii,rg;gg[34];dec[42],
+hi-647-1-1,hi,Hidatsa,hida1246,hid,647,knife,wéʔchi,j,
+hi-647-1-2,hi,Hidatsa,hida1246,hid,647,knife,méʔechi,,
+tu-647-1-1,tu,Tutelo,tute1247,tta,647,knife,"masá, masái; masĕⁿ´; macĕⁿ´",n;h;jod,
+tu-647-2-1,tu,Tutelo,tute1247,tta,647,knife,"maséⁿi, maseei, masaa",jod,
+tu-647-3-1,tu,Tutelo,tute1247,tta,647,knife,maaθę́’e,sapir[295],
+tu-647-3-2,tu,Tutelo,tute1247,tta,647,knife,maṭéⁿ,frachtenberg[479],

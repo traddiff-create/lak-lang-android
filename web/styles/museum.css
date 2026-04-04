@@ -1,0 +1,453 @@
+/* ============================================
+   Living Museum — Earth & Sky Palette
+   Lakota Cultural Cosmos
+   ============================================ */
+
+:root {
+  --museum-bg: #0B1026;
+  --museum-bg-deep: #060812;
+  --museum-ink: #E8DCC8;
+  --museum-ink-dim: rgba(232, 220, 200, 0.5);
+  --museum-ochre: #C4883A;
+  --museum-sage: #7A8B6F;
+  --museum-turquoise: #4ABFBF;
+  --museum-ember: #D4553A;
+  --museum-star: #F5E6C8;
+  --museum-ghost: rgba(232, 220, 200, 0.12);
+  --museum-font: 'Inter', system-ui, -apple-system, sans-serif;
+  --museum-font-display: 'Space Grotesk', system-ui, sans-serif;
+}
+
+/* ---- Full-screen museum container ---- */
+
+.museum {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: var(--museum-bg);
+  overflow: hidden;
+  font-family: var(--museum-font);
+  color: var(--museum-ink);
+}
+
+/* ---- Star field background ---- */
+
+.museum-stars {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.museum-star-particle {
+  position: absolute;
+  width: 2px;
+  height: 2px;
+  background: var(--museum-star);
+  border-radius: 50%;
+  opacity: 0.3;
+  animation: twinkle 4s ease-in-out infinite;
+}
+
+@keyframes twinkle {
+  0%, 100% { opacity: 0.2; }
+  50% { opacity: 0.6; }
+}
+
+/* ---- Cosmos canvas (orbiting content) ---- */
+
+.museum-cosmos {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  cursor: grab;
+  transform-origin: 50% 50%;
+  will-change: transform;
+}
+
+.museum-cosmos.dragging {
+  cursor: grabbing;
+}
+
+/* ---- Direction labels (seven sacred directions) ---- */
+
+.museum-direction-label {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  pointer-events: auto;
+  cursor: pointer;
+  transition: opacity 0.4s ease, transform 0.3s ease;
+  z-index: 10;
+  padding: 1rem 1.5rem;
+  border-radius: 12px;
+  background: rgba(11, 16, 38, 0.5);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  min-width: 48px;
+  min-height: 48px;
+}
+
+.museum-direction-label:hover,
+.museum-direction-label:active {
+  transform: translate(-50%, -50%) scale(1.08);
+  background: rgba(11, 16, 38, 0.7);
+}
+
+.museum-direction-lakota {
+  display: block;
+  font-family: var(--museum-font-display);
+  font-size: 1.2rem;
+  font-weight: 300;
+  letter-spacing: 0.1em;
+  color: var(--museum-ink);
+  opacity: 0.9;
+}
+
+.museum-direction-english {
+  display: block;
+  font-size: 0.65rem;
+  font-weight: 300;
+  letter-spacing: 0.15em;
+  color: var(--museum-ink-dim);
+  text-transform: lowercase;
+  margin-top: 0.2rem;
+}
+
+.museum-direction-count {
+  display: block;
+  font-size: 0.55rem;
+  color: var(--museum-ghost);
+  margin-top: 0.3rem;
+  letter-spacing: 0.1em;
+}
+
+/* Direction-specific glow colors */
+.museum-direction-label[data-direction="west"] .museum-direction-lakota { color: var(--museum-ochre); }
+.museum-direction-label[data-direction="north"] .museum-direction-lakota { color: var(--museum-sage); }
+.museum-direction-label[data-direction="east"] .museum-direction-lakota { color: var(--museum-turquoise); }
+.museum-direction-label[data-direction="south"] .museum-direction-lakota { color: var(--museum-ember); }
+.museum-direction-label[data-direction="sky"] .museum-direction-lakota { color: var(--museum-star); }
+.museum-direction-label[data-direction="earth"] .museum-direction-lakota { color: #8B7355; }
+.museum-direction-label[data-direction="center"] .museum-direction-lakota { color: #B8A9C9; }
+
+/* Seasonal pulse — the active season's direction breathes */
+.museum-seasonal-pulse .museum-direction-lakota {
+  animation: seasonPulse 4s ease-in-out infinite;
+}
+
+@keyframes seasonPulse {
+  0%, 100% { opacity: 0.8; text-shadow: 0 0 0px transparent; }
+  50% { opacity: 1; text-shadow: 0 0 12px currentColor; }
+}
+
+/* ---- Celestial objects (orbiting content) ---- */
+
+.museum-object {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  pointer-events: auto;
+  cursor: pointer;
+  transition: opacity 0.5s ease, transform 0.4s ease;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 200px;
+  font-family: var(--museum-font-display);
+  font-weight: 300;
+  line-height: 1.3;
+}
+
+.museum-object:hover {
+  z-index: 20;
+  opacity: 1 !important;
+  transform: translate(-50%, -50%) scale(1.15);
+  white-space: normal;
+  max-width: 300px;
+}
+
+/* Node type styling */
+.museum-object[data-type="word"] {
+  font-size: 0.7rem;
+  color: var(--museum-turquoise);
+}
+
+.museum-object[data-type="story"] {
+  font-size: 0.85rem;
+  color: var(--museum-ochre);
+}
+
+.museum-object[data-type="value"] {
+  font-size: 0.8rem;
+  color: var(--museum-sage);
+}
+
+.museum-object[data-type="person"] {
+  font-size: 0.8rem;
+  color: var(--museum-ember);
+}
+
+.museum-object[data-type="place"] {
+  font-size: 0.9rem;
+  color: #8B7355;
+}
+
+.museum-object[data-type="ceremony"] {
+  font-size: 0.85rem;
+  color: var(--museum-star);
+}
+
+.museum-object[data-type="song"] {
+  font-size: 0.75rem;
+  color: var(--museum-turquoise);
+}
+
+.museum-object-lakota {
+  display: block;
+}
+
+.museum-object-english {
+  display: none;
+  font-size: 0.6rem;
+  opacity: 0.5;
+  margin-top: 0.15rem;
+}
+
+.museum-object:hover .museum-object-english {
+  display: block;
+}
+
+/* Visited nodes — faint persistent glow trail */
+.museum-object-visited {
+  opacity: 0.35 !important;
+}
+
+.museum-object-visited::after {
+  content: '';
+  position: absolute;
+  bottom: -4px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 3px;
+  height: 3px;
+  border-radius: 50%;
+  background: var(--museum-star);
+  opacity: 0.5;
+}
+
+.museum-object-visited:hover {
+  opacity: 1 !important;
+}
+
+/* ---- Overlay (detail view) ---- */
+
+.museum-overlay-backdrop {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: var(--museum-bg-deep);
+  opacity: 0;
+  transition: opacity 0.4s ease;
+  pointer-events: none;
+  z-index: 90;
+}
+
+.museum-overlay-backdrop.visible {
+  opacity: 0.9;
+  pointer-events: auto;
+  cursor: pointer;
+}
+
+.museum-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 91;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  pointer-events: none;
+}
+
+.museum-overlay.visible {
+  display: flex;
+}
+
+.museum-overlay-content {
+  pointer-events: auto;
+  max-width: 600px;
+  max-height: 80vh;
+  overflow-y: auto;
+  padding: 2.5rem;
+  animation: museumOverlayIn 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+  scrollbar-width: none;
+}
+
+.museum-overlay-content::-webkit-scrollbar {
+  display: none;
+}
+
+@keyframes museumOverlayIn {
+  from { opacity: 0; transform: scale(0.8) translateY(20px); }
+  to { opacity: 1; transform: scale(1) translateY(0); }
+}
+
+.museum-overlay-type {
+  font-size: 0.6rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  margin-bottom: 0.75rem;
+}
+
+.museum-overlay-type[data-type="word"] { color: var(--museum-turquoise); }
+.museum-overlay-type[data-type="story"] { color: var(--museum-ochre); }
+.museum-overlay-type[data-type="value"] { color: var(--museum-sage); }
+.museum-overlay-type[data-type="person"] { color: var(--museum-ember); }
+.museum-overlay-type[data-type="place"] { color: #8B7355; }
+.museum-overlay-type[data-type="ceremony"] { color: var(--museum-star); }
+.museum-overlay-type[data-type="song"] { color: var(--museum-turquoise); }
+
+.museum-overlay-lakota {
+  font-family: var(--museum-font-display);
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.3;
+  color: var(--museum-ink);
+  margin-bottom: 0.5rem;
+}
+
+.museum-overlay-english {
+  font-size: 1rem;
+  color: var(--museum-ink-dim);
+  margin-bottom: 1.5rem;
+  line-height: 1.6;
+}
+
+.museum-overlay-body {
+  font-size: 0.9rem;
+  color: var(--museum-ink-dim);
+  line-height: 1.8;
+  white-space: pre-wrap;
+}
+
+.museum-overlay-connections {
+  margin-top: 1.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--museum-ghost);
+}
+
+.museum-overlay-connections-label {
+  font-size: 0.6rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--museum-ghost);
+  margin-bottom: 0.5rem;
+}
+
+.museum-overlay-chip {
+  display: inline-block;
+  padding: 0.25rem 0.6rem;
+  margin: 0.2rem;
+  border-radius: 999px;
+  font-size: 0.7rem;
+  font-weight: 300;
+  cursor: pointer;
+  transition: opacity 0.2s ease;
+  border: 1px solid var(--museum-ghost);
+  color: var(--museum-ink-dim);
+}
+
+.museum-overlay-chip:hover {
+  opacity: 1;
+  border-color: var(--museum-ink-dim);
+}
+
+/* ---- Navigation controls ---- */
+
+.museum-nav {
+  position: fixed;
+  bottom: 1rem;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 80;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  font-size: 0.65rem;
+  letter-spacing: 0.08em;
+  color: var(--museum-ink-dim);
+}
+
+.museum-nav a,
+.museum-nav button {
+  color: var(--museum-ink-dim);
+  text-decoration: none;
+  background: none;
+  border: none;
+  font: inherit;
+  cursor: pointer;
+  transition: color 0.3s ease;
+  padding: 0;
+}
+
+.museum-nav a:hover,
+.museum-nav button:hover {
+  color: var(--museum-ink);
+}
+
+.museum-nav-dot {
+  color: var(--museum-ghost);
+  font-size: 0.5rem;
+}
+
+/* ---- Explore hint ---- */
+
+.museum-explore-hint {
+  position: fixed;
+  bottom: 3rem;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 0.6rem;
+  letter-spacing: 0.15em;
+  color: var(--museum-ghost);
+  pointer-events: none;
+  z-index: 80;
+  transition: opacity 2s ease;
+}
+
+.museum-explore-hint.faded {
+  opacity: 0;
+}
+
+/* ---- Responsive ---- */
+
+@media (max-width: 768px) {
+  .museum-direction-lakota {
+    font-size: 0.8rem;
+  }
+  .museum-direction-english {
+    font-size: 0.55rem;
+  }
+  .museum-object {
+    max-width: 150px;
+  }
+  .museum-overlay-content {
+    padding: 1.5rem;
+    max-width: 90vw;
+  }
+  .museum-overlay-lakota {
+    font-size: 1.5rem;
+  }
+}

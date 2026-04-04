@@ -1,0 +1,11 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-287-1-1,pmv,Proto-Mississipi-Valley,,,287,"soak, spill (1)",*-xtą́,,
+pdh-287-1-1,pdh,Proto-Dhegiha,,,287,"soak, spill (1)",*-xtą́,,
+la-287-1-1,la,Lakota,lako1247,lkt,287,"soak, spill (1)","xtą́, ka-",b[275],
+ks-287-1-1,ks,Kanza/Kaw,kans1243,ksk,287,"soak, spill (1)","xtą́, ba-",rr,
+ks-287-1-2,ks,Kanza/Kaw,kans1243,ksk,287,"soak, spill (1)","xtą́, ga-",rr,
+qu-287-1-1,qu,Quapaw,quap1242,qua,287,"soak, spill (1)","xtą́, di-",rr,
+qu-287-1-2,qu,Quapaw,quap1242,qua,287,"soak, spill (1)","xtą́, ka-",rr,
+qu-287-1-3,qu,Quapaw,quap1242,qua,287,"soak, spill (1)","xtą́, ną-",rr,
+qu-287-1-4,qu,Quapaw,quap1242,qua,287,"soak, spill (1)","xtą́, bi-",rr,
+qu-287-1-5,qu,Quapaw,quap1242,qua,287,"soak, spill (1)","xtą́xtą, áka-",rr,

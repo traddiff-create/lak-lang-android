@@ -1,0 +1,6 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-795-1-1,psi,Proto-Siouan,,sio,795,frog (3),"*wašą́•ka, *wi-šą́•ka",,
+pch-795-1-1,pch,Proto-Crow-Hidatsa,,,795,frog (3),*šá•ka,,
+cr-795-1-1,cr,Crow,crow1244,cro,795,frog (3),sáaka,rg;gg[55];dec[3],
+hi-795-1-1,hi,Hidatsa,hida1246,hid,795,frog (3),šá•ka,j,
+ma-795-1-1,ma,Mandan,mand1446,mhq,795,frog (3),psą́•ka,c,

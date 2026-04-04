@@ -1,0 +1,11 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-923-1-1,pmv,Proto-Mississipi-Valley,,,923,deceive,*rukrą́,,
+pda-923-1-1,pda,Proto-Dakota,,,923,deceive,*-krą́ya,,
+pdh-923-1-1,pdh,Proto-Dhegiha,,,923,deceive,*rükrą́,,
+la-923-1-1,la,Lakota,lako1247,lkt,923,deceive,wayúgnayaŋ,b[568b],
+la-923-1-2,la,Lakota,lako1247,lkt,923,deceive,wógnaye,b[597a],
+la-923-1-3,la,Lakota,lako1247,lkt,923,deceive,yugną́yą,ej,
+da-923-1-1,da,Dakota,dako1258,dak,923,deceive,wohnaye,wm[45b],
+da-923-1-2,da,Dakota,dako1258,dak,923,deceive,yuhnáyaŋ,r[624b],
+ks-923-1-1,ks,Kanza/Kaw,kans1243,ksk,923,deceive,yülǫ́yį,rr,
+os-923-1-1,os,Osage,osag1243,osa,923,deceive,thigthoⁿ´,lf[146b],

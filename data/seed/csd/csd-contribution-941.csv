@@ -1,0 +1,11 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pdh-941-1-1,pdh,Proto-Dhegiha,,,941,cucurbit (2),*wathą́,,
+pbo-941-1-1,pbo,Proto-Biloxi-Ofo,,,941,cucurbit (2),ąthą́,,
+op-941-1-1,op,Omaha-Ponca,omah1247,oma,941,cucurbit (2),wathą́,rr,
+ks-941-1-1,ks,Kanza/Kaw,kans1243,ksk,941,cucurbit (2),wakhą́,rr,
+os-941-1-1,os,Osage,osag1243,osa,941,cucurbit (2),wakhą́ ~ wathą́,rr,
+qu-941-1-1,qu,Quapaw,quap1242,qua,941,cucurbit (2),wathą́,rr,
+bi-941-1-1,bi,Biloxi,bilo1248,bll,941,cucurbit (2),taⁿ,,
+bi-941-2-1,bi,Biloxi,bilo1248,bll,941,cucurbit (2),aⁿtáni,ds[271b],
+of-941-1-1,of,Ofo,ofoo1242,ofo,941,cucurbit (2),ôⁿthâⁿ,ds[328a],
+of-941-2-1,of,Ofo,ofoo1242,ofo,941,cucurbit (2),oⁿtafhạhi,,

@@ -1,0 +1,8 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-111-1-1,psi,Proto-Siouan,,sio,111,travel,*-ši,,
+pch-111-1-1,pch,Proto-Crow-Hidatsa,,,111,travel,*ašE,,
+pma-111-1-1,pma,Pre-Mandan,,,111,travel,*si-,,
+cr-111-1-1,cr,Crow,crow1244,cro,111,travel,aashí,gg[3],
+hi-111-1-1,hi,Hidatsa,hida1246,hid,111,travel,ášE,j,
+hi-111-1-2,hi,Hidatsa,hida1246,hid,111,travel,áši,,
+ma-111-1-1,ma,Mandan,mand1446,mhq,111,travel,síʔš,h[205],

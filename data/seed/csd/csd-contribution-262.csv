@@ -1,0 +1,7 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-262-1-1,psi,Proto-Siouan,,sio,262,spine (2),*rą-hú•(-re),,
+pch-262-1-1,pch,Proto-Crow-Hidatsa,,,262,spine (2),*rú•ri,,
+cr-262-1-1,cr,Crow,crow1244,cro,262,spine (2),dúuli,gg[45],
+hi-262-1-1,hi,Hidatsa,hida1246,hid,262,spine (2),ru•ri,j,
+hi-262-1-2,hi,Hidatsa,hida1246,hid,262,spine (2),nu•ri,,
+ma-262-1-1,ma,Mandan,mand1446,mhq,262,spine (2),rąhú•re,c,

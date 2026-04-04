@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-54-1-1,pmv,Proto-Mississipi-Valley,,,54,weak,*xpe,,
+pda-54-1-1,pda,Proto-Dakota,,,54,weak,*xpe,,
+pwc-54-1-1,pwc,Proto-Hoocąk-Chiwere,,,54,weak,*xwé,,
+pdh-54-1-1,pdh,Proto-Dhegiha,,,54,weak,*xpéka,,
+la-54-1-1,la,Lakota,lako1247,lkt,54,weak,xpéla,b[195a],
+da-54-1-1,da,Dakota,dako1258,dak,54,weak,ḣpéća,r[167a],
+ch-54-1-1,ch,Chiwere,iowa1245,iow,54,weak,xwége,lwr[38],
+wi-54-1-1,wi,Hoocąk,hoch1243,win,54,weak,taaxéwe,km[3096],
+wi-54-1-2,wi,Hoocąk,hoch1243,win,54,weak,taaxewe,,
+ks-54-1-1,ks,Kanza/Kaw,kans1243,ksk,54,weak,xpéga,rr,
+os-54-1-1,os,Osage,osag1243,osa,54,weak,xpega,lf[219b],

@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pda-422-1-1,pda,Proto-Dakota,,,422,robin,*šišóka,,
+pdh-422-1-1,pdh,Proto-Dhegiha,,,422,robin,*šį́hkohkoke,,
+la-422-1-1,la,Lakota,lako1247,lkt,422,robin,šišóka,b[463b],
+da-422-1-1,da,Dakota,dako1258,dak,422,robin,[†šišóka],r[445a],
+wi-422-1-1,wi,Hoocąk,hoch1243,win,422,robin,šįįkókok,km[2965],
+wi-422-1-2,wi,Hoocąk,hoch1243,win,422,robin,šįįkokok,,
+os-422-1-1,os,Osage,osag1243,osa,422,robin,shíⁿḳuḳuge,lf[131b],
+qu-422-1-1,qu,Quapaw,quap1242,qua,422,robin,šį́kkokkoge,jod,
+bi-422-1-1,bi,Biloxi,bilo1248,bll,422,robin,siñkukí,ds[256a],

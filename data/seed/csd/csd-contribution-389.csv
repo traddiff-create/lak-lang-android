@@ -1,0 +1,11 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-389-1-1,psi,Proto-Siouan,,sio,389,scrape (3),*-kʔóxE,,
+pma-389-1-1,pma,Pre-Mandan,,,389,scrape (3),*-kox-,,
+ma-389-1-1,ma,Mandan,mand1446,mhq,389,scrape (3),"-kóxoʔš, ka-",h[116],
+pda-389-1-1,pda,Proto-Dakota,,,389,scrape (3),*-kʔoɣA,,
+la-389-1-1,la,Lakota,lako1247,lkt,389,scrape (3),"-kʔóɣa, ya-",b[623],
+la-389-1-2,la,Lakota,lako1247,lkt,389,scrape (3),"-kʔóɣa, yu-",b[643],
+la-389-1-3,la,Lakota,lako1247,lkt,389,scrape (3),"-kʔoɣa, hutípa-",b[802],
+la-389-1-4,la,Lakota,lako1247,lkt,389,scrape (3),"-kʔoɣe, ičá-",b[201],
+da-389-1-1,da,Dakota,dako1258,dak,389,scrape (3),yaḳóġa,r[609a],
+da-389-2-1,da,Dakota,dako1258,dak,389,scrape (3),yuḳóġa,r[631b],

@@ -1,0 +1,13 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-127-1-1,pmv,Proto-Mississipi-Valley,,,127,tie (2),*skitE,,
+pda-127-1-1,pda,Proto-Dakota,,,127,tie (2),*skitA,,
+pwc-127-1-1,pwc,Proto-Hoocąk-Chiwere,,,127,tie (2),*-skite,,
+pdh-127-1-1,pdh,Proto-Dhegiha,,,127,tie (2),*rü-skíta,,
+la-127-1-1,la,Lakota,lako1247,lkt,127,tie (2),"skítA, yu-",b[649],
+la-127-1-2,la,Lakota,lako1247,lkt,127,tie (2),"skískitA, yu-",b[649],
+da-127-1-1,da,Dakota,dako1258,dak,127,tie (2),skíta,r[436b],
+ch-127-1-1,ch,Chiwere,iowa1245,iow,127,tie (2),igrúhgiǰe,jgt92[259],
+wi-127-1-1,wi,Hoocąk,hoch1243,win,127,tie (2),"-sgíc, ru-",km[2717],
+wi-127-1-2,wi,Hoocąk,hoch1243,win,127,tie (2),rusgic,,
+os-127-1-1,os,Osage,osag1243,osa,127,tie (2),thi-çki´-da,lf[145a],
+qu-127-1-1,qu,Quapaw,quap1242,qua,127,tie (2),diskítta,rr,

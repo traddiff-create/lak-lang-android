@@ -1,0 +1,6 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-362-1-1,pmv,Proto-Mississipi-Valley,,,362,shake (1),*huzE,,
+pda-362-1-1,pda,Proto-Dakota,,,362,shake (1),*huhúza,,
+da-362-1-1,da,Dakota,dako1258,dak,362,shake (1),hu-hú-za,r[157a],
+da-362-1-2,da,Dakota,dako1258,dak,362,shake (1),yu-hú-hu-za,r[625a],
+ch-362-1-1,ch,Chiwere,iowa1245,iow,362,shake (1),hudhe,jgt92[28],

@@ -1,0 +1,6 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-410-1-1,psi,Proto-Siouan,,sio,410,round (3),*poska,,
+la-410-1-1,la,Lakota,lako1247,lkt,410,round (3),tapóposka,b[482a];b[760b],
+la-410-1-2,la,Lakota,lako1247,lkt,410,round (3),tapóposka,r[461a],
+bi-410-1-1,bi,Biloxi,bilo1248,bll,410,round (3),"poská, potcká",ds[247a],
+of-410-1-1,of,Ofo,ofoo1242,ofo,410,round (3),"plócka, plótka, -plóska",ds[328b],

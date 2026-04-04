@@ -1,0 +1,7 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-717-1-1,pmv,Proto-Mississipi-Valley,,,717,hazelnut,*ų,,
+pdh-717-1-1,pdh,Proto-Dhegiha,,,717,hazelnut,*ǫ́,,
+la-717-1-1,la,Lakota,lako1247,lkt,717,hazelnut,uma,,
+da-717-1-1,da,Dakota,dako1258,dak,717,hazelnut,úma,r[484a],
+op-717-1-1,op,Omaha-Ponca,omah1247,oma,717,hazelnut,oⁿzhinga,flf[106],
+os-717-1-1,os,Osage,osag1243,osa,717,hazelnut,oⁿ,lf[121b],

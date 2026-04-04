@@ -1,0 +1,11 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-678-1-1,pmv,Proto-Mississipi-Valley,,,678,"household, home",*hti•-_kre,,
+pda-678-1-1,pda,Proto-Dakota,,,678,"household, home",*thi-_kré,,
+pdh-678-1-1,pdh,Proto-Dhegiha,,,678,"household, home",*hti-_kre,,
+la-678-1-1,la,Lakota,lako1247,lkt,678,"household, home",thiglé,b[488a],
+da-678-1-1,da,Dakota,dako1258,dak,678,"household, home",tihdé,r[468a],
+wi-678-1-1,wi,Hoocąk,hoch1243,win,678,"household, home",číikeré,km[227],
+wi-678-1-2,wi,Hoocąk,hoch1243,win,678,"household, home",ciikere,,
+op-678-1-1,op,Omaha-Ponca,omah1247,oma,678,"household, home",tigthe,sw[96],
+os-678-1-1,os,Osage,osag1243,osa,678,"household, home",ṭsígthe,lf[163a],
+qu-678-1-1,qu,Quapaw,quap1242,qua,678,"household, home",ttikdé,jod,

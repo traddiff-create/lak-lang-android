@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pda-996-1-1,pda,Proto-Dakota,,,996,child > boy,*hokší,,
+la-996-1-1,la,Lakota,lako1247,lkt,996,child > boy,hokší; hokšíla,c,
+da-996-1-1,da,Dakota,dako1258,dak,996,child > boy,hokṡidaŋ,wm[22a],
+ya-996-1-1,ya,Yanktonai,dako1258,dak,996,child > boy,hokšína,wm[22a],
+st-996-1-1,st,Stoney,ston1242,sto,996,child > boy,hokší,pas,
+sv-996-1-1,sv,Sioux Valley,,,996,child > boy,hokšída,pas,
+ks-996-1-1,ks,Kanza/Kaw,kans1243,ksk,996,child > boy,hóšta,rr,
+of-996-1-1,of,Ofo,ofoo1242,ofo,996,child > boy,hócka,ds[323b],
+of-996-2-1,of,Ofo,ofoo1242,ofo,996,child > boy,añk-hōshka,,

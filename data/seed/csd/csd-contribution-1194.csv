@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-1194-1-1,psi,Proto-Siouan,,sio,1194,1st singular possessor,*wą (?),,
+pch-1194-1-1,pch,Proto-Crow-Hidatsa,,,1194,1st singular possessor,*wa-,,
+cr-1194-1-1,cr,Crow,crow1244,cro,1194,1st singular possessor,ba-,,
+hi-1194-1-1,hi,Hidatsa,hida1246,hid,1194,1st singular possessor,wa-,,
+hi-1194-1-2,hi,Hidatsa,hida1246,hid,1194,1st singular possessor,ma-,,
+pda-1194-1-1,pda,Proto-Dakota,,,1194,1st singular possessor,*mą,,
+la-1194-1-1,la,Lakota,lako1247,lkt,1194,1st singular possessor,ma-,,
+da-1194-1-1,da,Dakota,dako1258,dak,1194,1st singular possessor,ma-,,
+of-1194-1-1,of,Ofo,ofoo1242,ofo,1194,1st singular possessor,ba-,,

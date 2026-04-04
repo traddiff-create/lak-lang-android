@@ -1,0 +1,6 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-967-1-1,psi,Proto-Siouan,,sio,967,"cord, string (2)",*ąka,,
+hi-967-1-1,hi,Hidatsa,hida1246,hid,967,"cord, string (2)",aká,j,
+ma-967-1-1,ma,Mandan,mand1446,mhq,967,"cord, string (2)",íka,h[86],
+ma-967-1-2,ma,Mandan,mand1446,mhq,967,"cord, string (2)",hįką́rą,c,
+bi-967-1-1,bi,Biloxi,bilo1248,bll,967,"cord, string (2)","añkada, añḳadá, etc.",ds[202a],

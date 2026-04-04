@@ -1,0 +1,4 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-879-1-1,pmv,Proto-Mississipi-Valley,,,879,edge,*htéte,,
+la-879-1-1,la,Lakota,lako1247,lkt,879,edge,mathéte,b[334a],
+ch-879-1-1,ch,Chiwere,iowa1245,iow,879,edge,chéje,jgt92[136],

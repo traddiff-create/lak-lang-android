@@ -1,0 +1,13 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-1115-1-1,psi,Proto-Siouan,,sio,1115,belly,*i-hté•si,,
+pmv-1115-1-1,pmv,Proto-Mississipi-Valley,,,1115,belly,*htézi,,
+pse-1115-1-1,pse,Proto-Southeastern,,,1115,belly,*(i-)thé•si,,
+pda-1115-1-1,pda,Proto-Dakota,,,1115,belly,*thezí,,
+pdh-1115-1-1,pdh,Proto-Dhegiha,,,1115,belly,*htéze,,
+la-1115-1-1,la,Lakota,lako1247,lkt,1115,belly,thezí,c,
+da-1115-1-1,da,Dakota,dako1258,dak,1115,belly,tezi,wm[16b],
+op-1115-1-1,op,Omaha-Ponca,omah1247,oma,1115,belly,téçe,flf[108],
+os-1115-1-1,os,Osage,osag1243,osa,1115,belly,ṭséçe,lf[157b],
+qu-1115-1-1,qu,Quapaw,quap1242,qua,1115,belly,ozízi,rr,
+of-1115-1-1,of,Ofo,ofoo1242,ofo,1115,belly,"ĭthé̄fi, thé̄fi",ds[324b];ssf,
+tu-1115-1-1,tu,Tutelo,tute1247,tta,1115,belly,tēsi,h,

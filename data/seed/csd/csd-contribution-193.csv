@@ -1,0 +1,13 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pwc-193-1-1,pwc,Proto-Hoocąk-Chiwere,,,193,strawberry,*há•šte-(ke),,
+pdh-193-1-1,pdh,Proto-Dhegiha,,,193,strawberry,*pašté-(ka),,
+da-193-1-1,da,Dakota,dako1258,dak,193,strawberry,waz´úśteća,r[563b],
+ya-193-1-1,ya,Yanktonai,dako1258,dak,193,strawberry,wazhushtecha,,
+ch-193-1-1,ch,Chiwere,iowa1245,iow,193,strawberry,hášče,marsh;rr,
+wi-193-1-1,wi,Hoocąk,hoch1243,win,193,strawberry,"haašǰék, haasǰék",km[536],
+wi-193-1-2,wi,Hoocąk,hoch1243,win,193,strawberry,"haašjek, haascek",,
+op-193-1-1,op,Omaha-Ponca,omah1247,oma,193,strawberry,bašté,rr,
+ks-193-1-1,ks,Kanza/Kaw,kans1243,ksk,193,strawberry,ppąščéga,rr,
+os-193-1-1,os,Osage,osag1243,osa,193,strawberry,pašcéka,jod,
+qu-193-1-1,qu,Quapaw,quap1242,qua,193,strawberry,paštéka ~ mastéka ~ wasteka,rr,
+bi-193-1-1,bi,Biloxi,bilo1248,bll,193,strawberry,ástĕpáx kotká,ds[174b],

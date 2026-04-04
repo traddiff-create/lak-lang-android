@@ -1,0 +1,6 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pch-349-1-1,pch,Proto-Crow-Hidatsa,,,349,shinbone,*i-chú•pa < *i-cVhú•pa,,
+cr-349-1-1,cr,Crow,crow1244,cro,349,shinbone,ičhú•pa,gg[96],
+cr-349-1-2,cr,Crow,crow1244,cro,349,shinbone,itchú•pa,,
+hi-349-1-1,hi,Hidatsa,hida1246,hid,349,shinbone,ichú•pa,j,
+ma-349-1-1,ma,Mandan,mand1446,mhq,349,shinbone,šú•pa,c,

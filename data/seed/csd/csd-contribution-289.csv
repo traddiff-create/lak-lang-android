@@ -1,0 +1,9 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-289-1-1,pmv,Proto-Mississipi-Valley,,,289,snowshoe,*pse• (o-hųpe),,
+pda-289-1-1,pda,Proto-Dakota,,,289,snowshoe,*pse-ohąpa,,
+la-289-1-1,la,Lakota,lako1247,lkt,289,snowshoe,psoháƞpa,b[446b],
+da-289-1-1,da,Dakota,dako1258,dak,289,snowshoe,pse,r[425b],
+da-289-1-2,da,Dakota,dako1258,dak,289,snowshoe,pse-yá-pi,r[425b],
+wi-289-1-1,wi,Hoocąk,hoch1243,win,289,snowshoe,sée,km[2809],
+wi-289-1-2,wi,Hoocąk,hoch1243,win,289,snowshoe,see,,
+op-289-1-1,op,Omaha-Ponca,omah1247,oma,289,snowshoe,sé hįbe,,

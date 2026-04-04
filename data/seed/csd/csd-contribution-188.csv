@@ -1,0 +1,9 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-188-1-1,pmv,Proto-Mississipi-Valley,,,188,strike (2),*tpa,,
+pdh-188-1-1,pdh,Proto-Dhegiha,,,188,strike (2),*hté,,
+da-188-1-1,da,Dakota,dako1258,dak,188,strike (2),katpá,r[271b],
+op-188-1-1,op,Omaha-Ponca,omah1247,oma,188,strike (2),noⁿte,sw[107],
+ks-188-1-1,ks,Kanza/Kaw,kans1243,ksk,188,strike (2),waččé,rr,
+ks-188-1-2,ks,Kanza/Kaw,kans1243,ksk,188,strike (2),"ččé, ną-",jod;rr,
+os-188-1-1,os,Osage,osag1243,osa,188,strike (2),waṭsé,lf[205b],
+qu-188-1-1,qu,Quapaw,quap1242,qua,188,strike (2),"tté, ną-",rr,

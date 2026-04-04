@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-784-1-1,psi,Proto-Siouan,,sio,784,gather (3),*ru•wE,,
+ca-784-1-1,ca,Catawba,cata1286,chc,784,gather (3),átkowa,ks,
+ca-784-1-2,ca,Catawba,cata1286,chc,784,gather (3),atkú’hruwe,ks,
+hi-784-1-1,hi,Hidatsa,hida1246,hid,784,gather (3),rú•,j,
+hi-784-1-2,hi,Hidatsa,hida1246,hid,784,gather (3),nú•,,
+pdh-784-1-1,pdh,Proto-Dhegiha,,,784,gather (3),*rüwé,,
+os-784-1-1,os,Osage,osag1243,osa,784,gather (3),thuwe,lf[89a],
+qu-784-1-1,qu,Quapaw,quap1242,qua,784,gather (3),diwé,rr,
+of-784-1-1,of,Ofo,ofoo1242,ofo,784,gather (3),ā´ktuwa,ds[320b];ssf,

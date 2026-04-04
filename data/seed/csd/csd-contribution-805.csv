@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-805-1-1,pmv,Proto-Mississipi-Valley,,,805,forest,*hpáte,,
+pwc-805-1-1,pwc,Proto-Hoocąk-Chiwere,,,805,forest,*pháte,,
+pdh-805-1-1,pdh,Proto-Dhegiha,,,805,forest,*hpáte,,
+la-805-1-1,la,Lakota,lako1247,lkt,805,forest,pháta,b[435b],
+ch-805-1-1,ch,Chiwere,iowa1245,iow,805,forest,pháǰe,jdh,
+wi-805-1-1,wi,Hoocąk,hoch1243,win,805,forest,páač,km[2422],
+wi-805-1-2,wi,Hoocąk,hoch1243,win,805,forest,paac,,
+ks-805-1-1,ks,Kanza/Kaw,kans1243,ksk,805,forest,ppáǰe,rr,
+qu-805-1-1,qu,Quapaw,quap1242,qua,805,forest,dittá ppattáho,rr,

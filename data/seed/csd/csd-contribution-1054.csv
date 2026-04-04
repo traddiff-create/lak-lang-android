@@ -1,0 +1,11 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-1054-1-1,pmv,Proto-Mississipi-Valley,,,1054,"bread, cornball",*wa•-(Wo-)ske,,
+pdh-1054-1-1,pdh,Proto-Dhegiha,,,1054,"bread, cornball",*wáske,,
+ch-1054-1-1,ch,Chiwere,iowa1245,iow,1054,"bread, cornball",wa•búθke,rr;jod,
+ch-1054-1-2,ch,Chiwere,iowa1245,iow,1054,"bread, cornball",wa-po-shke,,
+op-1054-1-1,op,Omaha-Ponca,omah1247,oma,1054,"bread, cornball","wamóske, wáske",rr,
+op-1054-1-2,op,Omaha-Ponca,omah1247,oma,1054,"bread, cornball",wáske,rr,
+ks-1054-1-1,ks,Kanza/Kaw,kans1243,ksk,1054,"bread, cornball","wabóski, wabóske",rr,
+qu-1054-1-1,qu,Quapaw,quap1242,qua,1054,"bread, cornball",wáske,rr,
+bi-1054-1-1,bi,Biloxi,bilo1248,bll,1054,"bread, cornball",apátckuní,ds[265b],
+bi-1054-1-2,bi,Biloxi,bilo1248,bll,1054,"bread, cornball",paska,ds[265b],

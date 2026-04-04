@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-1112-1-1,pmv,Proto-Mississipi-Valley,,,1112,bend (2),"*hkó•, *hkó•ža ~ *hkó•ɣa",,
+pdh-1112-1-1,pdh,Proto-Dhegiha,,,1112,bend (2),*-hkóša,,
+la-1112-1-1,la,Lakota,lako1247,lkt,1112,bend (2),yaáṗako,b[617b];vc,
+wi-1112-1-1,wi,Hoocąk,hoch1243,win,1112,bend (2),kooɣáɣa,jwe[65],
+wi-1112-1-2,wi,Hoocąk,hoch1243,win,1112,bend (2),kooǧaǧa,,
+ks-1112-1-1,ks,Kanza/Kaw,kans1243,ksk,1112,bend (2),bakkóša,rr,
+ks-1112-1-2,ks,Kanza/Kaw,kans1243,ksk,1112,bend (2),ppákkoša,rr,
+os-1112-1-1,os,Osage,osag1243,osa,1112,bend (2),a´thiḳusha,lf[15b],
+qu-1112-1-1,qu,Quapaw,quap1242,qua,1112,bend (2),"-kkó, ba-",rr,

@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-300-1-1,pmv,Proto-Mississipi-Valley,,,300,slowly,*srúte,,
+pdh-300-1-1,pdh,Proto-Dhegiha,,,300,slowly,*srúte,,
+ch-300-1-1,ch,Chiwere,iowa1245,iow,300,slowly,θlíǰe,marsh,
+ch-300-1-2,ch,Chiwere,iowa1245,iow,300,slowly,thníje,jod;jgt92[71],
+op-300-1-1,op,Omaha-Ponca,omah1247,oma,300,slowly,snide,sw[158],
+op-300-1-2,op,Omaha-Ponca,omah1247,oma,300,slowly,çnide,,
+ks-300-1-1,ks,Kanza/Kaw,kans1243,ksk,300,slowly,sčǘǰe,rr,
+os-300-1-1,os,Osage,osag1243,osa,300,slowly,waçtu´dse,lf[186b],
+qu-300-1-1,qu,Quapaw,quap1242,qua,300,slowly,óstitte,jod,

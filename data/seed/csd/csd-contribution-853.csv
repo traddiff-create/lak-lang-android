@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-853-1-1,pmv,Proto-Mississipi-Valley,,,853,fan,*Rú,,
+pda-853-1-1,pda,Proto-Dakota,,,853,fan,*kaRú,,
+pwc-853-1-1,pwc,Proto-Hoocąk-Chiwere,,,853,fan,*Ru,,
+pdh-853-1-1,pdh,Proto-Dhegiha,,,853,fan,*(ka-)Rú,,
+la-853-1-1,la,Lakota,lako1247,lkt,853,fan,kalú,c,
+da-853-1-1,da,Dakota,dako1258,dak,853,fan,kadú,r[247a],
+ch-853-1-1,ch,Chiwere,iowa1245,iow,853,fan,kíbru,jgt92[141],
+wi-853-1-1,wi,Hoocąk,hoch1243,win,853,fan,túu,km[3143],
+wi-853-1-2,wi,Hoocąk,hoch1243,win,853,fan,tuu,,
+ks-853-1-1,ks,Kanza/Kaw,kans1243,ksk,853,fan,gaǰǘ,rr,
+qu-853-1-1,qu,Quapaw,quap1242,qua,853,fan,íkkikdátti,rr,

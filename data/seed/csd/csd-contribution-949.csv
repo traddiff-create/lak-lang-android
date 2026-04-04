@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-949-1-1,psi,Proto-Siouan,,sio,949,cross,*pte,,
+pmv-949-1-1,pmv,Proto-Mississipi-Valley,,,949,cross,*pte,,
+pdh-949-1-1,pdh,Proto-Dhegiha,,,949,cross,*-hté,,
+la-949-1-1,la,Lakota,lako1247,lkt,949,cross,kaíciopteya,b[276b],
+ch-949-1-1,ch,Chiwere,iowa1245,iow,949,cross,"če, arú-",lwr[2],
+ch-949-2-1,ch,Chiwere,iowa1245,iow,949,cross,ruché,jgt92[125],
+ks-949-1-1,ks,Kanza/Kaw,kans1243,ksk,949,cross,"ččé, yu-",rr,
+qu-949-1-1,qu,Quapaw,quap1242,qua,949,cross,"tté, di-",rr,
+qu-949-1-2,qu,Quapaw,quap1242,qua,949,cross,"ttétte, ákkidi-",rr,
+qu-949-1-3,qu,Quapaw,quap1242,qua,949,cross,"tté, bi-",rr,
+tu-949-1-1,tu,Tutelo,tute1247,tta,949,cross,aluptese,jod,

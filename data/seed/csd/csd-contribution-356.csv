@@ -1,0 +1,13 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-356-1-1,pmv,Proto-Mississipi-Valley,,,356,shake > tremble,*psąpsą́,,
+pda-356-1-1,pda,Proto-Dakota,,,356,shake > tremble,*psąpsą,,
+pwc-356-1-1,pwc,Proto-Hoocąk-Chiwere,,,356,shake > tremble,*sąsą,,
+pdh-356-1-1,pdh,Proto-Dhegiha,,,356,shake > tremble,*sąsą,,
+la-356-1-1,la,Lakota,lako1247,lkt,356,shake > tremble,psąpsą́ka,b[446a],
+da-356-1-1,da,Dakota,dako1258,dak,356,shake > tremble,yupsáŋpsaŋ,r[637a],
+ch-356-1-1,ch,Chiwere,iowa1245,iow,356,shake > tremble,withánthanje,jgt92[225],
+wi-356-1-1,wi,Hoocąk,hoch1243,win,356,shake > tremble,gisąsą,marino[385],
+wi-356-1-2,wi,Hoocąk,hoch1243,win,356,shake > tremble,gisąsą,,
+op-356-1-1,op,Omaha-Ponca,omah1247,oma,356,shake > tremble,çoⁿçoⁿ,sw[176],
+ks-356-1-1,ks,Kanza/Kaw,kans1243,ksk,356,shake > tremble,wásąsą,rr,
+os-356-1-1,os,Osage,osag1243,osa,356,shake > tremble,çoⁿçóⁿ,lf[31b],

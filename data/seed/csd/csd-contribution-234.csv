@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pch-234-1-1,pch,Proto-Crow-Hidatsa,,,234,sprout,*apá•re,,
+pmv-234-1-1,pmv,Proto-Mississipi-Valley,,,234,sprout,*ya wrį́,,
+cr-234-1-1,cr,Crow,crow1244,cro,234,sprout,apáali,rg;gg[11];dec[24],
+hi-234-1-1,hi,Hidatsa,hida1246,hid,234,sprout,apá•re,j,
+hi-234-1-2,hi,Hidatsa,hida1246,hid,234,sprout,apá•ri,,
+pda-234-1-1,pda,Proto-Dakota,,,234,sprout,*čhamní,,
+la-234-1-1,la,Lakota,lako1247,lkt,234,sprout,camní,b[115a],
+da-234-1-1,da,Dakota,dako1258,dak,234,sprout,ćamní,r[85a],
+os-234-1-1,os,Osage,osag1243,osa,234,sprout,zhabthíⁿga,lf[222a],

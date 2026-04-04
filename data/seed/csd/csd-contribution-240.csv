@@ -1,0 +1,6 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-240-1-1,pmv,Proto-Mississipi-Valley,,,240,spread > flat (4),*wráška,,
+ch-240-1-1,ch,Chiwere,iowa1245,iow,240,spread > flat (4),bráshge,jgt92[8],
+ks-240-1-1,ks,Kanza/Kaw,kans1243,ksk,240,spread > flat (4),"-bláška, ba-",rr,
+ks-240-1-2,ks,Kanza/Kaw,kans1243,ksk,240,spread > flat (4),"-bláška, bu-",rr,
+ks-240-1-3,ks,Kanza/Kaw,kans1243,ksk,240,spread > flat (4),"-bláška, yu-",jod;mr;rr,

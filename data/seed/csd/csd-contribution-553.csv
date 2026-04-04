@@ -1,0 +1,13 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-553-1-1,psi,Proto-Siouan,,sio,553,"muskrat, prairie dog (1)",*sįtpe,,
+pch-553-1-1,pch,Proto-Crow-Hidatsa,,,553,"muskrat, prairie dog (1)",*cihpa,,
+cr-553-1-1,cr,Crow,crow1244,cro,553,"muskrat, prairie dog (1)",čihpá,rg,
+hi-553-1-1,hi,Hidatsa,hida1246,hid,553,"muskrat, prairie dog (1)",cíhpa,awj,
+ma-553-1-1,ma,Mandan,mand1446,mhq,553,"muskrat, prairie dog (1)",šopkáʔ,rtc,
+pda-553-1-1,pda,Proto-Dakota,,,553,"muskrat, prairie dog (1)",*sįt-pé,,
+la-553-1-1,la,Lakota,lako1247,lkt,553,"muskrat, prairie dog (1)",sįkpxé,ej,
+la-553-1-2,la,Lakota,lako1247,lkt,553,"muskrat, prairie dog (1)",sįkpé,rtc,
+da-553-1-1,da,Dakota,dako1258,dak,553,"muskrat, prairie dog (1)",siŋtpé,srr[435a],
+st-553-1-1,st,Stoney,ston1242,sto,553,"muskrat, prairie dog (1)",sųkpe,pas,
+st-553-1-2,st,Stoney,ston1242,sto,553,"muskrat, prairie dog (1)",sopte,pas,
+st-553-1-3,st,Stoney,ston1242,sto,553,"muskrat, prairie dog (1)",sųpte,vegreville,

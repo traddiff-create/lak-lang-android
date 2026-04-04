@@ -1,0 +1,8 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-796-1-1,psi,Proto-Siouan,,sio,796,frog (2),*(w)ahpeSka,,
+pmv-796-1-1,pmv,Proto-Mississipi-Valley,,,796,frog (2),*pheška,,
+pda-796-1-1,pda,Proto-Dakota,,,796,frog (2),*phešká,,
+la-796-1-1,la,Lakota,lako1247,lkt,796,frog (2),phešká,b[442a],
+da-796-1-1,da,Dakota,dako1258,dak,796,frog (2),peśká,r[420a],
+ch-796-1-1,ch,Chiwere,iowa1245,iow,796,frog (2),pésge,jgt92[55],
+bi-796-1-1,bi,Biloxi,bilo1248,bll,796,frog (2),"pĕská, apĕska",ds[244b],

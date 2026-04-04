@@ -1,0 +1,9 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-950-1-1,pmv,Proto-Mississipi-Valley,,,950,"creek, branch",*kaɣá,,
+pdh-950-1-1,pdh,Proto-Dhegiha,,,950,"creek, branch",*kaxá,,
+la-950-1-1,la,Lakota,lako1247,lkt,950,"creek, branch",čhąkáɣa,b[119a],
+wi-950-1-1,wi,Hoocąk,hoch1243,win,950,"creek, branch",wáixa,km[3320],
+wi-950-1-2,wi,Hoocąk,hoch1243,win,950,"creek, branch",waixa,,
+op-950-1-1,op,Omaha-Ponca,omah1247,oma,950,"creek, branch",nígaxa,sw[24],
+ks-950-1-1,ks,Kanza/Kaw,kans1243,ksk,950,"creek, branch",gaxá,rr,
+os-950-1-1,os,Osage,osag1243,osa,950,"creek, branch",gaxá,lf[48a],

@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-757-1-1,psi,Proto-Siouan,,sio,757,grass (4),*xá•tE,,
+pma-757-1-1,pma,Pre-Mandan,,,757,grass (4),*-xąʔtE,,
+pmv-757-1-1,pmv,Proto-Mississipi-Valley,,,757,grass (4),*xá•te ~ *xą́te,,
+ma-757-1-1,ma,Mandan,mand1446,mhq,757,grass (4),"kóxąte, kóxąʔte",c,
+pdh-757-1-1,pdh,Proto-Dhegiha,,,757,grass (4),*xá•te,,
+la-757-1-1,la,Lakota,lako1247,lkt,757,grass (4),ḣaƞṫé pepe iyececa,b[192a],
+ch-757-1-1,ch,Chiwere,iowa1245,iow,757,grass (4),xáǰe,jgt92[94],
+op-757-1-1,op,Omaha-Ponca,omah1247,oma,757,grass (4),xá•de,rr,
+ks-757-1-1,ks,Kanza/Kaw,kans1243,ksk,757,grass (4),xáǰe,jod,
+os-757-1-1,os,Osage,osag1243,osa,757,grass (4),xádse,lf[217a],
+bi-757-1-1,bi,Biloxi,bilo1248,bll,757,grass (4),satúti,ds[251a],

@@ -1,0 +1,6 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-257-1-1,pmv,Proto-Mississipi-Valley,,,257,split (3),*šré-ke,,
+la-257-1-1,la,Lakota,lako1247,lkt,257,split (3),šléča,bandd[17],
+wi-257-1-1,wi,Hoocąk,hoch1243,win,257,split (3),gišerék,km[2932],
+wi-257-1-2,wi,Hoocąk,hoch1243,win,257,split (3),gišerek,,
+qu-257-1-1,qu,Quapaw,quap1242,qua,257,split (3),štéke,jod,

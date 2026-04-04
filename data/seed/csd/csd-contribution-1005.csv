@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-1005-1-1,pmv,Proto-Mississipi-Valley,,,1005,calm,*-w-ráke,,
+pda-1005-1-1,pda,Proto-Dakota,,,1005,calm,*awráke-,,
+pdh-1005-1-1,pdh,Proto-Dhegiha,,,1005,calm,*-brake,,
+la-1005-1-1,la,Lakota,lako1247,lkt,1005,calm,ablákela,b[54a],
+da-1005-1-1,da,Dakota,dako1258,dak,1005,calm,amdákedaŋ,r[32a],
+wi-1005-1-1,wi,Hoocąk,hoch1243,win,1005,calm,hatak,marino[239],
+wi-1005-1-2,wi,Hoocąk,hoch1243,win,1005,calm,"hadak, hadakdji",,
+ks-1005-1-1,ks,Kanza/Kaw,kans1243,ksk,1005,calm,oyáblage ~ oyágable,rr,
+os-1005-1-1,os,Osage,osag1243,osa,1005,calm,uthúbthage,lf[178b],

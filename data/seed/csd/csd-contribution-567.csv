@@ -1,0 +1,9 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-567-1-1,psi,Proto-Siouan,,sio,567,moist (2),*takį́ (?),,
+pmv-567-1-1,pmv,Proto-Mississipi-Valley,,,567,moist (2),*tkį,,
+cr-567-1-1,cr,Crow,crow1244,cro,567,moist (2),tatassači,rg,
+pdh-567-1-1,pdh,Proto-Dhegiha,,,567,moist (2),*htį,,
+la-567-1-1,la,Lakota,lako1247,lkt,567,moist (2),otkį́,eb[409a],
+la-567-1-2,la,Lakota,lako1247,lkt,567,moist (2),otk̇iŋ´,,
+op-567-1-1,op,Omaha-Ponca,omah1247,oma,567,moist (2),tiⁿ,mjs[121],
+os-567-1-1,os,Osage,osag1243,osa,567,moist (2),ṭsiⁿ,lf[163a],

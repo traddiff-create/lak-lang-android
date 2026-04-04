@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-202-1-1,pmv,Proto-Mississipi-Valley,,,202,stiff,*sáta,,
+pda-202-1-1,pda,Proto-Dakota,,,202,stiff,*sáta,,
+pwc-202-1-1,pwc,Proto-Hoocąk-Chiwere,,,202,stiff,*sata,,
+pdh-202-1-1,pdh,Proto-Dhegiha,,,202,stiff,*sáta,,
+la-202-1-1,la,Lakota,lako1247,lkt,202,stiff,sáta,c,
+da-202-1-1,da,Dakota,dako1258,dak,202,stiff,sáta,r[431b],
+ch-202-1-1,ch,Chiwere,iowa1245,iow,202,stiff,watháda,jgt92[86],
+wi-202-1-1,wi,Hoocąk,hoch1243,win,202,stiff,ksáač,km[1889],
+wi-202-1-2,wi,Hoocąk,hoch1243,win,202,stiff,ksaac,,
+ks-202-1-1,ks,Kanza/Kaw,kans1243,ksk,202,stiff,sáda,rr,
+os-202-1-1,os,Osage,osag1243,osa,202,stiff,"çáda, çadá",lf[29a],

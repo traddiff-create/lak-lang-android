@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-1055-1-1,pmv,Proto-Mississipi-Valley,,,1055,brave (3),*wašóše,,
+pda-1055-1-1,pda,Proto-Dakota,,,1055,brave (3),*wašóše,,
+pdh-1055-1-1,pdh,Proto-Dhegiha,,,1055,brave (3),*wašóše,,
+la-1055-1-1,la,Lakota,lako1247,lkt,1055,brave (3),wašóše,c,
+ch-1055-1-1,ch,Chiwere,iowa1245,iow,1055,brave (3),"wa•só•se, wa•sóse",rr,
+wi-1055-1-1,wi,Hoocąk,hoch1243,win,1055,brave (3),wašošé,km[3491],
+wi-1055-1-2,wi,Hoocąk,hoch1243,win,1055,brave (3),wašoše,,
+op-1055-1-1,op,Omaha-Ponca,omah1247,oma,1055,brave (3),washúshe,sw[24],
+os-1055-1-1,os,Osage,osag1243,osa,1055,brave (3),washóshe,lf[199b],

@@ -1,0 +1,13 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-481-1-1,pmv,Proto-Mississipi-Valley,,,481,"pole(s), lodge",*htí•šu,,
+pwc-481-1-1,pwc,Proto-Hoocąk-Chiwere,,,481,"pole(s), lodge",*thí•šu,,
+pdh-481-1-1,pdh,Proto-Dhegiha,,,481,"pole(s), lodge",*htíšü,,
+la-481-1-1,la,Lakota,lako1247,lkt,481,"pole(s), lodge",thušúhu,ej,
+ch-481-1-1,ch,Chiwere,iowa1245,iow,481,"pole(s), lodge","čhíšu, čhíšų",gmsf,
+wi-481-1-1,wi,Hoocąk,hoch1243,win,481,"pole(s), lodge",čiišú,km[246],
+wi-481-1-2,wi,Hoocąk,hoch1243,win,481,"pole(s), lodge",ciišu,,
+op-481-1-1,op,Omaha-Ponca,omah1247,oma,481,"pole(s), lodge",ttíši,,
+op-481-1-2,op,Omaha-Ponca,omah1247,oma,481,"pole(s), lodge",ṭíci,,
+ks-481-1-1,ks,Kanza/Kaw,kans1243,ksk,481,"pole(s), lodge",ččíšü ~ ččǘšü,rr,
+os-481-1-1,os,Osage,osag1243,osa,481,"pole(s), lodge",ṭsishi,lf[163a],
+qu-481-1-1,qu,Quapaw,quap1242,qua,481,"pole(s), lodge",ttíši,jod,

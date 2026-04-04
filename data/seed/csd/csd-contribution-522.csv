@@ -1,0 +1,13 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-522-1-1,psi,Proto-Siouan,,sio,522,"old, mature",*rų́•,,
+pse-522-1-1,pse,Proto-Southeastern,,,522,"old, mature",*nǫ́•-,,
+pda-522-1-1,pda,Proto-Dakota,,,522,"old, mature",*-nų-,,
+la-522-1-1,la,Lakota,lako1247,lkt,522,"old, mature",winų́xča,c,
+ya-522-1-1,ya,Yanktonai,dako1258,dak,522,"old, mature",winóḣća,r[577a],
+ch-522-1-1,ch,Chiwere,iowa1245,iow,522,"old, mature","nú, nún",jgt92[51],
+ch-522-2-1,ch,Chiwere,iowa1245,iow,522,"old, mature",núñyegi,jgt92[51],
+os-522-1-1,os,Osage,osag1243,osa,522,"old, mature",nǫ́hǫ,lf[114b],
+qu-522-1-1,qu,Quapaw,quap1242,qua,522,"old, mature",ną́hą,jod,
+bi-522-1-1,bi,Biloxi,bilo1248,bll,522,"old, mature",noxtí,ds[238a],
+tu-522-1-1,tu,Tutelo,tute1247,tta,522,"old, mature",enóⁿ oⁿq,hw,
+tu-522-1-2,tu,Tutelo,tute1247,tta,522,"old, mature",minoⁿonq,jod;hw,

@@ -1,0 +1,9 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-129-1-1,psi,Proto-Siouan,,sio,129,thunder (2),*tú•ha,,
+pch-129-1-1,pch,Proto-Crow-Hidatsa,,,129,thunder (2),*tú•ha,,
+pse-129-1-1,pse,Proto-Southeastern,,,129,thunder (2),*tú•ha ~ *tú•he,,
+cr-129-1-1,cr,Crow,crow1244,cro,129,thunder (2),súua,rg,
+cr-129-1-2,cr,Crow,crow1244,cro,129,thunder (2),suú,gg[56];dec[7],
+hi-129-1-1,hi,Hidatsa,hida1246,hid,129,thunder (2),tahú ~ táhu,j,
+bi-129-1-1,bi,Biloxi,bilo1248,bll,129,thunder (2),"ṭuhé, ṭúhe",ds[281b],
+tu-129-1-1,tu,Tutelo,tute1247,tta,129,thunder (2),"tūi, tūhangrūa",h,

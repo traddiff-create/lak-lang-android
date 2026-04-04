@@ -1,0 +1,4 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-1107-1-1,psi,Proto-Siouan,,sio,1107,bend (7),*SiSi-,,
+cr-1107-1-1,cr,Crow,crow1244,cro,1107,bend (7),shísshia,rg;gg[56],
+bi-1107-1-1,bi,Biloxi,bilo1248,bll,1107,bend (7),sĭsí,ds[256a],

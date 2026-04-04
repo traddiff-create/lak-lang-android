@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-1027-1-1,pmv,Proto-Mississipi-Valley,,,1027,brush (vegetation),*xrá•pe,,
+pwc-1027-1-1,pwc,Proto-Hoocąk-Chiwere,,,1027,brush (vegetation),*-xrá•pe,,
+pdh-1027-1-1,pdh,Proto-Dhegiha,,,1027,brush (vegetation),*xrápe,,
+ch-1027-1-1,ch,Chiwere,iowa1245,iow,1027,brush (vegetation),xrá•we,jdh,
+wi-1027-1-1,wi,Hoocąk,hoch1243,win,1027,brush (vegetation),xatáp,km[3861],
+wi-1027-1-2,wi,Hoocąk,hoch1243,win,1027,brush (vegetation),xatap,,
+op-1027-1-1,op,Omaha-Ponca,omah1247,oma,1027,brush (vegetation),xðábe,rr,
+ks-1027-1-1,ks,Kanza/Kaw,kans1243,ksk,1027,brush (vegetation),xlábe,rr,
+os-1027-1-1,os,Osage,osag1243,osa,1027,brush (vegetation),xthabe,lf[219b],

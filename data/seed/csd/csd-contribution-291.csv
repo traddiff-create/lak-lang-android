@@ -1,0 +1,7 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pch-291-1-1,pch,Proto-Crow-Hidatsa,,,291,snow (2),*-hpi,,
+pma-291-1-1,pma,Pre-Mandan,,,291,snow (2),*-kpe (?),,
+cr-291-1-1,cr,Crow,crow1244,cro,291,snow (2),bíihpi,gg[29];dec[6],
+hi-291-1-1,hi,Hidatsa,hida1246,hid,291,snow (2),wa• + hpi,j,
+hi-291-1-2,hi,Hidatsa,hida1246,hid,291,snow (2),ma•hpi,,
+ma-291-1-1,ma,Mandan,mand1446,mhq,291,snow (2),kapkéʔ,c,

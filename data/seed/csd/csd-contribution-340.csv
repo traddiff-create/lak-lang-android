@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-340-1-1,pmv,Proto-Mississipi-Valley,,,340,shoulder > scapula,*á•wro,,
+pda-340-1-1,pda,Proto-Dakota,,,340,shoulder > scapula,*awró,,
+pdh-340-1-1,pdh,Proto-Dhegiha,,,340,shoulder > scapula,*ábro,,
+la-340-1-1,la,Lakota,lako1247,lkt,340,shoulder > scapula,abló,b[54b],
+da-340-1-1,da,Dakota,dako1258,dak,340,shoulder > scapula,amdó,r[32b],
+ch-340-1-1,ch,Chiwere,iowa1245,iow,340,shoulder > scapula,á•bro,rr,
+ks-340-1-1,ks,Kanza/Kaw,kans1243,ksk,340,shoulder > scapula,abló,rr,
+os-340-1-1,os,Osage,osag1243,osa,340,shoulder > scapula,ábtho,lf[6b],
+qu-340-1-1,qu,Quapaw,quap1242,qua,340,shoulder > scapula,ábdo ~ abdó,jod,

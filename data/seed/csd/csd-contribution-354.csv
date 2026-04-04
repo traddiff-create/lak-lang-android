@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-354-1-1,psi,Proto-Siouan,,sio,354,sharp (1),*pusa,,
+pch-354-1-1,pch,Proto-Crow-Hidatsa,,,354,sharp (1),*apcá,,
+ca-354-1-1,ca,Catawba,cata1286,chc,354,sharp (1),pαsé’,sp,
+cr-354-1-1,cr,Crow,crow1244,cro,354,sharp (1),attá,gg[105],
+hi-354-1-1,hi,Hidatsa,hida1246,hid,354,sharp (1),apcá,j,
+hi-354-1-2,hi,Hidatsa,hida1246,hid,354,sharp (1),wiʔpcá,j,
+hi-354-1-3,hi,Hidatsa,hida1246,hid,354,sharp (1),miʔipcá,wm,
+hi-354-1-4,hi,Hidatsa,hida1246,hid,354,sharp (1),maĭptsa,,
+bi-354-1-1,bi,Biloxi,bilo1248,bll,354,sharp (1),"pû´tsa, pŭtsa, pŭtsŭ, pŭtsí",ds[250a],

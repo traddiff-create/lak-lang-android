@@ -1,0 +1,9 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-1182-1-1,pmv,Proto-Mississipi-Valley,,,1182,"Pawnee, Arikara",*hpá•-rį (?),,
+pdh-1182-1-1,pdh,Proto-Dhegiha,,,1182,"Pawnee, Arikara",*hpárį,,
+la-1182-1-1,la,Lakota,lako1247,lkt,1182,"Pawnee, Arikara",phaláni,rtc,
+wi-1182-1-1,wi,Hoocąk,hoch1243,win,1182,"Pawnee, Arikara",paanį́,km[2429],
+wi-1182-1-2,wi,Hoocąk,hoch1243,win,1182,"Pawnee, Arikara",paanį,,
+op-1182-1-1,op,Omaha-Ponca,omah1247,oma,1182,"Pawnee, Arikara",páthiⁿ,flf[102],
+ks-1182-1-1,ks,Kanza/Kaw,kans1243,ksk,1182,"Pawnee, Arikara",ppáyį,rr,
+os-1182-1-1,os,Osage,osag1243,osa,1182,"Pawnee, Arikara",p̣áthiⁿ,lf[126a],

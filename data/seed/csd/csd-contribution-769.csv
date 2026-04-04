@@ -1,0 +1,13 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-769-1-1,psi,Proto-Siouan,,sio,769,"good (4), heal",*ki-sí,,
+pmv-769-1-1,pmv,Proto-Mississipi-Valley,,,769,"good (4), heal",*zi,,
+ca-769-1-1,ca,Catawba,cata1286,chc,769,"good (4), heal",ó•tsiə,,
+hi-769-1-1,hi,Hidatsa,hida1246,hid,769,"good (4), heal",kiši,j,
+hi-769-1-2,hi,Hidatsa,hida1246,hid,769,"good (4), heal",nahkiši,,
+ma-769-1-1,ma,Mandan,mand1446,mhq,769,"good (4), heal",kišíhere,h[227],
+da-769-1-1,da,Dakota,dako1258,dak,769,"good (4), heal",okízi,r[371a],
+da-769-1-2,da,Dakota,dako1258,dak,769,"good (4), heal",ózi,r[400b],
+wi-769-1-1,wi,Hoocąk,hoch1243,win,769,"good (4), heal",xgąązí gíi,km[3898],
+wi-769-1-2,wi,Hoocąk,hoch1243,win,769,"good (4), heal",xgąązi kįį,,
+op-769-1-1,op,Omaha-Ponca,omah1247,oma,769,"good (4), heal",zéawáðe-tta,,
+op-769-1-2,op,Omaha-Ponca,omah1247,oma,769,"good (4), heal",ʔą́zi-ągiðé,,

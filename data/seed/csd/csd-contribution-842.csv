@@ -1,0 +1,9 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-842-1-1,pmv,Proto-Mississipi-Valley,,,842,field (1),*o-e,,
+pdh-842-1-1,pdh,Proto-Dhegiha,,,842,field (1),*ówe,,
+ch-842-1-1,ch,Chiwere,iowa1245,iow,842,field (1),uwé,jdh,
+wi-842-1-1,wi,Hoocąk,hoch1243,win,842,field (1),horé,,
+wi-842-1-2,wi,Hoocąk,hoch1243,win,842,field (1),hore,,
+op-842-1-1,op,Omaha-Ponca,omah1247,oma,842,field (1),úwe~ uwé,sw[47],
+os-842-1-1,os,Osage,osag1243,osa,842,field (1),úwe,lf[181a],
+qu-842-1-1,qu,Quapaw,quap1242,qua,842,field (1),ówe,jod,

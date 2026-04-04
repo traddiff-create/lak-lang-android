@@ -1,0 +1,13 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-600-1-1,psi,Proto-Siouan,,sio,600,"loose, knock loose",*-hó•,,
+pma-600-1-1,pma,Pre-Mandan,,,600,"loose, knock loose",*kaho•-,,
+pmv-600-1-1,pmv,Proto-Mississipi-Valley,,,600,"loose, knock loose",*kahó,,
+cr-600-1-1,cr,Crow,crow1244,cro,600,"loose, knock loose",hóhpi,gg[48],
+ma-600-1-1,ma,Mandan,mand1446,mhq,600,"loose, knock loose",kahó•roʔš,c,
+pda-600-1-1,pda,Proto-Dakota,,,600,"loose, knock loose",*kahóho,,
+la-600-1-1,la,Lakota,lako1247,lkt,600,"loose, knock loose",kahóho,b[247a],
+da-600-1-1,da,Dakota,dako1258,dak,600,"loose, knock loose",kahóho,r[250a],
+wi-600-1-1,wi,Hoocąk,hoch1243,win,600,"loose, knock loose",gihó,km[345],
+wi-600-1-2,wi,Hoocąk,hoch1243,win,600,"loose, knock loose",giho,,
+os-600-1-1,os,Osage,osag1243,osa,600,"loose, knock loose",gahóshoⁿuha,lf[46a],
+bi-600-1-1,bi,Biloxi,bilo1248,bll,600,"loose, knock loose",ktahó,ds[214b],

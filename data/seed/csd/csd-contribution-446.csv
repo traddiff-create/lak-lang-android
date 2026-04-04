@@ -1,0 +1,9 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-446-1-1,psi,Proto-Siouan,,sio,446,rattle (2a),*surą́he,,
+ca-446-1-1,ca,Catawba,cata1286,chc,446,rattle (2a),sę́səreʔha,sp[88b],
+ca-446-1-2,ca,Catawba,cata1286,chc,446,rattle (2a),səréʔsəreʔhowe,sp[92],
+pda-446-1-1,pda,Proto-Dakota,,,446,rattle (2a),*sná,,
+la-446-1-1,la,Lakota,lako1247,lkt,446,rattle (2a),sná,c,
+la-446-1-2,la,Lakota,lako1247,lkt,446,rattle (2a),sná,ej,
+da-446-1-1,da,Dakota,dako1258,dak,446,rattle (2a),sná,r[437a],
+bi-446-1-1,bi,Biloxi,bilo1248,bll,446,rattle (2a),"sûnawí, sûnâhé",ds[258b],

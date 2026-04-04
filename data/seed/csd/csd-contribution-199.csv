@@ -1,0 +1,11 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-199-1-1,psi,Proto-Siouan,,sio,199,stink (3),*yą́ɣe,,
+pmv-199-1-1,pmv,Proto-Mississipi-Valley,,,199,stink (3),*yą́ɣe,,
+pwc-199-1-1,pwc,Proto-Hoocąk-Chiwere,,,199,stink (3),*ną́xe,,
+la-199-1-1,la,Lakota,lako1247,lkt,199,stink (3),wačhą́ɣa,ej,
+ch-199-1-1,ch,Chiwere,iowa1245,iow,199,stink (3),ną́xe,marsh,
+wi-199-1-1,wi,Hoocąk,hoch1243,win,199,stink (3),ną́ąx,km[2262],
+wi-199-1-2,wi,Hoocąk,hoch1243,win,199,stink (3),nąąx,,
+ks-199-1-1,ks,Kanza/Kaw,kans1243,ksk,199,stink (3),mažą́ɣe,rr,
+bi-199-1-1,bi,Biloxi,bilo1248,bll,199,stink (3),yaⁿxí,ds[290b],
+bi-199-1-2,bi,Biloxi,bilo1248,bll,199,stink (3),nto yaⁿxí,ds[290b],

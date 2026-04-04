@@ -1,0 +1,8 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-120-1-1,psi,Proto-Siouan,,sio,120,tooth (2),*í•h-Sa (?),,
+pch-120-1-1,pch,Proto-Crow-Hidatsa,,,120,tooth (2),*ihša,,
+cr-120-1-1,cr,Crow,crow1244,cro,120,tooth (2),ihtá,gg[75];dec[72],
+hi-120-1-1,hi,Hidatsa,hida1246,hid,120,tooth (2),í•šša,j,
+pbo-120-1-1,pbo,Proto-Biloxi-Ofo,,,120,tooth (2),*í•hsa (?),,
+bi-120-1-1,bi,Biloxi,bilo1248,bll,120,tooth (2),"iⁿsú, iⁿ´su",ds[203a],
+of-120-1-1,of,Ofo,ofoo1242,ofo,120,tooth (2),ī´fha,ds[323b];ssf,

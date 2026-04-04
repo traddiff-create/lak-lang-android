@@ -1,0 +1,11 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-21-1-1,pmv,Proto-Mississipi-Valley,,,21,"wipe, rub, scour",*-kha,,
+pwc-21-1-1,pwc,Proto-Hoocąk-Chiwere,,,21,"wipe, rub, scour",*-khá,,
+pdh-21-1-1,pdh,Proto-Dhegiha,,,21,"wipe, rub, scour",*pü-khá,,
+ch-21-1-1,ch,Chiwere,iowa1245,iow,21,"wipe, rub, scour",khála,,
+wi-21-1-1,wi,Hoocąk,hoch1243,win,21,"wipe, rub, scour",waká,km[3335],
+wi-21-1-2,wi,Hoocąk,hoch1243,win,21,"wipe, rub, scour",waka,,
+op-21-1-1,op,Omaha-Ponca,omah1247,oma,21,"wipe, rub, scour",bíka,sw[189],
+ks-21-1-1,ks,Kanza/Kaw,kans1243,ksk,21,"wipe, rub, scour",bükhábe,,
+os-21-1-1,os,Osage,osag1243,osa,21,"wipe, rub, scour",biká,lf[27a],
+qu-21-1-1,qu,Quapaw,quap1242,qua,21,"wipe, rub, scour",bikhá,jod,

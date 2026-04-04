@@ -1,0 +1,9 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-906-1-1,pmv,Proto-Mississipi-Valley,,,906,dive,*krų́kE,,
+pda-906-1-1,pda,Proto-Dakota,,,906,dive,*kiknų́ka,,
+pdh-906-1-1,pdh,Proto-Dhegiha,,,906,dive,*krą́ke,,
+la-906-1-1,la,Lakota,lako1247,lkt,906,dive,kignų́ka,b[306a],
+da-906-1-1,da,Dakota,dako1258,dak,906,dive,kihnuka,wm[52a],
+op-906-1-1,op,Omaha-Ponca,omah1247,oma,906,dive,gthóⁿge,sw[61],
+ks-906-1-1,ks,Kanza/Kaw,kans1243,ksk,906,dive,lą́ge,rr,
+os-906-1-1,os,Osage,osag1243,osa,906,dive,gthóⁿge,lf[257a],

@@ -1,0 +1,8 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-338-1-1,psi,Proto-Siouan,,sio,338,show,*owį́he,,
+pch-338-1-1,pch,Proto-Crow-Hidatsa,,,338,show,*ó•wia < *ó•wihe,,
+pma-338-1-1,pma,Pre-Mandan,,,338,show,*owįh-,,
+cr-338-1-1,cr,Crow,crow1244,cro,338,show,óowia,gg[52],
+cr-338-1-2,cr,Crow,crow1244,cro,338,show,óowee,gg[52],
+hi-338-1-1,hi,Hidatsa,hida1246,hid,338,show,ó•wia,j,
+ma-338-1-1,ma,Mandan,mand1446,mhq,338,show,owį́hoʔš,c,

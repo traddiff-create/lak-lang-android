@@ -1,0 +1,5 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psc-1200-1-1,psc,Proto-Siouan-Catawba,,,1200,1st plural (exclusive?),*rų,,
+ca-1200-1-1,ca,Catawba,cata1286,chc,1200,1st plural (exclusive?),"-nǫ-, -nų-, do-",voorhis[4];ks,
+ma-1200-1-1,ma,Mandan,mand1446,mhq,1200,1st plural (exclusive?),"rų-, r-V",c,
+tu-1200-1-1,tu,Tutelo,tute1247,tta,1200,1st plural (exclusive?),mīwa-nu-htākan,,

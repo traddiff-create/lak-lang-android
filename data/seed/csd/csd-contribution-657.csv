@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pda-657-1-1,pda,Proto-Dakota,,,657,jealous,*na-_wizi,,
+pwc-657-1-1,pwc,Proto-Hoocąk-Chiwere,,,657,jealous,*ną́ąʔįzį,,
+pdh-657-1-1,pdh,Proto-Dhegiha,,,657,jealous,*ną́wązi,,
+la-657-1-1,la,Lakota,lako1247,lkt,657,jealous,nawízi,b[362b],
+da-657-1-1,da,Dakota,dako1258,dak,657,jealous,nawízi,r[339b],
+ch-657-1-1,ch,Chiwere,iowa1245,iow,657,jealous,ñįyeðį,lwr,
+ch-657-1-2,ch,Chiwere,iowa1245,iow,657,jealous,"ñĩthi, niyẽnthin",,
+wi-657-1-1,wi,Hoocąk,hoch1243,win,657,jealous,nąąʔį́zį,km[2114],
+wi-657-1-2,wi,Hoocąk,hoch1243,win,657,jealous,nąą’įzį,,
+op-657-1-1,op,Omaha-Ponca,omah1247,oma,657,jealous,noⁿwoⁿçi,sw[105],
+os-657-1-1,os,Osage,osag1243,osa,657,jealous,"noⁿ´woⁿçi, nǫ́wǫzi",,

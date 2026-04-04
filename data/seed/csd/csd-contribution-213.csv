@@ -1,0 +1,11 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-213-1-1,pmv,Proto-Mississipi-Valley,,,213,star (2),*Wi•hkáx(-ʔe/-pi),,
+pda-213-1-1,pda,Proto-Dakota,,,213,star (2),*wičháxpi,,
+pdh-213-1-1,pdh,Proto-Dhegiha,,,213,star (2),*mihkáxʔe,,
+la-213-1-1,la,Lakota,lako1247,lkt,213,star (2),wičháxpi,c,
+da-213-1-1,da,Dakota,dako1258,dak,213,star (2),wićáŋḣpi,r[568a],
+ch-213-1-1,ch,Chiwere,iowa1245,iow,213,star (2),bi•kháxʔe,rr,
+op-213-1-1,op,Omaha-Ponca,omah1247,oma,213,star (2),mikkáʔe,rr,
+ks-213-1-1,ks,Kanza/Kaw,kans1243,ksk,213,star (2),mikkákʔe,rr,
+os-213-1-1,os,Osage,osag1243,osa,213,star (2),mihkákʔe,rr,
+qu-213-1-1,qu,Quapaw,quap1242,qua,213,star (2),mikkáxʔe,rr,

@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psc-1021-1-1,psc,Proto-Siouan-Catawba,,,1021,burn (4),*wira,,
+psi-1021-1-1,psi,Proto-Siouan,,sio,1021,burn (4),*wirá•,,
+pch-1021-1-1,pch,Proto-Crow-Hidatsa,,,1021,burn (4),*wiráʔ,,
+pma-1021-1-1,pma,Pre-Mandan,,,1021,burn (4),*:wra,,
+ca-1021-1-1,ca,Catawba,cata1286,chc,1021,burn (4),wi•rą,ks,
+cr-1021-1-1,cr,Crow,crow1244,cro,1021,burn (4),biláa,rg;gg[30];dec[49],
+hi-1021-1-1,hi,Hidatsa,hida1246,hid,1021,burn (4),wiráʔ,j,
+hi-1021-1-2,hi,Hidatsa,hida1246,hid,1021,burn (4),miráʔ,,
+ma-1021-1-1,ma,Mandan,mand1446,mhq,1021,burn (4),"wára, wáraʔ",c,

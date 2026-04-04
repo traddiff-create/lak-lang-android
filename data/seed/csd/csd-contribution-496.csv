@@ -1,0 +1,9 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-496-1-1,psi,Proto-Siouan,,sio,496,peel (6),*raka-xipE,,
+pch-496-1-1,pch,Proto-Crow-Hidatsa,,,496,peel (6),*raka-xipE,,
+cr-496-1-1,cr,Crow,crow1244,cro,496,peel (6),daxxípi,rg,
+hi-496-1-1,hi,Hidatsa,hida1246,hid,496,peel (6),náxxipE,awj,
+ma-496-1-1,ma,Mandan,mand1446,mhq,496,peel (6),kaxípoʔš,rh[315],
+ma-496-1-2,ma,Mandan,mand1446,mhq,496,peel (6),kašípoʔš,c,
+la-496-1-1,la,Lakota,lako1247,lkt,496,peel (6),kažípA,eb[279],
+da-496-1-1,da,Dakota,dako1258,dak,496,peel (6),kaz´ípa,r[274b],

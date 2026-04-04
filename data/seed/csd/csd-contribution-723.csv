@@ -1,0 +1,8 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-723-1-1,pmv,Proto-Mississipi-Valley,,,723,haul,*hto-,,
+pdh-723-1-1,pdh,Proto-Dhegiha,,,723,haul,*htókrą,,
+la-723-1-1,la,Lakota,lako1247,lkt,723,haul,thokšú,b[499a];ej,
+op-723-1-1,op,Omaha-Ponca,omah1247,oma,723,haul,"tugthoⁿ, watugthoⁿ",sw[93],
+ks-723-1-1,ks,Kanza/Kaw,kans1243,ksk,723,haul,"ttólą, wattólą",rr,
+os-723-1-1,os,Osage,osag1243,osa,723,haul,tógthoⁿ,lf[155a],
+bi-723-1-1,bi,Biloxi,bilo1248,bll,723,haul,ákĭtŭpé,ds[209b],

@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-1202-1-1,pmv,Proto-Mississipi-Valley,,,1202,1st inclusive patient prefix,*wa- -wa,,
+pwc-1202-1-1,pwc,Proto-Hoocąk-Chiwere,,,1202,1st inclusive patient prefix,*(wa-) -wa,,
+pdh-1202-1-1,pdh,Proto-Dhegiha,,,1202,1st inclusive patient prefix,*wa- -a,rr,
+ch-1202-1-1,ch,Chiwere,iowa1245,iow,1202,1st inclusive patient prefix,wa•wá-,rr,
+wi-1202-1-1,wi,Hoocąk,hoch1243,win,1202,1st inclusive patient prefix,-(h)a-,marten;susman;lipkind,
+wi-1202-1-2,wi,Hoocąk,hoch1243,win,1202,1st inclusive patient prefix,-(h)a-,,
+op-1202-1-1,op,Omaha-Ponca,omah1247,oma,1202,1st inclusive patient prefix,wa- -a,,
+ks-1202-1-1,ks,Kanza/Kaw,kans1243,ksk,1202,1st inclusive patient prefix,wa-,,
+os-1202-1-1,os,Osage,osag1243,osa,1202,1st inclusive patient prefix,wa-,,
+qu-1202-1-1,qu,Quapaw,quap1242,qua,1202,1st inclusive patient prefix,wa-,,
+tu-1202-1-1,tu,Tutelo,tute1247,tta,1202,1st inclusive patient prefix,"wai-, wae-, mai-, mae-",h,

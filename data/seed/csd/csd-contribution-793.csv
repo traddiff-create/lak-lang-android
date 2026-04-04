@@ -1,0 +1,8 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-793-1-1,psi,Proto-Siouan,,sio,793,frost (1),*waxo•,,
+pch-793-1-1,pch,Proto-Crow-Hidatsa,,,793,frost (1),*waxó•raki,,
+cr-793-1-1,cr,Crow,crow1244,cro,793,frost (1),bixóolichi,,
+hi-793-1-1,hi,Hidatsa,hida1246,hid,793,frost (1),waxó•raki,j,
+hi-793-1-2,hi,Hidatsa,hida1246,hid,793,frost (1),maxó•raki,,
+ma-793-1-1,ma,Mandan,mand1446,mhq,793,frost (1),xó•re,c,
+ma-793-1-2,ma,Mandan,mand1446,mhq,793,frost (1),ice,,

@@ -1,0 +1,6 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-972-1-1,psi,Proto-Siouan,,sio,972,cook,*-htáke,,
+pma-972-1-1,pma,Pre-Mandan,,,972,cook,*-tak-,,
+ma-972-1-1,ma,Mandan,mand1446,mhq,972,cook,dátakoʔš,c,
+wi-972-1-1,wi,Hoocąk,hoch1243,win,972,cook,"-cák, wa-",km[3243],
+wi-972-1-2,wi,Hoocąk,hoch1243,win,972,cook,wacak,,

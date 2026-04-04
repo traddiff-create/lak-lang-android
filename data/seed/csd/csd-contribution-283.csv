@@ -1,0 +1,6 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-283-1-1,pmv,Proto-Mississipi-Valley,,,283,soldier,*a-hkíta,,
+pdh-283-1-1,pdh,Proto-Dhegiha,,,283,soldier,*áhkita,,
+la-283-1-1,la,Lakota,lako1247,lkt,283,soldier,akíčhita,c,
+ks-283-1-1,ks,Kanza/Kaw,kans1243,ksk,283,soldier,ákkida,rr,
+os-283-1-1,os,Osage,osag1243,osa,283,soldier,áḳida,lf[11a],

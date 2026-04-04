@@ -1,0 +1,5 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pch-829-1-1,pch,Proto-Crow-Hidatsa,,,829,flat (3),*xá•pi,,
+cr-829-1-1,cr,Crow,crow1244,cro,829,flat (3),xáapi,rg;gg[60];dec[98],
+hi-829-1-1,hi,Hidatsa,hida1246,hid,829,flat (3),xá•pi,j,
+bi-829-1-1,bi,Biloxi,bilo1248,bll,829,flat (3),xapká,ds[225a],

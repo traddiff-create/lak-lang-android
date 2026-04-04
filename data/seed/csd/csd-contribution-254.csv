@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-254-1-1,pmv,Proto-Mississipi-Valley,,,254,split (6),*-ɣátV,,
+pda-254-1-1,pda,Proto-Dakota,,,254,split (6),*-ɣáta,,
+pdh-254-1-1,pdh,Proto-Dhegiha,,,254,split (6),*ɣáhta < *ɣát-ka,,
+la-254-1-1,la,Lakota,lako1247,lkt,254,split (6),"gálgata, ya-",b[618],
+la-254-1-2,la,Lakota,lako1247,lkt,254,split (6),"gáta, ka-",b[272],
+la-254-1-3,la,Lakota,lako1247,lkt,254,split (6),"gáta, na-",b[342],
+la-254-1-4,la,Lakota,lako1247,lkt,254,split (6),"gáta, wa-",b[515],
+la-254-1-5,la,Lakota,lako1247,lkt,254,split (6),"gáta, yu-",b[636],
+da-254-1-1,da,Dakota,dako1258,dak,254,split (6),ġáta,r[120b],
+ks-254-1-1,ks,Kanza/Kaw,kans1243,ksk,254,split (6),wahǘkka ɣátta,rr,
+qu-254-1-1,qu,Quapaw,quap1242,qua,254,split (6),"-ɣáttą, di-",rr,

@@ -1,0 +1,8 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-693-1-1,pmv,Proto-Mississipi-Valley,,,693,hold back,*-tʔo,,
+pdh-693-1-1,pdh,Proto-Dhegiha,,,693,hold back,*-tʔo,,
+la-693-1-1,la,Lakota,lako1247,lkt,693,hold back,"tʔo, éʔiyapa-",ej,
+la-693-1-2,la,Lakota,lako1247,lkt,693,hold back,"tʔo, paʔíyapa-",b[427],
+op-693-1-1,op,Omaha-Ponca,omah1247,oma,693,hold back,iðábatʔo,,
+os-693-1-1,os,Osage,osag1243,osa,693,hold back,ábaṭ’u,lf[6a],
+qu-693-1-1,qu,Quapaw,quap1242,qua,693,hold back,ábatʔo,rr,

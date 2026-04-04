@@ -1,0 +1,9 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pda-454-1-1,pda,Proto-Dakota,,,454,quiver (for arrows),*wą́žu,,
+pdh-454-1-1,pdh,Proto-Dhegiha,,,454,quiver (for arrows),*mą́-ožü,rr,
+la-454-1-1,la,Lakota,lako1247,lkt,454,quiver (for arrows),wą́žu,c,
+da-454-1-1,da,Dakota,dako1258,dak,454,quiver (for arrows),wáŋżu,r[527a],
+op-454-1-1,op,Omaha-Ponca,omah1247,oma,454,quiver (for arrows),moⁿ´zhiha,sw[143],
+ks-454-1-1,ks,Kanza/Kaw,kans1243,ksk,454,quiver (for arrows),mą́žü,rr,
+os-454-1-1,os,Osage,osag1243,osa,454,quiver (for arrows),moⁿ´zhu,lf[104b],
+qu-454-1-1,qu,Quapaw,quap1242,qua,454,quiver (for arrows),mą́oží,jod,

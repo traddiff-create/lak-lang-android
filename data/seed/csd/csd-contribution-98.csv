@@ -1,0 +1,7 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-98-1-1,psi,Proto-Siouan,,sio,98,"twin, pair",*rųSka,,
+pch-98-1-1,pch,Proto-Crow-Hidatsa,,,98,"twin, pair",*rucka,,
+cr-98-1-1,cr,Crow,crow1244,cro,98,"twin, pair",dačká,gg[41],
+hi-98-1-1,hi,Hidatsa,hida1246,hid,98,"twin, pair",rúcka,j,
+hi-98-1-2,hi,Hidatsa,hida1246,hid,98,"twin, pair",núcka,,
+ma-98-1-1,ma,Mandan,mand1446,mhq,98,"twin, pair",rų́xka,h[196],

@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-3-1-1,psi,Proto-Siouan,,sio,3,yes (2),*é•,,
+pch-3-1-1,pch,Proto-Crow-Hidatsa,,,3,yes (2),*é•,,
+pmv-3-1-1,pmv,Proto-Mississipi-Valley,,,3,yes (2),*é•,,
+cr-3-1-1,cr,Crow,crow1244,cro,3,yes (2),ée,rg,
+hi-3-1-1,hi,Hidatsa,hida1246,hid,3,yes (2),ée,j,
+wi-3-1-1,wi,Hoocąk,hoch1243,win,3,yes (2),éhą,boasandswanton[935],
+wi-3-1-2,wi,Hoocąk,hoch1243,win,3,yes (2),ehą ?,,
+ks-3-1-1,ks,Kanza/Kaw,kans1243,ksk,3,yes (2),howé,rr,
+os-3-1-1,os,Osage,osag1243,osa,3,yes (2),howé,lf[67b],
+qu-3-1-1,qu,Quapaw,quap1242,qua,3,yes (2),ée,jod,
+qu-3-1-2,qu,Quapaw,quap1242,qua,3,yes (2),hawé,,

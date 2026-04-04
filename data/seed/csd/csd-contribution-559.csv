@@ -1,0 +1,11 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-559-1-1,pmv,Proto-Mississipi-Valley,,,559,mourn,*kikhą́,,
+pda-559-1-1,pda,Proto-Dakota,,,559,mourn,*kičhą́,,
+pdh-559-1-1,pdh,Proto-Dhegiha,,,559,mourn,*kikhą,,
+la-559-1-1,la,Lakota,lako1247,lkt,559,mourn,kičhą́,eb[299b],
+la-559-1-2,la,Lakota,lako1247,lkt,559,mourn,k̇icáŋ,,
+da-559-1-1,da,Dakota,dako1258,dak,559,mourn,kićáŋ,r[277b],
+op-559-1-1,op,Omaha-Ponca,omah1247,oma,559,mourn,gíkhą,,
+op-559-1-2,op,Omaha-Ponca,omah1247,oma,559,mourn,gíkaⁿ,,
+ks-559-1-1,ks,Kanza/Kaw,kans1243,ksk,559,mourn,gikhą́,rr,
+os-559-1-1,os,Osage,osag1243,osa,559,mourn,gíkoⁿ,lf[51a],

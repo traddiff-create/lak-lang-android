@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pma-455-1-1,pma,Pre-Mandan,,,455,quiet; rustle,*í-hap-,,
+pmv-455-1-1,pmv,Proto-Mississipi-Valley,,,455,quiet; rustle,*xá•pE,,
+ma-455-1-1,ma,Mandan,mand1446,mhq,455,quiet; rustle,íhapinista,c,
+pda-455-1-1,pda,Proto-Dakota,,,455,quiet; rustle,*xápA,,
+pwc-455-1-1,pwc,Proto-Hoocąk-Chiwere,,,455,quiet; rustle,*xa•p-,,
+la-455-1-1,la,Lakota,lako1247,lkt,455,quiet; rustle,xápA,b[192a],
+da-455-1-1,da,Dakota,dako1258,dak,455,quiet; rustle,[†xápa],r[162a],
+ch-455-1-1,ch,Chiwere,iowa1245,iow,455,quiet; rustle,xap’are,lwr[38],
+wi-455-1-1,wi,Hoocąk,hoch1243,win,455,quiet; rustle,xaapgų́nį,km[3853],
+wi-455-1-2,wi,Hoocąk,hoch1243,win,455,quiet; rustle,xaapgųnį,,
+bi-455-1-1,bi,Biloxi,bilo1248,bll,455,quiet; rustle,"xyĭ´wahĕ´di, xyuwáhedí",ds[226a],

@@ -1,0 +1,11 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-624-1-1,psi,Proto-Siouan,,sio,624,"lightning, forked (?)",*-karí-,,
+pch-624-1-1,pch,Proto-Crow-Hidatsa,,,624,"lightning, forked (?)",*karíhk-,,
+pmv-624-1-1,pmv,Proto-Mississipi-Valley,,,624,"lightning, forked (?)",*ru-krí,,
+cr-624-1-1,cr,Crow,crow1244,cro,624,"lightning, forked (?)",kalíhčii,rg;gg[50];dec[7],
+hi-624-1-1,hi,Hidatsa,hida1246,hid,624,"lightning, forked (?)",karíhka,j,
+pdh-624-1-1,pdh,Proto-Dhegiha,,,624,"lightning, forked (?)",*-kríze,,
+ch-624-1-1,ch,Chiwere,iowa1245,iow,624,"lightning, forked (?)","luglí, lúgli",marsh,
+op-624-1-1,op,Omaha-Ponca,omah1247,oma,624,"lightning, forked (?)",ðigðíze-mą́ðį,,
+qu-624-1-1,qu,Quapaw,quap1242,qua,624,"lightning, forked (?)",dikdíze,jod,
+qu-624-1-2,qu,Quapaw,quap1242,qua,624,"lightning, forked (?)",čikǰíze,om;rr,

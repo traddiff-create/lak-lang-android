@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-205-1-1,pmv,Proto-Mississipi-Valley,,,205,stick (5),*a-ra,,
+pda-205-1-1,pda,Proto-Dakota,,,205,stick (5),*-ra,,
+pdh-205-1-1,pdh,Proto-Dhegiha,,,205,stick (5),*ára-,,
+la-205-1-1,la,Lakota,lako1247,lkt,205,stick (5),o-yá,b[417a],
+da-205-1-1,da,Dakota,dako1258,dak,205,stick (5),o-yá,r[396b],
+ch-205-1-1,ch,Chiwere,iowa1245,iow,205,stick (5),aláha,marsh,
+ks-205-1-1,ks,Kanza/Kaw,kans1243,ksk,205,stick (5),áyaha,rr,
+os-205-1-1,os,Osage,osag1243,osa,205,stick (5),áthaha,lf[15a],
+qu-205-1-1,qu,Quapaw,quap1242,qua,205,stick (5),áda,jod,

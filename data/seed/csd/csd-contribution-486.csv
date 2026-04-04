@@ -1,0 +1,11 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-486-1-1,psi,Proto-Siouan,,sio,486,play (1),*warį́xE,,
+pch-486-1-1,pch,Proto-Crow-Hidatsa,,,486,play (1),*wVráx-,,
+cr-486-1-1,cr,Crow,crow1244,cro,486,play (1),aláxshi,sfs;gg,
+hi-486-1-1,hi,Hidatsa,hida1246,hid,486,play (1),wiráxatihkE,j,
+ma-486-1-1,ma,Mandan,mand1446,mhq,486,play (1),wįrį́x,rtc,
+pbo-486-1-1,pbo,Proto-Biloxi-Ofo,,,486,play (1),*ani•xi,,
+bi-486-1-1,bi,Biloxi,bilo1248,bll,486,play (1),"ánĭx, ánĭxyi",ds[173b],
+bi-486-1-2,bi,Biloxi,bilo1248,bll,486,play (1),anixyá,ds[173],
+of-486-1-1,of,Ofo,ofoo1242,ofo,486,play (1),anī´si,ds[321a];ssf,
+of-486-2-1,of,Ofo,ofoo1242,ofo,486,play (1),iⁿtó̄nisi,ds[325];ssf,

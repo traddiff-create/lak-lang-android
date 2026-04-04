@@ -1,0 +1,9 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-268-1-1,psi,Proto-Siouan,,sio,268,south,*ákʔa,,
+pma-268-1-1,pma,Pre-Mandan,,,268,south,*áka-,,
+cr-268-1-1,cr,Crow,crow1244,cro,268,south,bulúaka,gg[34],
+ma-268-1-1,ma,Mandan,mand1446,mhq,268,south,ákahąkt,h[54],
+pdh-268-1-1,pdh,Proto-Dhegiha,,,268,south,*ákʔa,,
+ks-268-1-1,ks,Kanza/Kaw,kans1243,ksk,268,south,ákʔa,rr,
+os-268-1-1,os,Osage,osag1243,osa,268,south,ákʔa,lf[332b];lf[136b],
+qu-268-1-1,qu,Quapaw,quap1242,qua,268,south,ákʔa,jod,

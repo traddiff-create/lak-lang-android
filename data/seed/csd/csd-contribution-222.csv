@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-222-1-1,psi,Proto-Siouan,,sio,222,squirrel > flying squirrel,*šíka,,
+pmv-222-1-1,pmv,Proto-Mississipi-Valley,,,222,squirrel > flying squirrel,*-šíka ~ *-šį́ka,,
+pda-222-1-1,pda,Proto-Dakota,,,222,squirrel > flying squirrel,*pšičá ~ *pšįčá,,
+pwc-222-1-1,pwc,Proto-Hoocąk-Chiwere,,,222,squirrel > flying squirrel,*-šį́ke,,
+la-222-1-1,la,Lakota,lako1247,lkt,222,squirrel > flying squirrel,pšičá,b[447a],
+da-222-1-1,da,Dakota,dako1258,dak,222,squirrel > flying squirrel,pśiŋcá,r[426b],
+ch-222-1-1,ch,Chiwere,iowa1245,iow,222,squirrel > flying squirrel,singe,jgt92[239],
+ch-222-2-1,ch,Chiwere,iowa1245,iow,222,squirrel > flying squirrel,shíñye,jgt92[239],
+wi-222-1-1,wi,Hoocąk,hoch1243,win,222,squirrel > flying squirrel,kšį́įk,km[1911],
+wi-222-1-2,wi,Hoocąk,hoch1243,win,222,squirrel > flying squirrel,kšįįk,,
+bi-222-1-1,bi,Biloxi,bilo1248,bll,222,squirrel > flying squirrel,tciká,ds[264a],

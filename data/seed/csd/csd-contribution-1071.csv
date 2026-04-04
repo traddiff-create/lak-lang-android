@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-1071-1-1,psi,Proto-Siouan,,sio,1071,blow (1),*pex,,
+pch-1071-1-1,pch,Proto-Crow-Hidatsa,,,1071,blow (1),*-pixi,,
+cr-1071-1-1,cr,Crow,crow1244,cro,1071,blow (1),chilappiáxi,gg[84],
+hi-1071-1-1,hi,Hidatsa,hida1246,hid,1071,blow (1),nakapíxxi,j,
+ma-1071-1-1,ma,Mandan,mand1446,mhq,1071,blow (1),wápexoʔš,c,
+ch-1071-1-1,ch,Chiwere,iowa1245,iow,1071,blow (1),wéxą,rr,
+wi-1071-1-1,wi,Hoocąk,hoch1243,win,1071,blow (1),howeɣų́,km[1575],
+wi-1071-1-2,wi,Hoocąk,hoch1243,win,1071,blow (1),howeǧų,,
+tu-1071-1-1,tu,Tutelo,tute1247,tta,1071,blow (1),beqŭⁿ,hw,

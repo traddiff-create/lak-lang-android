@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-242-1-1,psi,Proto-Siouan,,sio,242,spread > flat (2),*pará•sE,,
+pbo-242-1-1,pbo,Proto-Biloxi-Ofo,,,242,spread > flat (2),*parasi,,
+wi-242-1-1,wi,Hoocąk,hoch1243,win,242,spread > flat (2),parás,km[2439],
+wi-242-1-2,wi,Hoocąk,hoch1243,win,242,spread > flat (2),paras,km[2704],
+wi-242-1-3,wi,Hoocąk,hoch1243,win,242,spread > flat (2),ruparás,km[3420],
+wi-242-1-4,wi,Hoocąk,hoch1243,win,242,spread > flat (2),ruparas,,
+wi-242-1-5,wi,Hoocąk,hoch1243,win,242,spread > flat (2),waparás,,
+wi-242-1-6,wi,Hoocąk,hoch1243,win,242,spread > flat (2),waparas,,
+bi-242-1-1,bi,Biloxi,bilo1248,bll,242,spread > flat (2),ptçasí,ds[249a],
+of-242-1-1,of,Ofo,ofoo1242,ofo,242,spread > flat (2),pạ́dāfi,ds[328b];ssf,
+of-242-1-2,of,Ofo,ofoo1242,ofo,242,spread > flat (2),pạdā´fi,ds[323];ssf,

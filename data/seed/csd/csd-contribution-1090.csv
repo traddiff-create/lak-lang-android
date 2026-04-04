@@ -1,0 +1,9 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-1090-1-1,pmv,Proto-Mississipi-Valley,,,1090,bird (3),*sí•h-ka,,
+pdh-1090-1-1,pdh,Proto-Dhegiha,,,1090,bird (3),*síhka,,
+wi-1090-1-1,wi,Hoocąk,hoch1243,win,1090,bird (3),siikáksik,km[2838],
+wi-1090-1-2,wi,Hoocąk,hoch1243,win,1090,bird (3),siikaksik,,
+ks-1090-1-1,ks,Kanza/Kaw,kans1243,ksk,1090,bird (3),síkka,rr,
+os-1090-1-1,os,Osage,osag1243,osa,1090,bird (3),sǘhka,rr,
+os-1090-1-2,os,Osage,osag1243,osa,1090,bird (3),çiúḳa,lf[348a],
+qu-1090-1-1,qu,Quapaw,quap1242,qua,1090,bird (3),síkka,rr,

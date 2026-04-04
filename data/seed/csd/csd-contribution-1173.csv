@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-1173-1-1,psi,Proto-Siouan,,sio,1173,again (2),*ši,,
+pmv-1173-1-1,pmv,Proto-Mississipi-Valley,,,1173,again (2),*ši,,
+pdh-1173-1-1,pdh,Proto-Dhegiha,,,1173,again (2),*ši,,
+wi-1173-1-1,wi,Hoocąk,hoch1243,win,1173,again (2),žigé,km[4014],
+wi-1173-1-2,wi,Hoocąk,hoch1243,win,1173,again (2),žige,,
+ks-1173-1-1,ks,Kanza/Kaw,kans1243,ksk,1173,again (2),ši,jod;rr,
+ks-1173-1-2,ks,Kanza/Kaw,kans1243,ksk,1173,again (2),šié,rr,
+os-1173-1-1,os,Osage,osag1243,osa,1173,again (2),shi,lf[131a],
+qu-1173-1-1,qu,Quapaw,quap1242,qua,1173,again (2),ši,rr,
+bi-1173-1-1,bi,Biloxi,bilo1248,bll,1173,again (2),tcĭ- {in} tcĭmána ~ tcûmana,ds[259b],
+bi-1173-1-2,bi,Biloxi,bilo1248,bll,1173,again (2),-tc- {in} kiŭ´tcmŭná,ds[259b],

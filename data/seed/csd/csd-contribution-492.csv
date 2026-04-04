@@ -1,0 +1,9 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pdh-492-1-1,pdh,Proto-Dhegiha,,,492,persimmon,*sta(r)įke,,
+ks-492-1-1,ks,Kanza/Kaw,kans1243,ksk,492,persimmon,stáyįge,rr,
+ks-492-1-2,ks,Kanza/Kaw,kans1243,ksk,492,persimmon,stǫ́įge,rr,
+os-492-1-1,os,Osage,osag1243,osa,492,persimmon,stąðį́ke,jod,
+os-492-2-1,os,Osage,osag1243,osa,492,persimmon,çtaíⁿge,lf[32b],
+qu-492-1-1,qu,Quapaw,quap1242,qua,492,persimmon,staną́ke,rr,
+qu-492-1-2,qu,Quapaw,quap1242,qua,492,persimmon,staną́hi,jod;rr,
+bi-492-1-1,bi,Biloxi,bilo1248,bll,492,persimmon,stíiñkí,ds[258a],

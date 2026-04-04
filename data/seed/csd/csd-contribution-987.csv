@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-987-1-1,psi,Proto-Siouan,,sio,987,clear,[old reconstruction only],,
+pmv-987-1-1,pmv,Proto-Mississipi-Valley,,,987,clear,*wré•ze,,
+pda-987-1-1,pda,Proto-Dakota,,,987,clear,*wréza,,
+pwc-987-1-1,pwc,Proto-Hoocąk-Chiwere,,,987,clear,*pré•ze,,
+la-987-1-1,la,Lakota,lako1247,lkt,987,clear,bléza,c,
+da-987-1-1,da,Dakota,dako1258,dak,987,clear,mdéza,riggs,
+ch-987-1-1,ch,Chiwere,iowa1245,iow,987,clear,bre•ðe,rr,
+wi-987-1-1,wi,Hoocąk,hoch1243,win,987,clear,perés,km[2475],
+wi-987-1-2,wi,Hoocąk,hoch1243,win,987,clear,peres,,

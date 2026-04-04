@@ -1,0 +1,7 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-622-1-1,psi,Proto-Siouan,,sio,622,lip,*išti,,
+ca-622-1-1,ca,Catawba,cata1286,chc,622,lip,hístak,ks,
+la-622-1-1,la,Lakota,lako1247,lkt,622,lip,išti,,
+tu-622-1-1,tu,Tutelo,tute1247,tta,622,lip,īstablaksīk,h,
+tu-622-2-1,tu,Tutelo,tute1247,tta,622,lip,istī,h,
+tu-622-3-1,tu,Tutelo,tute1247,tta,622,lip,istihiōi,h,

@@ -1,0 +1,13 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-267-1-1,pmv,Proto-Mississipi-Valley,,,267,south > downstream,*(o)-káɣ-(pa),,
+pda-267-1-1,pda,Proto-Dakota,,,267,south > downstream,*-okaɣ-,,
+pdh-267-1-1,pdh,Proto-Dhegiha,,,267,south > downstream,*o-káxpa,,
+la-267-1-1,la,Lakota,lako1247,lkt,267,south > downstream,íyok̇aġa,b[257a],
+la-267-2-1,la,Lakota,lako1247,lkt,267,south > downstream,iṫók̇aġa,b[241b],
+la-267-3-1,la,Lakota,lako1247,lkt,267,south > downstream,iṫók̇aḣwapa,b[241b],
+da-267-1-1,da,Dakota,dako1258,dak,267,south > downstream,ókaġa,r[359b],
+ks-267-1-1,ks,Kanza/Kaw,kans1243,ksk,267,south > downstream,ogáxpa,rr,
+os-267-1-1,os,Osage,osag1243,osa,267,south > downstream,okáxpa,rr,
+os-267-2-1,os,Osage,osag1243,osa,267,south > downstream,[†káxpa],lf[49a],
+qu-267-1-1,qu,Quapaw,quap1242,qua,267,south > downstream,káxpa,jod,
+qu-267-1-2,qu,Quapaw,quap1242,qua,267,south > downstream,okáxpa idé,jod;rr,

@@ -1,0 +1,13 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-601-1-1,pmv,Proto-Mississipi-Valley,,,601,loon,*wróze,,
+ca-601-1-1,ca,Catawba,cata1286,chc,601,loon,ituse,sp,
+pda-601-1-1,pda,Proto-Dakota,,,601,loon,*wróza,,
+pwc-601-1-1,pwc,Proto-Hoocąk-Chiwere,,,601,loon,*Ros-,,
+pdh-601-1-1,pdh,Proto-Dhegiha,,,601,loon,*Róze,,
+la-601-1-1,la,Lakota,lako1247,lkt,601,loon,blóza,b[111b],
+da-601-1-1,da,Dakota,dako1258,dak,601,loon,mdóza,r[314a],
+ch-601-1-1,ch,Chiwere,iowa1245,iow,601,loon,"tóthi, tósi, tóshi",jgt92[179],
+wi-601-1-1,wi,Hoocąk,hoch1243,win,601,loon,toos,jod,
+op-601-1-1,op,Omaha-Ponca,omah1247,oma,601,loon,[†nóze],ks,
+ks-601-1-1,ks,Kanza/Kaw,kans1243,ksk,601,loon,doį́ze sabe,rr,
+os-601-1-1,os,Osage,osag1243,osa,601,loon,dóçe çabe,lf[37a],

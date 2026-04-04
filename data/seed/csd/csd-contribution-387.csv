@@ -1,0 +1,11 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-387-1-1,psi,Proto-Siouan,,sio,387,"scrape > dig, scratch",*kʔá(-re),,
+pmv-387-1-1,pmv,Proto-Mississipi-Valley,,,387,"scrape > dig, scratch",*-kʔá,,
+pda-387-1-1,pda,Proto-Dakota,,,387,"scrape > dig, scratch",*kʔA´,,
+la-387-1-1,la,Lakota,lako1247,lkt,387,"scrape > dig, scratch","-kʔA´, wa-",b[534],
+da-387-1-1,da,Dakota,dako1258,dak,387,"scrape > dig, scratch",ḳa,r[301a],
+wi-387-1-1,wi,Hoocąk,hoch1243,win,387,"scrape > dig, scratch","-kʔá, nąą-",km[2179],
+wi-387-1-2,wi,Hoocąk,hoch1243,win,387,"scrape > dig, scratch",nąąk’a,km[2681],
+wi-387-1-3,wi,Hoocąk,hoch1243,win,387,"scrape > dig, scratch","-kʔá, ru-",,
+wi-387-1-4,wi,Hoocąk,hoch1243,win,387,"scrape > dig, scratch",ruk’a,,
+bi-387-1-1,bi,Biloxi,bilo1248,bll,387,"scrape > dig, scratch",ky’´di,ds[207b],

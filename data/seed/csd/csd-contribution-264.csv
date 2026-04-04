@@ -1,0 +1,6 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-264-1-1,psi,Proto-Siouan,,sio,264,spill,*waxų́-he,,
+pch-264-1-1,pch,Proto-Crow-Hidatsa,,,264,spill,*waxúa < *waxúhe,,
+cr-264-1-1,cr,Crow,crow1244,cro,264,spill,bixúa,gg[108],
+hi-264-1-1,hi,Hidatsa,hida1246,hid,264,spill,maxua,j,
+ch-264-1-1,ch,Chiwere,iowa1245,iow,264,spill,waxũn,lwr[36],

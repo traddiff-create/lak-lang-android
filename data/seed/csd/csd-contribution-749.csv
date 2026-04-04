@@ -1,0 +1,8 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-749-1-1,pmv,Proto-Mississipi-Valley,,,749,groin,*i-Ráną,,
+pda-749-1-1,pda,Proto-Dakota,,,749,groin,*čhaná,,
+pwc-749-1-1,pwc,Proto-Hoocąk-Chiwere,,,749,groin,*Ráną,,
+la-749-1-1,la,Lakota,lako1247,lkt,749,groin,čhaná,b[115b],
+ch-749-1-1,ch,Chiwere,iowa1245,iow,749,groin,rána,jgt92[57],
+wi-749-1-1,wi,Hoocąk,hoch1243,win,749,groin,dana,marino[166],
+wi-749-1-2,wi,Hoocąk,hoch1243,win,749,groin,taaną,,

@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-1169-1-1,psi,Proto-Siouan,,sio,1169,"all, intact",[old reconstruction only],,
+pmv-1169-1-1,pmv,Proto-Mississipi-Valley,,,1169,"all, intact",*za•nį́,,
+pda-1169-1-1,pda,Proto-Dakota,,,1169,"all, intact",*zanį́,,
+pdh-1169-1-1,pdh,Proto-Dhegiha,,,1169,"all, intact",*za•nį́,,
+la-1169-1-1,la,Lakota,lako1247,lkt,1169,"all, intact",ząní,c,
+da-1169-1-1,da,Dakota,dako1258,dak,1169,"all, intact",zaní,wm[258b],
+ch-1169-1-1,ch,Chiwere,iowa1245,iow,1169,"all, intact",ðañį,lwr,
+op-1169-1-1,op,Omaha-Ponca,omah1247,oma,1169,"all, intact",zanį́,jod,
+ks-1169-1-1,ks,Kanza/Kaw,kans1243,ksk,1169,"all, intact",za•nį́,rr,
+os-1169-1-1,os,Osage,osag1243,osa,1169,"all, intact",çaní,lf[29b],
+qu-1169-1-1,qu,Quapaw,quap1242,qua,1169,"all, intact","zanį́, izanį́",rr,

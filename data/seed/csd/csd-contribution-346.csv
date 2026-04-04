@@ -1,0 +1,7 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-346-1-1,pmv,Proto-Mississipi-Valley,,,346,shine (3),*žaža,,
+pda-346-1-1,pda,Proto-Dakota,,,346,shine (3),*žažá,,
+la-346-1-1,la,Lakota,lako1247,lkt,346,shine (3),žažáyela,r[651b],
+da-346-1-1,da,Dakota,dako1258,dak,346,shine (3),žažáya,r[651b],
+wi-346-1-1,wi,Hoocąk,hoch1243,win,346,shine (3),hatažáža,km[3998],
+wi-346-1-2,wi,Hoocąk,hoch1243,win,346,shine (3),hatažaža; hataža,,

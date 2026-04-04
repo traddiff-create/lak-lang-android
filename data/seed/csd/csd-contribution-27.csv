@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-27-1-1,psi,Proto-Siouan,,sio,27,wind (2),*se ~ *xe,,
+pch-27-1-1,pch,Proto-Crow-Hidatsa,,,27,wind (2),*huci,,
+cr-27-1-1,cr,Crow,crow1244,cro,27,wind (2),hučí,gg[48];dec[6],
+hi-27-1-1,hi,Hidatsa,hida1246,hid,27,wind (2),húci,j,
+ma-27-1-1,ma,Mandan,mand1446,mhq,27,wind (2),šéʔ,c,
+pbo-27-1-1,pbo,Proto-Biloxi-Ofo,,,27,wind (2),*axu•xe,,
+bi-27-1-1,bi,Biloxi,bilo1248,bll,27,wind (2),"xûxwĕ´, xûxwĕ´di, xuxé",ds[225a],
+of-27-1-1,of,Ofo,ofoo1242,ofo,27,wind (2),ashū´se,ds[321b];ssf,
+of-27-1-2,of,Ofo,ofoo1242,ofo,27,wind (2),áshusĕ,ds[321b],

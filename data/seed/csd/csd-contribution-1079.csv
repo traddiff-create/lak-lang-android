@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-1079-1-1,psi,Proto-Siouan,,sio,1079,black > dark (2),*išé•pE,,
+pmv-1079-1-1,pmv,Proto-Mississipi-Valley,,,1079,black > dark (2),*šé•pe,,
+hi-1079-1-1,hi,Hidatsa,hida1246,hid,1079,black > dark (2),šéhpE,j,
+hi-1079-1-2,hi,Hidatsa,hida1246,hid,1079,black > dark (2),šéhpi,,
+pwc-1079-1-1,pwc,Proto-Hoocąk-Chiwere,,,1079,black > dark (2),*šé•pe,,
+ch-1079-1-1,ch,Chiwere,iowa1245,iow,1079,black > dark (2),ði•šé•we,rr,
+wi-1079-1-1,wi,Hoocąk,hoch1243,win,1079,black > dark (2),šéep,km[2929],
+wi-1079-1-2,wi,Hoocąk,hoch1243,win,1079,black > dark (2),šeep,km[3087],
+wi-1079-1-3,wi,Hoocąk,hoch1243,win,1079,black > dark (2),"-šép, taa-",,
+wi-1079-1-4,wi,Hoocąk,hoch1243,win,1079,black > dark (2),taašep,,
+of-1079-1-1,of,Ofo,ofoo1242,ofo,1079,black > dark (2),"ĭtchepi´, itchĭpi´",ds[324b],

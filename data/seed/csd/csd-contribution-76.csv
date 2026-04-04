@@ -1,0 +1,13 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-76-1-1,psi,Proto-Siouan,,sio,76,vermin (3),*-kreSka,,
+pmv-76-1-1,pmv,Proto-Mississipi-Valley,,,76,vermin (3),*(hta)-kréSka,,
+pda-76-1-1,pda,Proto-Dakota,,,76,vermin (3),*-kreska,,
+pdh-76-1-1,pdh,Proto-Dhegiha,,,76,vermin (3),*htakréSka,rr,
+pbo-76-1-1,pbo,Proto-Biloxi-Ofo,,,76,vermin (3),*reska,,
+la-76-1-1,la,Lakota,lako1247,lkt,76,vermin (3),thathį́gleska,b[484a],
+la-76-1-2,la,Lakota,lako1247,lkt,76,vermin (3),agléšk̇a,,
+ch-76-1-1,ch,Chiwere,iowa1245,iow,76,vermin (3),tagréske,lwr[52],
+os-76-1-1,os,Osage,osag1243,osa,76,vermin (3),ṭagðéshka,lf[137a],
+qu-76-1-1,qu,Quapaw,quap1242,qua,76,vermin (3),ttakdéska,rr,
+bi-76-1-1,bi,Biloxi,bilo1248,bll,76,vermin (3),"kûdĕskạ́, kûtská",ds[217a],
+of-76-1-1,of,Ofo,ofoo1242,ofo,76,vermin (3),tĕ´fka,ds[330b],

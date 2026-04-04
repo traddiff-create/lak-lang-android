@@ -1,0 +1,6 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-441-1-1,psi,Proto-Siouan,,sio,441,red (1a),*se,,
+pch-441-1-1,pch,Proto-Crow-Hidatsa,,,441,red (1a),*hí•c(V)hi,,
+cr-441-1-1,cr,Crow,crow1244,cro,441,red (1a),hiítchi,gg[48],
+hi-441-1-1,hi,Hidatsa,hida1246,hid,441,red (1a),híhci,j,
+ma-441-1-1,ma,Mandan,mand1446,mhq,441,red (1a),šéʔ,c,

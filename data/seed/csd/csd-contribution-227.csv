@@ -1,0 +1,9 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-227-1-1,psi,Proto-Siouan,,sio,227,squeeze (7),*ru-ški,,
+pdh-227-1-1,pdh,Proto-Dhegiha,,,227,squeeze (7),*(rü)-škí,,
+op-227-1-1,op,Omaha-Ponca,omah1247,oma,227,squeeze (7),thíshki,sw[190],
+ks-227-1-1,ks,Kanza/Kaw,kans1243,ksk,227,squeeze (7),yüškí,rr,
+os-227-1-1,os,Osage,osag1243,osa,227,squeeze (7),thishkí,lf[149a],
+qu-227-1-1,qu,Quapaw,quap1242,qua,227,squeeze (7),daškí,rr,
+qu-227-1-2,qu,Quapaw,quap1242,qua,227,squeeze (7),ídiški,rr,
+bi-227-1-1,bi,Biloxi,bilo1248,bll,227,squeeze (7),"tcĭtcki, dutcĭtckí",ds[264b],

@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-656-1-1,psi,Proto-Siouan,,sio,656,"juice, liquid",*hų́pV,,
+pch-656-1-1,pch,Proto-Crow-Hidatsa,,,656,"juice, liquid",*húp-,,
+pma-656-1-1,pma,Pre-Mandan,,,656,"juice, liquid",*hųprįhe,,
+cr-656-1-1,cr,Crow,crow1244,cro,656,"juice, liquid",húppii,rg;gg[49];dec[14],
+hi-656-1-1,hi,Hidatsa,hida1246,hid,656,"juice, liquid",húpa,j,
+ma-656-1-1,ma,Mandan,mand1446,mhq,656,"juice, liquid",hųpįrį́he,c,
+pda-656-1-1,pda,Proto-Dakota,,,656,"juice, liquid",*hąpí,,
+la-656-1-1,la,Lakota,lako1247,lkt,656,"juice, liquid",hąpí,c,
+la-656-1-2,la,Lakota,lako1247,lkt,656,"juice, liquid",asą́pi,,
+da-656-1-1,da,Dakota,dako1258,dak,656,"juice, liquid",haŋpí,r[124b],
+sv-656-1-1,sv,Sioux Valley,,,656,"juice, liquid",hąpí,pas,

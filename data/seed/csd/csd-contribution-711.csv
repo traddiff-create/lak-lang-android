@@ -1,0 +1,5 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-711-1-1,psi,Proto-Siouan,,sio,711,heat,*aRá•-są,,
+wi-711-1-1,wi,Hoocąk,hoch1243,win,711,heat,taasą́,km[3079],
+wi-711-1-2,wi,Hoocąk,hoch1243,win,711,heat,taasą,,
+bi-711-1-1,bi,Biloxi,bilo1248,bll,711,heat,"saⁿ´yĕ, adạ-",ds[169b],

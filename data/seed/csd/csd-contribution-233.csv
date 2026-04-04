@@ -1,0 +1,9 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-233-1-1,psi,Proto-Siouan,,sio,233,squeeze (1),*-šką́•tE,,
+pma-233-1-1,pma,Pre-Mandan,,,233,squeeze (1),*-skat-,,
+ma-233-1-1,ma,Mandan,mand1446,mhq,233,squeeze (1),"-skátoʔš, ra-",h[211],
+ma-233-1-2,ma,Mandan,mand1446,mhq,233,squeeze (1),"-skátoʔš, ru-",h[211],
+ch-233-1-1,ch,Chiwere,iowa1245,iow,233,squeeze (1),withgáwe,jgt92[239],
+bi-233-1-1,bi,Biloxi,bilo1248,bll,233,squeeze (1),"tckáⁿti, du-",bandd[265a],
+bi-233-2-1,bi,Biloxi,bilo1248,bll,233,squeeze (1),"tckáⁿti, dŭ´kŭ-",bandd[265a],
+bi-233-3-1,bi,Biloxi,bilo1248,bll,233,squeeze (1),"tckáⁿti, na-",bandd[265],

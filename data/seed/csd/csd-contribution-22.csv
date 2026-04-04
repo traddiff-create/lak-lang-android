@@ -1,0 +1,9 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-22-1-1,psi,Proto-Siouan,,sio,22,"wipe > rub, sweep",*kįSE,,
+pma-22-1-1,pma,Pre-Mandan,,,22,"wipe > rub, sweep",*-kiš-,,
+ma-22-1-1,ma,Mandan,mand1446,mhq,22,"wipe > rub, sweep","-kíšoʔš, pa-",c,
+ma-22-1-2,ma,Mandan,mand1446,mhq,22,"wipe > rub, sweep","-kíšoʔš, ka-",c,
+ma-22-1-3,ma,Mandan,mand1446,mhq,22,"wipe > rub, sweep","-kíšoʔš, ra-",h[112],
+ma-22-1-4,ma,Mandan,mand1446,mhq,22,"wipe > rub, sweep","-kíšoʔš, ru-",h[112],
+ma-22-1-5,ma,Mandan,mand1446,mhq,22,"wipe > rub, sweep",íkakiška,h[112],
+la-22-1-1,la,Lakota,lako1247,lkt,22,"wipe > rub, sweep","-kįžA, ipá-",b[230],

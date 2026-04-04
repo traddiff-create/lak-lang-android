@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-708-1-1,pmv,Proto-Mississipi-Valley,,,708,heel,*si-réte,,
+pda-708-1-1,pda,Proto-Dakota,,,708,heel,*siyéte,,
+pdh-708-1-1,pdh,Proto-Dhegiha,,,708,heel,*siréte,,
+la-708-1-1,la,Lakota,lako1247,lkt,708,heel,siyéte,c,
+da-708-1-1,da,Dakota,dako1258,dak,708,heel,siyéte,r[435b],
+wi-708-1-1,wi,Hoocąk,hoch1243,win,708,heel,siikérečge,km[2840],
+wi-708-1-2,wi,Hoocąk,hoch1243,win,708,heel,siikerecge,,
+op-708-1-1,op,Omaha-Ponca,omah1247,oma,708,heel,çithéde,flf[109],
+ks-708-1-1,ks,Kanza/Kaw,kans1243,ksk,708,heel,siyéǰe,rr,
+os-708-1-1,os,Osage,osag1243,osa,708,heel,çithédse,lf[31a],
+qu-708-1-1,qu,Quapaw,quap1242,qua,708,heel,sidétte,jod,

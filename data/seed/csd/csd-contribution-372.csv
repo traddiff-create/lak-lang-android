@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-372-1-1,psi,Proto-Siouan,,sio,372,separate (2),*-wesE,,
+pma-372-1-1,pma,Pre-Mandan,,,372,separate (2),*-wéš-,,
+hi-372-1-1,hi,Hidatsa,hida1246,hid,372,separate (2),"-wicE, pá-",j,
+hi-372-1-2,hi,Hidatsa,hida1246,hid,372,separate (2),"-wicE, naka-",j,
+hi-372-1-3,hi,Hidatsa,hida1246,hid,372,separate (2),"-wicE, nú-",j,
+ma-372-1-1,ma,Mandan,mand1446,mhq,372,separate (2),pawéšoʔš,c,
+ma-372-1-2,ma,Mandan,mand1446,mhq,372,separate (2),"-wéšoʔš, ka-",h[284],
+ma-372-1-3,ma,Mandan,mand1446,mhq,372,separate (2),"-wéšoʔš, ra-",h[284],
+ma-372-1-4,ma,Mandan,mand1446,mhq,372,separate (2),"-wéšoʔš, ru-",h[284],
+wi-372-1-1,wi,Hoocąk,hoch1243,win,372,separate (2),"-wés, ru-",km[2759],
+wi-372-1-2,wi,Hoocąk,hoch1243,win,372,separate (2),ruwes,,

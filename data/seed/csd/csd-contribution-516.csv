@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-516-1-1,psi,Proto-Siouan,,sio,516,onion,*šį́•,,
+pmv-516-1-1,pmv,Proto-Mississipi-Valley,,,516,onion,*pšį́• < *w-šį́•,,
+pwc-516-1-1,pwc,Proto-Hoocąk-Chiwere,,,516,onion,*šį́•,,
+la-516-1-1,la,Lakota,lako1247,lkt,516,onion,pšį,rtc,
+ch-516-1-1,ch,Chiwere,iowa1245,iow,516,onion,šį•xą́ǰe,rr,
+wi-516-1-1,wi,Hoocąk,hoch1243,win,516,onion,šįįɣóp,km[2965],
+wi-516-1-2,wi,Hoocąk,hoch1243,win,516,onion,šįįǧop,,
+qu-516-1-1,qu,Quapaw,quap1242,qua,516,onion,šį́ka,,
+bi-516-1-1,bi,Biloxi,bilo1248,bll,516,onion,ûñktcíⁿ sayí,ds[284b],

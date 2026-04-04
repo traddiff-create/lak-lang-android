@@ -1,0 +1,5 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pda-885-1-1,pda,Proto-Dakota,,,885,eagle (2),*wąwrí,,
+la-885-1-1,la,Lakota,lako1247,lkt,885,eagle (2),wąblí,c,
+da-885-1-1,da,Dakota,dako1258,dak,885,eagle (2),waŋmdí,r[526a],
+sv-885-1-1,sv,Sioux Valley,,,885,eagle (2),wąbdí,pas,

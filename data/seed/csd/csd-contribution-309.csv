@@ -1,0 +1,11 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-309-1-1,psi,Proto-Siouan,,sio,309,slide (3),*šrókE,,
+ma-309-1-1,ma,Mandan,mand1446,mhq,309,slide (3),srók,h[218],
+pda-309-1-1,pda,Proto-Dakota,,,309,slide (3),*-šroka,,
+la-309-1-1,la,Lakota,lako1247,lkt,309,slide (3),yušlóka,b[652],
+la-309-1-2,la,Lakota,lako1247,lkt,309,slide (3),wanášlogya,b[539],
+da-309-1-1,da,Dakota,dako1258,dak,309,slide (3),kašdóka,r[267b],
+da-309-1-2,da,Dakota,dako1258,dak,309,slide (3),pošdóka,srr[414a],
+da-309-1-3,da,Dakota,dako1258,dak,309,slide (3),po-śdo´-ka,,
+bi-309-1-1,bi,Biloxi,bilo1248,bll,309,slide (3),"tcdópi, tcdopí",,
+bi-309-1-2,bi,Biloxi,bilo1248,bll,309,slide (3),tcdoyĕ´,,

@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-948-1-1,psi,Proto-Siouan,,sio,948,crow > blackbird,*wą,,
+pdh-948-1-1,pdh,Proto-Dhegiha,,,948,crow > blackbird,*mą (-krį́xta),,
+pbo-948-1-1,pbo,Proto-Biloxi-Ofo,,,948,crow > blackbird,*ąčka,,
+op-948-1-1,op,Omaha-Ponca,omah1247,oma,948,crow > blackbird,moⁿgthiⁿ´xta,sw[18],
+ks-948-1-1,ks,Kanza/Kaw,kans1243,ksk,948,crow > blackbird,mąlíxta,jod,
+qu-948-1-1,qu,Quapaw,quap1242,qua,948,crow > blackbird,mą,rr;jod,
+qu-948-1-2,qu,Quapaw,quap1242,qua,948,crow > blackbird,mąkdíxtą,jod,
+bi-948-1-1,bi,Biloxi,bilo1248,bll,948,crow > blackbird,"aⁿtcká, aⁿtcka",ds[178b],
+of-948-1-1,of,Ofo,ofoo1242,ofo,948,crow > blackbird,oⁿ´cka,ds[328a],

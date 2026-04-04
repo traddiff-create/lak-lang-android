@@ -1,0 +1,13 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-661-1-1,psi,Proto-Siouan,,sio,661,island,*wíte,,
+pma-661-1-1,pma,Pre-Mandan,,,661,island,*wí•t-,,
+pmv-661-1-1,pmv,Proto-Mississipi-Valley,,,661,island,*wíte,,
+ma-661-1-1,ma,Mandan,mand1446,mhq,661,island,wí•ktat,c,
+ma-661-1-2,ma,Mandan,mand1446,mhq,661,island,wítka,h[293],
+pda-661-1-1,pda,Proto-Dakota,,,661,island,*wíta,,
+la-661-1-1,la,Lakota,lako1247,lkt,661,island,witá,c,
+la-661-1-2,la,Lakota,lako1247,lkt,661,island,wíta,b[590a],
+da-661-1-1,da,Dakota,dako1258,dak,661,island,wíta,r[579a],
+ch-661-1-1,ch,Chiwere,iowa1245,iow,661,island,ǰélomįǰe,marsh,
+wi-661-1-1,wi,Hoocąk,hoch1243,win,661,island,wíič,km[3645],
+wi-661-1-2,wi,Hoocąk,hoch1243,win,661,island,wiic,,

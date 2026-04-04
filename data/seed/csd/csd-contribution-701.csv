@@ -1,0 +1,9 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-701-1-1,psi,Proto-Siouan,,sio,701,"hide, skin, cloth",*roxpe,,
+pch-701-1-1,pch,Proto-Crow-Hidatsa,,,701,"hide, skin, cloth",*raxpE,,
+pma-701-1-1,pma,Pre-Mandan,,,701,"hide, skin, cloth",*-roxpi-,,
+cr-701-1-1,cr,Crow,crow1244,cro,701,"hide, skin, cloth",daxpí,rg;gg[43];dec[103],
+hi-701-1-1,hi,Hidatsa,hida1246,hid,701,"hide, skin, cloth",raxpÉ,j,
+hi-701-1-2,hi,Hidatsa,hida1246,hid,701,"hide, skin, cloth",naxpí,,
+ma-701-1-1,ma,Mandan,mand1446,mhq,701,"hide, skin, cloth",óropxi,h[130],
+bi-701-1-1,bi,Biloxi,bilo1248,bll,701,"hide, skin, cloth","doxpĕ´, ṭoxpĕ´, dóxpĕ, uṭuxpĕ´, udoxpĕ´",ds[184a],

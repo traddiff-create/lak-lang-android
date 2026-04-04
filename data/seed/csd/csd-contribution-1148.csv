@@ -1,0 +1,13 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-1148-1-1,psi,Proto-Siouan,,sio,1148,augmentative (2),*xtE,,
+pma-1148-1-1,pma,Pre-Mandan,,,1148,augmentative (2),*xte-,,
+pmv-1148-1-1,pmv,Proto-Mississipi-Valley,,,1148,augmentative (2),*xtE,,
+cr-1148-1-1,cr,Crow,crow1244,cro,1148,augmentative (2),-šta,rg,
+ma-1148-1-1,ma,Mandan,mand1446,mhq,1148,augmentative (2),xtéʔš,c,
+pda-1148-1-1,pda,Proto-Dakota,,,1148,augmentative (2),*xtA,,
+la-1148-1-1,la,Lakota,lako1247,lkt,1148,augmentative (2),-xčA,c,
+da-1148-1-1,da,Dakota,dako1258,dak,1148,augmentative (2),-xčA,pas,
+da-1148-1-2,da,Dakota,dako1258,dak,1148,augmentative (2),-xča ~ xčį; -xče,,
+st-1148-1-1,st,Stoney,ston1242,sto,1148,augmentative (2),htįǰága ~ xtįǰága,pas,
+sv-1148-1-1,sv,Sioux Valley,,,1148,augmentative (2),-xčA ~ x,pas,
+tu-1148-1-1,tu,Tutelo,tute1247,tta,1148,augmentative (2),"paqti, pāxtē",h,

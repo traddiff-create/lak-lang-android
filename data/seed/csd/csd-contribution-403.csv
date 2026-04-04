@@ -1,0 +1,11 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-403-1-1,psi,Proto-Siouan,,sio,403,sacred (1b),*xopE-rį,,
+pch-403-1-1,pch,Proto-Crow-Hidatsa,,,403,sacred (1b),*xupá•ri,,
+pma-403-1-1,pma,Pre-Mandan,,,403,sacred (1b),*xoprį,,
+cr-403-1-1,cr,Crow,crow1244,cro,403,sacred (1b),xapá•lia,gg[61],
+hi-403-1-1,hi,Hidatsa,hida1246,hid,403,sacred (1b),xupá•ri,j,
+ma-403-1-1,ma,Mandan,mand1446,mhq,403,sacred (1b),xopįrį́ʔš,c,
+pwc-403-1-1,pwc,Proto-Hoocąk-Chiwere,,,403,sacred (1b),*waxóprį,,
+ch-403-1-1,ch,Chiwere,iowa1245,iow,403,sacred (1b),waxóbrin,jgt92[87],
+wi-403-1-1,wi,Hoocąk,hoch1243,win,403,sacred (1b),waxopį́nį,km[3528],
+wi-403-1-2,wi,Hoocąk,hoch1243,win,403,sacred (1b),waxopįnį,,

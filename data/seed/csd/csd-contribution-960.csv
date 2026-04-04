@@ -1,0 +1,9 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-960-1-1,pmv,Proto-Mississipi-Valley,,,960,correct,*ra-sú,,
+pda-960-1-1,pda,Proto-Dakota,,,960,correct,*ya-sú,,
+la-960-1-1,la,Lakota,lako1247,lkt,960,correct,"sú, ya-",b[627b],
+la-960-1-2,la,Lakota,lako1247,lkt,960,correct,"sú, yu-",b[650b],
+da-960-1-1,da,Dakota,dako1258,dak,960,correct,wayasu,wm[94b],
+ya-960-1-1,ya,Yanktonai,dako1258,dak,960,correct,yasu,wm[94b],
+wi-960-1-1,wi,Hoocąk,hoch1243,win,960,correct,"sú, ra-",km[2566],
+wi-960-1-2,wi,Hoocąk,hoch1243,win,960,correct,rasu,,

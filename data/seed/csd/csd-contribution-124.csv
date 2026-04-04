@@ -1,0 +1,8 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pma-124-1-1,pma,Pre-Mandan,,,124,"tipi, conical tent",*ti + *šohe ‘pointed’,,
+ma-124-1-1,ma,Mandan,mand1446,mhq,124,"tipi, conical tent",tišóhe,h[250],
+pdh-124-1-1,pdh,Proto-Dhegiha,,,124,"tipi, conical tent",*htí-poɣV,,
+wi-124-1-1,wi,Hoocąk,hoch1243,win,124,"tipi, conical tent",čiábokíɣake,km[212],
+wi-124-1-2,wi,Hoocąk,hoch1243,win,124,"tipi, conical tent","ciabokiǧake, cii habokiǧake",,
+ks-124-1-1,ks,Kanza/Kaw,kans1243,ksk,124,"tipi, conical tent",ččíboɣa,rr,
+os-124-1-1,os,Osage,osag1243,osa,124,"tipi, conical tent",ṭsíboxe,lf[162b],

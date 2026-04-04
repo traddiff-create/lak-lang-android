@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-261-1-1,psi,Proto-Siouan,,sio,261,spit (1),*šó•,,
+pch-261-1-1,pch,Proto-Crow-Hidatsa,,,261,spit (1),*šua < *šuhe,,
+pma-261-1-1,pma,Pre-Mandan,,,261,spit (1),*kso-,,
+pmv-261-1-1,pmv,Proto-Mississipi-Valley,,,261,spit (1),*šo•,,
+cr-261-1-1,cr,Crow,crow1244,cro,261,spit (1),šuá,gg[56],
+hi-261-1-1,hi,Hidatsa,hida1246,hid,261,spit (1),šua,j,
+ma-261-1-1,ma,Mandan,mand1446,mhq,261,spit (1),ksóʔš,c,
+la-261-1-1,la,Lakota,lako1247,lkt,261,spit (1),"thašóšA, thaɣóša",c,
+wi-261-1-1,wi,Hoocąk,hoch1243,win,261,spit (1),šoo,km[2978],
+wi-261-1-2,wi,Hoocąk,hoch1243,win,261,spit (1),šoo,,
+bi-261-1-1,bi,Biloxi,bilo1248,bll,261,spit (1),tûtckú,ds[282a],

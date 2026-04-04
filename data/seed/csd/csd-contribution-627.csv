@@ -1,0 +1,9 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-627-1-1,psi,Proto-Siouan,,sio,627,"lid, cover",*i-ha,,
+pmv-627-1-1,pmv,Proto-Mississipi-Valley,,,627,"lid, cover",*ihá,,
+pda-627-1-1,pda,Proto-Dakota,,,627,"lid, cover",*ihá,,
+la-627-1-1,la,Lakota,lako1247,lkt,627,"lid, cover",ihá,ej,
+da-627-1-1,da,Dakota,dako1258,dak,627,"lid, cover",ihá,r[184a],
+wi-627-1-1,wi,Hoocąk,hoch1243,win,627,"lid, cover",iihá,km[1630],
+wi-627-1-2,wi,Hoocąk,hoch1243,win,627,"lid, cover",iiha (> ii + haa),,
+ks-627-1-1,ks,Kanza/Kaw,kans1243,ksk,627,"lid, cover",íhaǰe,rr,

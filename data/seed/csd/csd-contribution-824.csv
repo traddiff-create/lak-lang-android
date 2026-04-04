@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-824-1-1,psi,Proto-Siouan,,sio,824,float (2),*pixi,,
+pch-824-1-1,pch,Proto-Crow-Hidatsa,,,824,float (2),*-pixi,,
+pma-824-1-1,pma,Pre-Mandan,,,824,float (2),*-pex-,,
+cr-824-1-1,cr,Crow,crow1244,cro,824,float (2),chilappiáxi,gg[84];dec[95],
+cr-824-1-2,cr,Crow,crow1244,cro,824,float (2),dappiáxi,gg[42];dec[96],
+hi-824-1-1,hi,Hidatsa,hida1246,hid,824,float (2),"-píxxi, raka-",j,
+hi-824-1-2,hi,Hidatsa,hida1246,hid,824,float (2),nakapíxxi,,
+ma-824-1-1,ma,Mandan,mand1446,mhq,824,float (2),wápexoʔš,c,
+bi-824-1-1,bi,Biloxi,bilo1248,bll,824,float (2),pixyí,ds[246a],

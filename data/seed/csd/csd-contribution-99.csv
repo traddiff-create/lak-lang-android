@@ -1,0 +1,7 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-99-1-1,psi,Proto-Siouan,,sio,99,turtle (2),*wa-hkí•-(se),,
+pma-99-1-1,pma,Pre-Mandan,,,99,turtle (2),*kis-pą (?),,
+ma-99-1-1,ma,Mandan,mand1446,mhq,99,turtle (2),kípsą,h[110],
+wi-99-1-1,wi,Hoocąk,hoch1243,win,99,turtle (2),kiizų́č,km[1843],
+wi-99-1-2,wi,Hoocąk,hoch1243,win,99,turtle (2),kiizųc,,
+of-99-1-1,of,Ofo,ofoo1242,ofo,99,turtle (2),"akhĭ´si, akísi",ds[319b],

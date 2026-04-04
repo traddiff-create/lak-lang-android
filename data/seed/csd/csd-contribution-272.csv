@@ -1,0 +1,9 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-272-1-1,pmv,Proto-Mississipi-Valley,,,272,soup,*htanį́ (?),,
+pdh-272-1-1,pdh,Proto-Dhegiha,,,272,soup,*htaní,,
+ch-272-1-1,ch,Chiwere,iowa1245,iow,272,soup,táñį,,
+ch-272-2-1,ch,Chiwere,iowa1245,iow,272,soup,čáñį,w[237b],
+op-272-1-1,op,Omaha-Ponca,omah1247,oma,272,soup,ttaní,c,
+ks-272-1-1,ks,Kanza/Kaw,kans1243,ksk,272,soup,ttaní,rr,
+os-272-1-1,os,Osage,osag1243,osa,272,soup,ṭaní,lf[138a],
+qu-272-1-1,qu,Quapaw,quap1242,qua,272,soup,"ttanyúhǫ, ttanǘhǫde",rr,

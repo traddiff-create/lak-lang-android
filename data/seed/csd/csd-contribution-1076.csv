@@ -1,0 +1,13 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-1076-1-1,psi,Proto-Siouan,,sio,1076,blanket (2),*ąši,,
+pch-1076-1-1,pch,Proto-Crow-Hidatsa,,,1076,blanket (2),*waši < *wa-aši,,
+cr-1076-1-1,cr,Crow,crow1244,cro,1076,blanket (2),bicí,l[197],
+cr-1076-1-2,cr,Crow,crow1244,cro,1076,blanket (2),isa•ce,l[197],
+hi-1076-1-1,hi,Hidatsa,hida1246,hid,1076,blanket (2),waší,j,
+hi-1076-1-2,hi,Hidatsa,hida1246,hid,1076,blanket (2),ita•ši,j,
+pbo-1076-1-1,pbo,Proto-Biloxi-Ofo,,,1076,blanket (2),*ąči,,
+la-1076-1-1,la,Lakota,lako1247,lkt,1076,blanket (2),šiná,c,
+bi-1076-1-1,bi,Biloxi,bilo1248,bll,1076,blanket (2),"tcipúxi, tcpúxi, tcpuxwi",ds[266a],
+bi-1076-1-2,bi,Biloxi,bilo1248,bll,1076,blanket (2),tcûkdĕxyí,ds[267a],
+bi-1076-1-3,bi,Biloxi,bilo1248,bll,1076,blanket (2),tcûkdĕxyí nitaní,ds[267a],
+of-1076-1-1,of,Ofo,ofoo1242,ofo,1076,blanket (2),oⁿtciphā´ska,ds[328];ssf,

@@ -1,0 +1,13 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-548-1-1,psi,Proto-Siouan,,sio,548,"neck (1), nape",*i-htá•-hu,,
+pmv-548-1-1,pmv,Proto-Mississipi-Valley,,,548,"neck (1), nape",*htá•hu,,
+cr-548-1-1,cr,Crow,crow1244,cro,548,"neck (1), nape",išúu,rg,
+ma-548-1-1,ma,Mandan,mand1446,mhq,548,"neck (1), nape",į́•tahįrų,rtc,
+pda-548-1-1,pda,Proto-Dakota,,,548,"neck (1), nape",*thahú,,
+pdh-548-1-1,pdh,Proto-Dhegiha,,,548,"neck (1), nape",*htáhü,,
+la-548-1-1,la,Lakota,lako1247,lkt,548,"neck (1), nape",thahú,rtc,
+da-548-1-1,da,Dakota,dako1258,dak,548,"neck (1), nape",tahú,r[453a],
+op-548-1-1,op,Omaha-Ponca,omah1247,oma,548,"neck (1), nape",tai,mjs[125],
+ks-548-1-1,ks,Kanza/Kaw,kans1243,ksk,548,"neck (1), nape",ttáhü,rr,
+os-548-1-1,os,Osage,osag1243,osa,548,"neck (1), nape",htáhü,rr,
+qu-548-1-1,qu,Quapaw,quap1242,qua,548,"neck (1), nape",ttáittá,jod;rr,

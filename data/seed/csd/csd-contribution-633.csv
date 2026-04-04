@@ -1,0 +1,8 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-633-1-1,pmv,Proto-Mississipi-Valley,,,633,leech,*-srá,,
+pda-633-1-1,pda,Proto-Dakota,,,633,leech,*thusrá,,
+la-633-1-1,la,Lakota,lako1247,lkt,633,leech,thuslá,c,
+da-633-1-1,da,Dakota,dako1258,dak,633,leech,tusdá,r[481b],
+op-633-1-1,op,Omaha-Ponca,omah1247,oma,633,leech,kiçná,sw[112],
+ks-633-1-1,ks,Kanza/Kaw,kans1243,ksk,633,leech,kkistá,rr,
+os-633-1-1,os,Osage,osag1243,osa,633,leech,ḳiçdá,lf[85a],

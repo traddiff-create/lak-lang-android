@@ -1,0 +1,7 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-901-1-1,pmv,Proto-Mississipi-Valley,,,901,door (1),*hti-ópa,,
+la-901-1-1,la,Lakota,lako1247,lkt,901,door (1),thiyópa,c,
+da-901-1-1,da,Dakota,dako1258,dak,901,door (1),tiyopa,wm[53a],
+wi-901-1-1,wi,Hoocąk,hoch1243,win,901,door (1),čiiróp,km[241],
+wi-901-1-2,wi,Hoocąk,hoch1243,win,901,door (1),ciirop,,
+qu-901-1-1,qu,Quapaw,quap1242,qua,901,door (1),tti óbahe,,

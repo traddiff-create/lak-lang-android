@@ -1,0 +1,7 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pma-724-1-1,pma,Pre-Mandan,,,724,hat,*akupE,,
+ma-724-1-1,ma,Mandan,mand1446,mhq,724,hat,ákupoʔš,h[57],
+ma-724-1-2,ma,Mandan,mand1446,mhq,724,hat,wáʔkupe,h[58],
+la-724-1-1,la,Lakota,lako1247,lkt,724,hat,naṭá aḳaḣpe,b[360],
+da-724-1-1,da,Dakota,dako1258,dak,724,hat,akáḣpe,r[20b],
+bi-724-1-1,bi,Biloxi,bilo1248,bll,724,hat,akué,ds[172a],

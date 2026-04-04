@@ -1,0 +1,9 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-79-1-1,psi,Proto-Siouan,,sio,79,"vagina, vulva",*šą́•-re,,
+pma-79-1-1,pma,Pre-Mandan,,,79,"vagina, vulva",*sa•re (?),,
+pmv-79-1-1,pmv,Proto-Mississipi-Valley,,,79,"vagina, vulva",*šą•,,
+hi-79-1-1,hi,Hidatsa,hida1246,hid,79,"vagina, vulva",-ša ~ -šara,j,
+ma-79-1-1,ma,Mandan,mand1446,mhq,79,"vagina, vulva",sá ~ sáre,h[200],
+la-79-1-1,la,Lakota,lako1247,lkt,79,"vagina, vulva",šą,c,
+wi-79-1-1,wi,Hoocąk,hoch1243,win,79,"vagina, vulva",šą́ą,km[2802],
+wi-79-1-2,wi,Hoocąk,hoch1243,win,79,"vagina, vulva",šąą,,

@@ -1,0 +1,11 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-911-1-1,psi,Proto-Siouan,,sio,911,different,*i-r-hą́-he,,
+pch-911-1-1,pch,Proto-Crow-Hidatsa,,,911,different,*ihá• < *iháhe,,
+pma-911-1-1,pma,Pre-Mandan,,,911,different,*tą́h-,,
+cr-911-1-1,cr,Crow,crow1244,cro,911,different,iháa,gg[73],
+hi-911-1-1,hi,Hidatsa,hida1246,hid,911,different,ihá•,j,
+ma-911-1-1,ma,Mandan,mand1446,mhq,911,different,tą́hoʔš,h[243],
+pwc-911-1-1,pwc,Proto-Hoocąk-Chiwere,,,911,different,*itą́,,
+ch-911-1-1,ch,Chiwere,iowa1245,iow,911,different,idą́da,lwr[11],
+wi-911-1-1,wi,Hoocąk,hoch1243,win,911,different,hiǰą́,km[899],
+wi-911-1-2,wi,Hoocąk,hoch1243,win,911,different,hiją,,

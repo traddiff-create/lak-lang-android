@@ -1,0 +1,13 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-224-1-1,pmv,Proto-Mississipi-Valley,,,224,squirrel (1),*sį́•ka ~ *zį́•ka,,
+pda-224-1-1,pda,Proto-Dakota,,,224,squirrel (1),*zičá,,
+pdh-224-1-1,pdh,Proto-Dhegiha,,,224,squirrel (1),*sį́ka,,
+la-224-1-1,la,Lakota,lako1247,lkt,224,squirrel (1),zičá,c,
+da-224-1-1,da,Dakota,dako1258,dak,224,squirrel (1),zićá,r[649b],
+ch-224-1-1,ch,Chiwere,iowa1245,iow,224,squirrel (1),θį́ŋe,marsh,
+wi-224-1-1,wi,Hoocąk,hoch1243,win,224,squirrel (1),zíik,km[3977],
+wi-224-1-2,wi,Hoocąk,hoch1243,win,224,squirrel (1),ziik,,
+op-224-1-1,op,Omaha-Ponca,omah1247,oma,224,squirrel (1),sį́ga,rr,
+ks-224-1-1,ks,Kanza/Kaw,kans1243,ksk,224,squirrel (1),sį́ga,rr,
+os-224-1-1,os,Osage,osag1243,osa,224,squirrel (1),çíⁿga,lf[30b],
+qu-224-1-1,qu,Quapaw,quap1242,qua,224,squirrel (1),sį́ka,rr,

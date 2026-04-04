@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-758-1-1,psi,Proto-Siouan,,sio,758,grass (3),*xą́•he,,
+pch-758-1-1,pch,Proto-Crow-Hidatsa,,,758,grass (3),*xahe,,
+pmv-758-1-1,pmv,Proto-Mississipi-Valley,,,758,grass (3),xą•-,,
+cr-758-1-1,cr,Crow,crow1244,cro,758,grass (3),baaxée,rg;dec[11],
+hi-758-1-1,hi,Hidatsa,hida1246,hid,758,grass (3),wa•xaxa•,j,
+hi-758-1-2,hi,Hidatsa,hida1246,hid,758,grass (3),ma•xaxa•,,
+ma-758-1-1,ma,Mandan,mand1446,mhq,758,grass (3),"xą́h, xąhé",c,
+pwc-758-1-1,pwc,Proto-Hoocąk-Chiwere,,,758,grass (3),*xą́•wį,,
+ch-758-1-1,ch,Chiwere,iowa1245,iow,758,grass (3),"xámi, xáme",jgt92[94],
+wi-758-1-1,wi,Hoocąk,hoch1243,win,758,grass (3),xąąwį́,km[3864];lwr[38],
+wi-758-1-2,wi,Hoocąk,hoch1243,win,758,grass (3),xąąwį,,

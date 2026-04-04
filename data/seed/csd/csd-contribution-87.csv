@@ -1,0 +1,13 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-87-1-1,pmv,Proto-Mississipi-Valley,,,87,unstable,*psų́,,
+pwc-87-1-1,pwc,Proto-Hoocąk-Chiwere,,,87,unstable,*sų•,,
+pdh-87-1-1,pdh,Proto-Dhegiha,,,87,unstable,*są,,
+da-87-1-1,da,Dakota,dako1258,dak,87,unstable,psųpsų-,r[426a],
+ch-87-1-1,ch,Chiwere,iowa1245,iow,87,unstable,ʔθą,,
+ch-87-2-1,ch,Chiwere,iowa1245,iow,87,unstable,akíru’than,lwr,
+ch-87-2-2,ch,Chiwere,iowa1245,iow,87,unstable,akhíluʔθą,marsh,
+wi-87-1-1,wi,Hoocąk,hoch1243,win,87,unstable,nąąsų́,,
+wi-87-1-2,wi,Hoocąk,hoch1243,win,87,unstable,nąąsų,,
+ks-87-1-1,ks,Kanza/Kaw,kans1243,ksk,87,unstable,alį́ sąį́yaya,rr,
+ks-87-1-2,ks,Kanza/Kaw,kans1243,ksk,87,unstable,są́ya,,
+os-87-1-1,os,Osage,osag1243,osa,87,unstable,çoⁿthá ithatha,lf[32a],

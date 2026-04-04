@@ -1,0 +1,8 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-660-1-1,psi,Proto-Siouan,,sio,660,itch (1),*xa-,,
+cr-660-1-1,cr,Crow,crow1244,cro,660,itch (1),xaliá,gg[60];dec[102],
+la-660-1-1,la,Lakota,lako1247,lkt,660,itch (1),"-ga, apá-",b[87],
+bi-660-1-1,bi,Biloxi,bilo1248,bll,660,itch (1),duxayĕ´,ds[219b],
+bi-660-1-2,bi,Biloxi,bilo1248,bll,660,itch (1),duxayaxaⁿ,,
+bi-660-1-3,bi,Biloxi,bilo1248,bll,660,itch (1),dúxayaxaⁿ´,ds[219b],
+bi-660-1-4,bi,Biloxi,bilo1248,bll,660,itch (1),pạ́ duxayĕ´,ds[219b],

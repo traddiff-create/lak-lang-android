@@ -1,0 +1,9 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pwc-1120-1-1,pwc,Proto-Hoocąk-Chiwere,,,1120,bee (1),*he•zíke (?),,
+ch-1120-1-1,ch,Chiwere,iowa1245,iow,1120,bee (1),hedhíge,jgt92[105],
+ch-1120-2-1,ch,Chiwere,iowa1245,iow,1120,bee (1),hejige,jgt92[105],
+ot-1120-1-1,ot,Otoe,iowa1245,iow,1120,bee (1),heðí•ge,jdh,
+wi-1120-1-1,wi,Hoocąk,hoch1243,win,1120,bee (1),heezík,km[797],
+wi-1120-1-2,wi,Hoocąk,hoch1243,win,1120,bee (1),heezik,,
+os-1120-1-1,os,Osage,osag1243,osa,1120,bee (1),wabáçige,lf[183a],
+qu-1120-1-1,qu,Quapaw,quap1242,qua,1120,bee (1),hezíka,rr,

@@ -1,0 +1,9 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pwc-1062-1-1,pwc,Proto-Hoocąk-Chiwere,,,1062,bow,*mą́•tku,,
+ch-1062-1-1,ch,Chiwere,iowa1245,iow,1062,bow,mą́hdu,rr,
+wi-1062-1-1,wi,Hoocąk,hoch1243,win,1062,bow,mąąčgú,km[1942],
+wi-1062-1-2,wi,Hoocąk,hoch1243,win,1062,bow,mąącgu,,
+op-1062-1-1,op,Omaha-Ponca,omah1247,oma,1062,bow,mą́de,rr,
+ks-1062-1-1,ks,Kanza/Kaw,kans1243,ksk,1062,bow,mį́ǰe,rr,
+os-1062-1-1,os,Osage,osag1243,osa,1062,bow,mį́ce,rr,
+qu-1062-1-1,qu,Quapaw,quap1242,qua,1062,bow,mą́tte,rr,

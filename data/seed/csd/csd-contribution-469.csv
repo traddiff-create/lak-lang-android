@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-469-1-1,pmv,Proto-Mississipi-Valley,,,469,"press, instrumental",*pu-,,
+pwc-469-1-1,pwc,Proto-Hoocąk-Chiwere,,,469,"press, instrumental",wu-,,
+pdh-469-1-1,pdh,Proto-Dhegiha,,,469,"press, instrumental",*pü-,,
+la-469-1-1,la,Lakota,lako1247,lkt,469,"press, instrumental",pu-,,
+ch-469-1-1,ch,Chiwere,iowa1245,iow,469,"press, instrumental",wi-,jgt92[206],
+wi-469-1-1,wi,Hoocąk,hoch1243,win,469,"press, instrumental",wu-,,
+wi-469-1-2,wi,Hoocąk,hoch1243,win,469,"press, instrumental",wu-,,
+op-469-1-1,op,Omaha-Ponca,omah1247,oma,469,"press, instrumental",bi-,,
+ks-469-1-1,ks,Kanza/Kaw,kans1243,ksk,469,"press, instrumental",bü- ~ bi-,rr,
+os-469-1-1,os,Osage,osag1243,osa,469,"press, instrumental","pü-, pi-",,
+qu-469-1-1,qu,Quapaw,quap1242,qua,469,"press, instrumental",bi-,,

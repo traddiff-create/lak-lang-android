@@ -1,0 +1,6 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-747-1-1,psi,Proto-Siouan,,sio,747,grouse,*-hpú•ska,,
+ma-747-1-1,ma,Mandan,mand1446,mhq,747,grouse,sípu•ška,c,
+pbo-747-1-1,pbo,Proto-Biloxi-Ofo,,,747,grouse,*(a)mą-phú•ska,,
+bi-747-1-1,bi,Biloxi,bilo1248,bll,747,grouse,apuská,ds[174a],
+of-747-1-1,of,Ofo,ofoo1242,ofo,747,grouse,"amạphó̄ska, amạphû´ska",ds[320b];ds[334a];ssf,

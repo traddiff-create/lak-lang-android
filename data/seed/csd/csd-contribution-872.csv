@@ -1,0 +1,4 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-872-1-1,psi,Proto-Siouan,,sio,872,emphatic topic,*ya,,
+la-872-1-1,la,Lakota,lako1247,lkt,872,emphatic topic,čha,,
+tu-872-1-1,tu,Tutelo,tute1247,tta,872,emphatic topic,ya,gro,

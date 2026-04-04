@@ -1,0 +1,9 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pwc-569-1-1,pwc,Proto-Hoocąk-Chiwere,,,569,moccasin (2),*a•kúte,,
+ch-569-1-1,ch,Chiwere,iowa1245,iow,569,moccasin (2),a•gúǰe,rr,
+ch-569-1-2,ch,Chiwere,iowa1245,iow,569,moccasin (2),agúthą,gmsf,
+wi-569-1-1,wi,Hoocąk,hoch1243,win,569,moccasin (2),waguǰé,km[1695],
+wi-569-1-2,wi,Hoocąk,hoch1243,win,569,moccasin (2),waguje,km[120],
+wi-569-1-3,wi,Hoocąk,hoch1243,win,569,moccasin (2),caahá-waguǰé,,
+wi-569-1-4,wi,Hoocąk,hoch1243,win,569,moccasin (2),caaha waguje (> caa+haa waguje),,
+tu-569-1-1,tu,Tutelo,tute1247,tta,569,moccasin (2),"āgōre, āgōdē, añgohlēi",h,

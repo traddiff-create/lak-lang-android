@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-970-1-1,pmv,Proto-Mississipi-Valley,,,970,copulate (2),*rhú,,
+pda-970-1-1,pda,Proto-Dakota,,,970,copulate (2),*hú,,
+pwc-970-1-1,pwc,Proto-Hoocąk-Chiwere,,,970,copulate (2),*tú,,
+pdh-970-1-1,pdh,Proto-Dhegiha,,,970,copulate (2),*thǘ,,
+la-970-1-1,la,Lakota,lako1247,lkt,970,copulate (2),hú,c,
+sv-970-1-1,sv,Sioux Valley,,,970,copulate (2),hú,pas,
+ch-970-1-1,ch,Chiwere,iowa1245,iow,970,copulate (2),watúhta,marsh,
+wi-970-1-1,wi,Hoocąk,hoch1243,win,970,copulate (2),juu,marino[217],
+wi-970-1-2,wi,Hoocąk,hoch1243,win,970,copulate (2),dju,,
+op-970-1-1,op,Omaha-Ponca,omah1247,oma,970,copulate (2),čhi,jek,
+ks-970-1-1,ks,Kanza/Kaw,kans1243,ksk,970,copulate (2),čhü,rr,

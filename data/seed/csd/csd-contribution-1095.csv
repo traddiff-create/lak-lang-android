@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-1095-1-1,pmv,Proto-Mississipi-Valley,,,1095,big (2),*xąte,,
+da-1095-1-1,da,Dakota,dako1258,dak,1095,big (2),[†xį́ča ~ †xį],r[165a],
+ch-1095-1-1,ch,Chiwere,iowa1245,iow,1095,big (2),xą́ñe,rr,
+ot-1095-1-1,ot,Otoe,iowa1245,iow,1095,big (2),xąǰé,c,
+ot-1095-1-2,ot,Otoe,iowa1245,iow,1095,big (2),xąǰé•,jdh,
+ot-1095-1-3,ot,Otoe,iowa1245,iow,1095,big (2),xąǰé•dąną,jdh,
+wi-1095-1-1,wi,Hoocąk,hoch1243,win,1095,big (2),xeté,km[3889],
+wi-1095-1-2,wi,Hoocąk,hoch1243,win,1095,big (2),xete,,
+op-1095-1-1,op,Omaha-Ponca,omah1247,oma,1095,big (2),xą́de,,

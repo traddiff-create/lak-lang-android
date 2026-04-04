@@ -1,0 +1,6 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-1053-1-1,psi,Proto-Siouan,,sio,1053,break (1),*xóke,,
+pbo-1053-1-1,pbo,Proto-Biloxi-Ofo,,,1053,break (1),*xoki,,
+ch-1053-1-1,ch,Chiwere,iowa1245,iow,1053,break (1),gixóge,jgt92[21],
+bi-1053-1-1,bi,Biloxi,bilo1248,bll,1053,break (1),xoxóki,ds[222a],
+of-1053-1-1,of,Ofo,ofoo1242,ofo,1053,break (1),kạ́shoki,ds[325b],

@@ -1,0 +1,9 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-284-1-1,psi,Proto-Siouan,,sio,284,soft (3),*šró,,
+pma-284-1-1,pma,Pre-Mandan,,,284,soft (3),*šro•-,,
+ma-284-1-1,ma,Mandan,mand1446,mhq,284,soft (3),šeróroʔš,h[237],
+pda-284-1-1,pda,Proto-Dakota,,,284,soft (3),*šro,,
+la-284-1-1,la,Lakota,lako1247,lkt,284,soft (3),šlo,c,
+da-284-1-1,da,Dakota,dako1258,dak,284,soft (3),šdo,r[442],
+sv-284-1-1,sv,Sioux Valley,,,284,soft (3),šdo,pas,
+bi-284-1-1,bi,Biloxi,bilo1248,bll,284,soft (3),"tcdo, tcdópi",ds[262b],

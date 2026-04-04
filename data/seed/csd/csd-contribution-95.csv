@@ -1,0 +1,11 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-95-1-1,psi,Proto-Siouan,,sio,95,twist (2),*ru-rį́•,,
+pse-95-1-1,pse,Proto-Southeastern,,,95,twist (2),*ru-nį́•,,
+wi-95-1-1,wi,Hoocąk,hoch1243,win,95,twist (2),hikurunį́,km[948],
+wi-95-1-2,wi,Hoocąk,hoch1243,win,95,twist (2),hikurunį,,
+op-95-1-1,op,Omaha-Ponca,omah1247,oma,95,twist (2),thi bethiⁿ,sw[178],
+bi-95-1-1,bi,Biloxi,bilo1248,bll,95,twist (2),duní,ds[236a],
+bi-95-1-2,bi,Biloxi,bilo1248,bll,95,twist (2),duní taⁿ´iⁿhĕxtí,ds[236a],
+bi-95-1-3,bi,Biloxi,bilo1248,bll,95,twist (2),duníni,ds[236a],
+bi-95-1-4,bi,Biloxi,bilo1248,bll,95,twist (2),duníni xwû´diḳĕ´di,ds[225a],
+tu-95-1-1,tu,Tutelo,tute1247,tta,95,twist (2),lu•ní’,hw,

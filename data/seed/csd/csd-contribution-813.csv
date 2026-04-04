@@ -1,0 +1,11 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-813-1-1,pmv,Proto-Mississipi-Valley,,,813,follow,*o-he,,
+pda-813-1-1,pda,Proto-Dakota,,,813,follow,*o-he,,
+pdh-813-1-1,pdh,Proto-Dhegiha,,,813,follow,*o-hé,,
+la-813-1-1,la,Lakota,lako1247,lkt,813,follow,ókhihe,b[388b],
+da-813-1-1,da,Dakota,dako1258,dak,813,follow,ókihe,r[367b],
+op-813-1-1,op,Omaha-Ponca,omah1247,oma,813,follow,uthu he’,sw[79],
+op-813-1-2,op,Omaha-Ponca,omah1247,oma,813,follow,ohé,,
+ks-813-1-1,ks,Kanza/Kaw,kans1243,ksk,813,follow,óhi; oyáha,jod,
+os-813-1-1,os,Osage,osag1243,osa,813,follow,uthúha,lf[179a],
+qu-813-1-1,qu,Quapaw,quap1242,qua,813,follow,óihé,jod,

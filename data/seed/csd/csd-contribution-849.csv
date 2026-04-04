@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-849-1-1,psi,Proto-Siouan,,sio,849,"fat, stout",*yépE,,
+pch-849-1-1,pch,Proto-Crow-Hidatsa,,,849,"fat, stout",irípE,,
+cr-849-1-1,cr,Crow,crow1244,cro,849,"fat, stout",ilápi,rg;gg[87];dec[96],
+hi-849-1-1,hi,Hidatsa,hida1246,hid,849,"fat, stout",irípE,j,
+hi-849-1-2,hi,Hidatsa,hida1246,hid,849,"fat, stout",irípi,,
+ma-849-1-1,ma,Mandan,mand1446,mhq,849,"fat, stout",répoʔš,c,
+pda-849-1-1,pda,Proto-Dakota,,,849,"fat, stout",*čhépa,,
+la-849-1-1,la,Lakota,lako1247,lkt,849,"fat, stout",čhépa,c,
+da-849-1-1,da,Dakota,dako1258,dak,849,"fat, stout",ćépa,r[99a],

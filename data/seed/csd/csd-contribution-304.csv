@@ -1,0 +1,11 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-304-1-1,pmv,Proto-Mississipi-Valley,,,304,slip (4),*šrúkE,,
+la-304-1-1,la,Lakota,lako1247,lkt,304,slip (4),pašlúka,ej,
+wi-304-1-1,wi,Hoocąk,hoch1243,win,304,slip (4),wašurúk,km[3492];lk[48.13],
+wi-304-1-2,wi,Hoocąk,hoch1243,win,304,slip (4),wašuruk,km[2047],
+wi-304-1-3,wi,Hoocąk,hoch1243,win,304,slip (4),mąąxúruk,km[2272];lk[18.7],
+wi-304-1-4,wi,Hoocąk,hoch1243,win,304,slip (4),mąąxuruk,km[2769],
+wi-304-1-5,wi,Hoocąk,hoch1243,win,304,slip (4),nąąxúruk,,
+wi-304-1-6,wi,Hoocąk,hoch1243,win,304,slip (4),nąąxuruk,,
+wi-304-1-7,wi,Hoocąk,hoch1243,win,304,slip (4),ruxurúk,,
+wi-304-1-8,wi,Hoocąk,hoch1243,win,304,slip (4),ruxuruk,,

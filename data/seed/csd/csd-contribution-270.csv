@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-270-1-1,pmv,Proto-Mississipi-Valley,,,270,sour (2),tʔa-,,
+pda-270-1-1,pda,Proto-Dakota,,,270,sour (2),*tʔáɣA,,
+la-270-1-1,la,Lakota,lako1247,lkt,270,sour (2),tʔáɣA,ej,
+da-270-1-1,da,Dakota,dako1258,dak,270,sour (2),ṭáġa,r[482a],
+ch-270-1-1,ch,Chiwere,iowa1245,iow,270,sour (2),tʔa,lwr[30],
+wi-270-1-1,wi,Hoocąk,hoch1243,win,270,sour (2),tʔéek,,
+wi-270-1-2,wi,Hoocąk,hoch1243,win,270,sour (2),t’eek,,
+ks-270-1-1,ks,Kanza/Kaw,kans1243,ksk,270,sour (2),cʔáye,rr,
+os-270-1-1,os,Osage,osag1243,osa,270,sour (2),ṭsʔáthe,lf[157a],

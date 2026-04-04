@@ -1,0 +1,13 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-1017-1-1,psi,Proto-Siouan,,sio,1017,butcher,*hpátE,,
+pmv-1017-1-1,pmv,Proto-Mississipi-Valley,,,1017,butcher,*hpátE,,
+hi-1017-1-1,hi,Hidatsa,hida1246,hid,1017,butcher,"-pátE, ha-",j,
+pda-1017-1-1,pda,Proto-Dakota,,,1017,butcher,*pháta,,
+pdh-1017-1-1,pdh,Proto-Dhegiha,,,1017,butcher,*hpáte,,
+la-1017-1-1,la,Lakota,lako1247,lkt,1017,butcher,pháta,c,
+st-1017-1-1,st,Stoney,ston1242,sto,1017,butcher,pháda,pas,
+wi-1017-1-1,wi,Hoocąk,hoch1243,win,1017,butcher,páač,km[2421],
+wi-1017-1-2,wi,Hoocąk,hoch1243,win,1017,butcher,paac,,
+op-1017-1-1,op,Omaha-Ponca,omah1247,oma,1017,butcher,ppáde,c,
+ks-1017-1-1,ks,Kanza/Kaw,kans1243,ksk,1017,butcher,ppáǰe,rr,
+os-1017-1-1,os,Osage,osag1243,osa,1017,butcher,p̣ádse,lf[125a],

@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-61-1-1,pmv,Proto-Mississipi-Valley,,,61,want (3),*kų́•-ra,,
+pdh-61-1-1,pdh,Proto-Dhegiha,,,61,want (3),*_kǫ́-_ra,,
+la-61-1-1,la,Lakota,lako1247,lkt,61,want (3),kų́la,b[315b],
+ch-61-1-1,ch,Chiwere,iowa1245,iow,61,want (3),gų́la,marsh,
+ch-61-1-2,ch,Chiwere,iowa1245,iow,61,want (3),gų́•ną,rr,
+op-61-1-1,op,Omaha-Ponca,omah1247,oma,61,want (3),gą́ða,rr,
+ks-61-1-1,ks,Kanza/Kaw,kans1243,ksk,61,want (3),gǫ́ya,rr,
+os-61-1-1,os,Osage,osag1243,osa,61,want (3),kǫ́ða,rr,
+qu-61-1-1,qu,Quapaw,quap1242,qua,61,want (3),kǫ́da,rr,

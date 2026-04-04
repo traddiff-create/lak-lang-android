@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-933-1-1,pmv,Proto-Mississipi-Valley,,,933,cutting instrumental,*Wa-,,
+pda-933-1-1,pda,Proto-Dakota,,,933,cutting instrumental,*Wa-,,
+pdh-933-1-1,pdh,Proto-Dhegiha,,,933,cutting instrumental,*Wá-,,
+la-933-1-1,la,Lakota,lako1247,lkt,933,cutting instrumental,wa-,,
+da-933-1-1,da,Dakota,dako1258,dak,933,cutting instrumental,ba-,,
+ch-933-1-1,ch,Chiwere,iowa1245,iow,933,cutting instrumental,ba-,marsh,
+wi-933-1-1,wi,Hoocąk,hoch1243,win,933,cutting instrumental,"mąą-, mąą́-, mąąrá-, mąą-",lk;pv,
+op-933-1-1,op,Omaha-Ponca,omah1247,oma,933,cutting instrumental,má-,,
+ks-933-1-1,ks,Kanza/Kaw,kans1243,ksk,933,cutting instrumental,bá-,rr,
+os-933-1-1,os,Osage,osag1243,osa,933,cutting instrumental,pá-,rr,
+qu-933-1-1,qu,Quapaw,quap1242,qua,933,cutting instrumental,pa-,jod;rr,

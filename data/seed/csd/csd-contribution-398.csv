@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-398-1-1,psi,Proto-Siouan,,sio,398,sand (1),*hpú•sahe,,
+pmv-398-1-1,pmv,Proto-Mississipi-Valley,,,398,sand (1),*hpu•zá(h-ke),,
+ma-398-1-1,ma,Mandan,mand1446,mhq,398,sand (1),púšak,h[160],
+pdh-398-1-1,pdh,Proto-Dhegiha,,,398,sand (1),*hpü•zá,,
+ch-398-1-1,ch,Chiwere,iowa1245,iow,398,sand (1),phu•θá-khe,c;rr,
+wi-398-1-1,wi,Hoocąk,hoch1243,win,398,sand (1),pųųzáke,km[2515],
+wi-398-1-2,wi,Hoocąk,hoch1243,win,398,sand (1),pųųzake,,
+op-398-1-1,op,Omaha-Ponca,omah1247,oma,398,sand (1),ppi•zá,jod;rr,
+ks-398-1-1,ks,Kanza/Kaw,kans1243,ksk,398,sand (1),ppü•zá,rr,
+os-398-1-1,os,Osage,osag1243,osa,398,sand (1),p̣içá,lf[128b],
+qu-398-1-1,qu,Quapaw,quap1242,qua,398,sand (1),ppíza,rr;jod,

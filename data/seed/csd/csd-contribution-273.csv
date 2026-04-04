@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psc-273-1-1,psc,Proto-Siouan-Catawba,,,273,song,*wų-,,
+psi-273-1-1,psi,Proto-Siouan,,sio,273,song,*wųhé,,
+pch-273-1-1,pch,Proto-Crow-Hidatsa,,,273,song,*wu•,,
+pma-273-1-1,pma,Pre-Mandan,,,273,song,*wąhe,,
+ca-273-1-1,ca,Catawba,cata1286,chc,273,song,mǫʔ,sp[9a],
+cr-273-1-1,cr,Crow,crow1244,cro,273,song,buú,gg[35],
+hi-273-1-1,hi,Hidatsa,hida1246,hid,273,song,itú•,,
+ma-273-1-1,ma,Mandan,mand1446,mhq,273,song,wąhé,c,
+bi-273-1-1,bi,Biloxi,bilo1248,bll,273,song,yoⁿni,ds[288b],

@@ -1,0 +1,5 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pdh-856-1-1,pdh,Proto-Dhegiha,,,856,fall (1),*hí•phe,,
+ks-856-1-1,ks,Kanza/Kaw,kans1243,ksk,856,fall (1),hí•phe,rr,
+os-856-1-1,os,Osage,osag1243,osa,856,fall (1),hípshe,lf[61b],
+tu-856-1-1,tu,Tutelo,tute1247,tta,856,fall (1),himpéwa,hw,

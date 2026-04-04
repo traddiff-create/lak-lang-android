@@ -1,0 +1,7 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-405-1-1,psi,Proto-Siouan,,sio,405,"run (3), get out",*hątá,,
+pda-405-1-1,pda,Proto-Dakota,,,405,"run (3), get out",*hą́ta,,
+la-405-1-1,la,Lakota,lako1247,lkt,405,"run (3), get out",hą́ta,b[167b],
+da-405-1-1,da,Dakota,dako1258,dak,405,"run (3), get out",háŋta,r[124b],
+tu-405-1-1,tu,Tutelo,tute1247,tta,405,"run (3), get out",hantá; hinda,n;h,
+tu-405-2-1,tu,Tutelo,tute1247,tta,405,"run (3), get out",hĕⁿ-ṭĕⁿ´-he-se,hw,

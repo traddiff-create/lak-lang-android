@@ -1,0 +1,6 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pch-640-1-1,pch,Proto-Crow-Hidatsa,,,640,know (3),*é•hke,,
+pma-640-1-1,pma,Pre-Mandan,,,640,know (3),*í_hek-,,
+cr-640-1-1,cr,Crow,crow1244,cro,640,know (3),éhče,gg[47];dec[90],
+hi-640-1-1,hi,Hidatsa,hida1246,hid,640,know (3),é•hke,j,
+ma-640-1-1,ma,Mandan,mand1446,mhq,640,know (3),íhekoʔš,c,

@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-771-1-1,psi,Proto-Siouan,,sio,771,good (2),*Sté,,
+pmv-771-1-1,pmv,Proto-Mississipi-Valley,,,771,good (2),*Sté,,
+pda-771-1-1,pda,Proto-Dakota,,,771,good (2),wašte,,
+pdh-771-1-1,pdh,Proto-Dhegiha,,,771,good (2),*xtá-re,,
+la-771-1-1,la,Lakota,lako1247,lkt,771,good (2),wašté,c,
+la-771-1-2,la,Lakota,lako1247,lkt,771,good (2),waštélaka,c,
+op-771-1-1,op,Omaha-Ponca,omah1247,oma,771,good (2),xjákithe,sw[115],
+ks-771-1-1,ks,Kanza/Kaw,kans1243,ksk,771,good (2),xtáye,rr,
+os-771-1-1,os,Osage,osag1243,osa,771,good (2),xtáthe,lf[219b],
+qu-771-1-1,qu,Quapaw,quap1242,qua,771,good (2),xtadé,jod,
+tu-771-1-1,tu,Tutelo,tute1247,tta,771,good (2),yandostéka,h,

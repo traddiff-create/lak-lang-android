@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-767-1-1,psi,Proto-Siouan,,sio,767,gourd > rattle,*Vhpé•xe,,
+pmv-767-1-1,pmv,Proto-Mississipi-Valley,,,767,gourd > rattle,*hpéɣe,,
+pdh-767-1-1,pdh,Proto-Dhegiha,,,767,gourd > rattle,*hpéɣe,,
+wi-767-1-1,wi,Hoocąk,hoch1243,win,767,gourd > rattle,péex,km[2470],
+wi-767-1-2,wi,Hoocąk,hoch1243,win,767,gourd > rattle,peex,,
+op-767-1-1,op,Omaha-Ponca,omah1247,oma,767,gourd > rattle,péxe,sw[22],
+ks-767-1-1,ks,Kanza/Kaw,kans1243,ksk,767,gourd > rattle,ppéɣe,rr,
+os-767-1-1,os,Osage,osag1243,osa,767,gourd > rattle,p̣éxe,lf[128a],
+of-767-1-1,of,Ofo,ofoo1242,ofo,767,gourd > rattle,taphé̄su,ssf,

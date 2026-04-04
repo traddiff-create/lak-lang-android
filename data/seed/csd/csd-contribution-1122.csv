@@ -1,0 +1,13 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-1122-1-1,psi,Proto-Siouan,,sio,1122,bed,"*o-wų́ke, *o-ʔų́ke",rr,
+pch-1122-1-1,pch,Proto-Crow-Hidatsa,,,1122,bed,*u•wakí,,
+pmv-1122-1-1,pmv,Proto-Mississipi-Valley,,,1122,bed,*o-wų́kE,,
+cr-1122-1-1,cr,Crow,crow1244,cro,1122,bed,uuwačí,rg;gg[58];dec[43],
+hi-1122-1-1,hi,Hidatsa,hida1246,hid,1122,bed,u•wakí,j,
+ma-1122-1-1,ma,Mandan,mand1446,mhq,1122,bed,ówąke,c,
+pda-1122-1-1,pda,Proto-Dakota,,,1122,bed,*o-wų́kA,,
+la-1122-1-1,la,Lakota,lako1247,lkt,1122,bed,oyų́ke,c,
+da-1122-1-1,da,Dakota,dako1258,dak,1122,bed,owaŋka,wm[15b],
+ya-1122-1-1,ya,Yanktonai,dako1258,dak,1122,bed,ową́ka,bandd[33],
+wi-1122-1-1,wi,Hoocąk,hoch1243,win,1122,bed,hoomį́k,km[1449],
+wi-1122-1-2,wi,Hoocąk,hoch1243,win,1122,bed,homįk,,

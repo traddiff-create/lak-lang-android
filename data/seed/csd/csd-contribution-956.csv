@@ -1,0 +1,13 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-956-1-1,psi,Proto-Siouan,,sio,956,cover (1),*Sųhe,,
+pch-956-1-1,pch,Proto-Crow-Hidatsa,,,956,cover (1),*-xua < *-xuhe,,
+pmv-956-1-1,pmv,Proto-Mississipi-Valley,,,956,cover (1),*-šų́,,
+cr-956-1-1,cr,Crow,crow1244,cro,956,cover (1),iaxuá,gg[71];rg,
+cr-956-1-2,cr,Crow,crow1244,cro,956,cover (1),aaxuá,gg[3];dec[24],
+hi-956-1-1,hi,Hidatsa,hida1246,hid,956,cover (1),iʔaxua,j,
+hi-956-1-2,hi,Hidatsa,hida1246,hid,956,cover (1),aʔaxua,j,
+wi-956-1-1,wi,Hoocąk,hoch1243,win,956,cover (1),"šų́, horu-",km[1508],
+wi-956-1-2,wi,Hoocąk,hoch1243,win,956,cover (1),horušų,,
+ks-956-1-1,ks,Kanza/Kaw,kans1243,ksk,956,cover (1),bašǫ́,rr,
+bi-956-1-1,bi,Biloxi,bilo1248,bll,956,cover (1),"soⁿni, atŭ´k- (atŭkse’oⁿni)",ds[175a],
+bi-956-2-1,bi,Biloxi,bilo1248,bll,956,cover (1),"soⁿ´hoⁿ, aduk-",ds[175a],

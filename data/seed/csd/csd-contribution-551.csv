@@ -1,0 +1,7 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-551-1-1,psi,Proto-Siouan,,sio,551,"narrow, small",*kisú•ke,,
+ma-551-1-1,ma,Mandan,mand1446,mhq,551,"narrow, small",kšukóʔš,rtc,
+wi-551-1-1,wi,Hoocąk,hoch1243,win,551,"narrow, small",ksuksík,,
+wi-551-1-2,wi,Hoocąk,hoch1243,win,551,"narrow, small",ksuuksik,km[1893],
+wi-551-1-3,wi,Hoocąk,hoch1243,win,551,"narrow, small",suuksík,,
+wi-551-1-4,wi,Hoocąk,hoch1243,win,551,"narrow, small",suuksik,,

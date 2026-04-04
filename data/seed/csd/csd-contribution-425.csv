@@ -1,0 +1,8 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pse-425-1-1,pse,Proto-Southeastern,,,425,road (2),*(n)ątkhó•hi,,
+pbo-425-1-1,pbo,Proto-Biloxi-Ofo,,,425,road (2),*nətkhóhi (?),,
+bi-425-1-1,bi,Biloxi,bilo1248,bll,425,road (2),"nĕtkohí, natkohi, natkohí, nĭtkohi, nŭtkuhi, nŭtkohi",ds[235b],
+of-425-1-1,of,Ofo,ofoo1242,ofo,425,road (2),nạkhó̄hi,ds[326b];ssf,
+tu-425-1-1,tu,Tutelo,tute1247,tta,425,road (2),hĕⁿṭkóoq,jod,
+tu-425-1-2,tu,Tutelo,tute1247,tta,425,road (2),hĕⁿṭkóoq,hw,
+sp-425-1-1,sp,Saponi,tute1247,tta,425,road (2),hodke,fontaine,

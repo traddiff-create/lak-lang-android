@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-1167-1-1,pmv,Proto-Mississipi-Valley,,,1167,"antelope, goat",*hta•thó,,
+pda-1167-1-1,pda,Proto-Dakota,,,1167,"antelope, goat",*thathóka,,
+pdh-1167-1-1,pdh,Proto-Dhegiha,,,1167,"antelope, goat",*htačhóke < **htathóke,,
+la-1167-1-1,la,Lakota,lako1247,lkt,1167,"antelope, goat",thathóka,b[484a],
+da-1167-1-1,da,Dakota,dako1258,dak,1167,"antelope, goat",tatókadaŋ,wm[7b],
+ot-1167-1-1,ot,Otoe,iowa1245,iow,1167,"antelope, goat",thá•tho,jdh,
+ot-1167-1-2,ot,Otoe,iowa1245,iow,1167,"antelope, goat",tha•thó,jdh,
+op-1167-1-1,op,Omaha-Ponca,omah1247,oma,1167,"antelope, goat",ttačhóge,rr,
+ks-1167-1-1,ks,Kanza/Kaw,kans1243,ksk,1167,"antelope, goat",ttačhóge,rr,
+os-1167-1-1,os,Osage,osag1243,osa,1167,"antelope, goat",ṭatsúge,lf[231b],
+qu-1167-1-1,qu,Quapaw,quap1242,qua,1167,"antelope, goat",ttačhóke,jod,

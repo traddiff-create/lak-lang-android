@@ -1,0 +1,13 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-992-1-1,psi,Proto-Siouan,,sio,992,chin,*í•h-hku,,
+pch-992-1-1,pch,Proto-Crow-Hidatsa,,,992,chin,*í•hka,,
+pmv-992-1-1,pmv,Proto-Mississipi-Valley,,,992,chin,*íhku,,
+cr-992-1-1,cr,Crow,crow1244,cro,992,chin,íihka,rg;gg[76];dec[75],
+hi-992-1-1,hi,Hidatsa,hida1246,hid,992,chin,í•hka,j,
+ma-992-1-1,ma,Mandan,mand1446,mhq,992,chin,íhku,c,
+pdh-992-1-1,pdh,Proto-Dhegiha,,,992,chin,*íhkü,,
+la-992-1-1,la,Lakota,lako1247,lkt,992,chin,ikhú,c,
+ch-992-1-1,ch,Chiwere,iowa1245,iow,992,chin,íkhu,jdh,
+op-992-1-1,op,Omaha-Ponca,omah1247,oma,992,chin,íki,sw[39],
+ks-992-1-1,ks,Kanza/Kaw,kans1243,ksk,992,chin,íkkü,rr,
+os-992-1-1,os,Osage,osag1243,osa,992,chin,iḳi,lf[73a],

@@ -1,0 +1,11 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-466-1-1,psi,Proto-Siouan,,sio,466,"pull, push (2)",*ru-tí,,
+pmv-466-1-1,pmv,Proto-Mississipi-Valley,,,466,"pull, push (2)",*ru-tí,,
+pda-466-1-1,pda,Proto-Dakota,,,466,"pull, push (2)",*yu-tí-tą,,
+la-466-1-1,la,Lakota,lako1247,lkt,466,"pull, push (2)",yutítą,rtc,
+as-466-1-1,as,Assiniboine,assi1247,asb,466,"pull, push (2)",badidą,pas,
+st-466-1-1,st,Stoney,ston1242,sto,466,"pull, push (2)",yudidą,pas,
+ch-466-1-1,ch,Chiwere,iowa1245,iow,466,"pull, push (2)",ru•ǰíge,rr,
+wi-466-1-1,wi,Hoocąk,hoch1243,win,466,"pull, push (2)",rutí,km[2739],
+wi-466-1-2,wi,Hoocąk,hoch1243,win,466,"pull, push (2)",ruti,,
+tu-466-1-1,tu,Tutelo,tute1247,tta,466,"pull, push (2)",ludĭ´,hw,

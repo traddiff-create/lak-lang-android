@@ -1,0 +1,4 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-743-1-1,psi,Proto-Siouan,,sio,743,"growl, bellow",*tá•xe,,
+hi-743-1-1,hi,Hidatsa,hida1246,hid,743,"growl, bellow",tá•xe,j,
+ma-743-1-1,ma,Mandan,mand1446,mhq,743,"growl, bellow",táx,h[246],

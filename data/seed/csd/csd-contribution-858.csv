@@ -1,0 +1,6 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-858-1-1,pmv,Proto-Mississipi-Valley,,,858,fail,*šʔa,,
+pdh-858-1-1,pdh,Proto-Dhegiha,,,858,fail,*šʔa,,
+la-858-1-1,la,Lakota,lako1247,lkt,858,fail,"šʔa, wó-",b[610],
+qu-858-1-1,qu,Quapaw,quap1242,qua,858,fail,"šʔá, da-",rr,
+qu-858-1-2,qu,Quapaw,quap1242,qua,858,fail,"šʔá, di-",rr,

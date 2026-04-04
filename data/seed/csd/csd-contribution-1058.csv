@@ -1,0 +1,8 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+ca-1058-1-1,ca,Catawba,cata1286,chc,1058,brant,kasą́,asg,
+pbo-1058-1-1,pbo,Proto-Biloxi-Ofo,,,1058,brant,*ą•sąną,,
+bi-1058-1-1,bi,Biloxi,bilo1248,bll,1058,brant,"aⁿsna, aⁿsŭná, aⁿsûná",ds[178a],
+bi-1058-1-2,bi,Biloxi,bilo1248,bll,1058,brant,"ą•snaʔ, ą•sənaʔ",mrh,
+bi-1058-1-3,bi,Biloxi,bilo1248,bll,1058,brant,ą•sənaʔ,swadesh,
+of-1058-1-1,of,Ofo,ofoo1242,ofo,1058,brant,óⁿfạna,ds[328a],
+tu-1058-1-1,tu,Tutelo,tute1247,tta,1058,brant,manēasān,,

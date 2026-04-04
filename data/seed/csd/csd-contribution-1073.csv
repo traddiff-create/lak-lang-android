@@ -1,0 +1,9 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-1073-1-1,psi,Proto-Siouan,,sio,1073,blizzard,*húhi,,
+pch-1073-1-1,pch,Proto-Crow-Hidatsa,,,1073,blizzard,*huhe,,
+cr-1073-1-1,cr,Crow,crow1244,cro,1073,blizzard,awatáahua,gg[70],
+hi-1073-1-1,hi,Hidatsa,hida1246,hid,1073,blizzard,húhe•,j,
+wi-1073-1-1,wi,Hoocąk,hoch1243,win,1073,blizzard,"-huhí, táa-",km[3051],
+wi-1073-1-2,wi,Hoocąk,hoch1243,win,1073,blizzard,taahuhi,km[3051],
+wi-1073-1-3,wi,Hoocąk,hoch1243,win,1073,blizzard,"-húhi, waa-",,
+wi-1073-1-4,wi,Hoocąk,hoch1243,win,1073,blizzard,waa huuhi,,

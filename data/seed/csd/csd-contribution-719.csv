@@ -1,0 +1,11 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-719-1-1,psi,Proto-Siouan,,sio,719,"hawthorn, black",*wa-wóha {or} *wa-wúha,,
+pmv-719-1-1,pmv,Proto-Mississipi-Valley,,,719,"hawthorn, black","*Wo, *Wu",,
+hi-719-1-1,hi,Hidatsa,hida1246,hid,719,"hawthorn, black",wawúa,j,
+hi-719-1-2,hi,Hidatsa,hida1246,hid,719,"hawthorn, black",mawúa,,
+pdh-719-1-1,pdh,Proto-Dhegiha,,,719,"hawthorn, black",*Wo,,
+wi-719-1-1,wi,Hoocąk,hoch1243,win,719,"hawthorn, black",wuwu ?,,
+ks-719-1-1,ks,Kanza/Kaw,kans1243,ksk,719,"hawthorn, black",bo,rr,
+os-719-1-1,os,Osage,osag1243,osa,719,"hawthorn, black",p̣ṵ,jod,
+qu-719-1-1,qu,Quapaw,quap1242,qua,719,"hawthorn, black","po, bo",rr,
+of-719-1-1,of,Ofo,ofoo1242,ofo,719,"hawthorn, black",áho,ds[319a],

@@ -1,0 +1,8 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-26-1-1,psi,Proto-Siouan,,sio,26,wind (3),*xųwe,,
+hi-26-1-1,hi,Hidatsa,hida1246,hid,26,wind (3),xaxo•ri,j,
+pda-26-1-1,pda,Proto-Dakota,,,26,wind (3),*-xwe,,
+la-26-1-1,la,Lakota,lako1247,lkt,26,wind (3),itáglaxwe,b[237],
+da-26-1-1,da,Dakota,dako1258,dak,26,wind (3),ítahdaḣbe,r[211a],
+bi-26-1-1,bi,Biloxi,bilo1248,bll,26,wind (3),"xyuⁿwe, ixyúⁿwĕ",ds[226a],
+bi-26-2-1,bi,Biloxi,bilo1248,bll,26,wind (3),cúⁿwe,ds[226a],

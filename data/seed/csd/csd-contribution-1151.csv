@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pda-1151-1-1,pda,Proto-Dakota,,,1151,ashes (2),*čhaxóta,,
+pdh-1151-1-1,pdh,Proto-Dhegiha,,,1151,ashes (2),*-xóte ‘gray’,,
+la-1151-1-1,la,Lakota,lako1247,lkt,1151,ashes (2),čhaxóta,c,
+da-1151-1-1,da,Dakota,dako1258,dak,1151,ashes (2),caḣota,wm[10a],
+ch-1151-1-1,ch,Chiwere,iowa1245,iow,1151,ashes (2),á•xohǰe,rr,
+wi-1151-1-1,wi,Hoocąk,hoch1243,win,1151,ashes (2),raaxóč,km[2536],
+wi-1151-1-2,wi,Hoocąk,hoch1243,win,1151,ashes (2),raaxoc,,
+op-1151-1-1,op,Omaha-Ponca,omah1247,oma,1151,ashes (2),mǫʔxóde,c,
+ks-1151-1-1,ks,Kanza/Kaw,kans1243,ksk,1151,ashes (2),nįxóǰe,rr,
+os-1151-1-1,os,Osage,osag1243,osa,1151,ashes (2),nixódse,lf[111a],
+qu-1151-1-1,qu,Quapaw,quap1242,qua,1151,ashes (2),"nįxóte, nįxótte",rr,

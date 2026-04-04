@@ -1,0 +1,5 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pdh-1183-1-1,pdh,Proto-Dhegiha,,,1183,Padouca,*hpátǫhka,,
+op-1183-1-1,op,Omaha-Ponca,omah1247,oma,1183,Padouca,páduⁿka,flf[102],
+ks-1183-1-1,ks,Kanza/Kaw,kans1243,ksk,1183,Padouca,ppádokka,jod,
+os-1183-1-1,os,Osage,osag1243,osa,1183,Padouca,p̣ádoⁿḳa,lf[125a],

@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pda-961-1-1,pda,Proto-Dakota,,,961,corn ear,*wahú-apa,,
+pwc-961-1-1,pwc,Proto-Hoocąk-Chiwere,,,961,corn ear,*wa-hą́pa,,
+pdh-961-1-1,pdh,Proto-Dhegiha,,,961,corn ear,*hápa,,
+la-961-1-1,la,Lakota,lako1247,lkt,961,corn ear,wahúwapa,c,
+da-961-1-1,da,Dakota,dako1258,dak,961,corn ear,wahuwapa,wm[49b],
+ch-961-1-1,ch,Chiwere,iowa1245,iow,961,corn ear,wahámą,marsh,
+wi-961-1-1,wi,Hoocąk,hoch1243,win,961,corn ear,woohą́p,km[3784];jwe,
+wi-961-1-2,wi,Hoocąk,hoch1243,win,961,corn ear,woohąp,,
+op-961-1-1,op,Omaha-Ponca,omah1247,oma,961,corn ear,wahába,c,
+ks-961-1-1,ks,Kanza/Kaw,kans1243,ksk,961,corn ear,hába,rr,
+os-961-1-1,os,Osage,osag1243,osa,961,corn ear,hápa,rr,

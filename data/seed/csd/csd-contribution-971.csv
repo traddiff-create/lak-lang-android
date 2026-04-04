@@ -1,0 +1,5 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pch-971-1-1,pch,Proto-Crow-Hidatsa,,,971,copulate (1),*í•pi,,
+cr-971-1-1,cr,Crow,crow1244,cro,971,copulate (1),í•pi,rg;gg[79],
+hi-971-1-1,hi,Hidatsa,hida1246,hid,971,copulate (1),í•pi,j,
+ma-971-1-1,ma,Mandan,mand1446,mhq,971,copulate (1),úpoʔš,h[262],

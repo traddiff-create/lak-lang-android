@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-746-1-1,psi,Proto-Siouan,,sio,746,growl > grunt (1),*xrą́,,
+pmv-746-1-1,pmv,Proto-Mississipi-Valley,,,746,growl > grunt (1),*xrą́,,
+ma-746-1-1,ma,Mandan,mand1446,mhq,746,growl > grunt (1),xrą́hah,h[322],
+pda-746-1-1,pda,Proto-Dakota,,,746,growl > grunt (1),*xną,,
+pdh-746-1-1,pdh,Proto-Dhegiha,,,746,growl > grunt (1),*xrą,,
+la-746-1-1,la,Lakota,lako1247,lkt,746,growl > grunt (1),xná,c,
+da-746-1-1,da,Dakota,dako1258,dak,746,growl > grunt (1),ḣna,r[165b],
+os-746-1-1,os,Osage,osag1243,osa,746,growl > grunt (1),xthoⁿ,lf[220b],
+qu-746-1-1,qu,Quapaw,quap1242,qua,746,growl > grunt (1),óxną,jod,

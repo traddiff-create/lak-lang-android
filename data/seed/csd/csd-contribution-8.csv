@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-8-1-1,psi,Proto-Siouan,,sio,8,yawn,*ʔí•- -ra•,,
+pma-8-1-1,pma,Pre-Mandan,,,8,yawn,*í•he + wre•-,,
+pmv-8-1-1,pmv,Proto-Mississipi-Valley,,,8,yawn,*i-(loc.)-ra,,
+hi-8-1-1,hi,Hidatsa,hida1246,hid,8,yawn,í•ra•,j,
+ma-8-1-1,ma,Mandan,mand1446,mhq,8,yawn,í•hwere•roʔš,c,
+la-8-1-1,la,Lakota,lako1247,lkt,8,yawn,iyóya,c,
+da-8-1-1,da,Dakota,dako1258,dak,8,yawn,iyówa,r[237],
+ch-8-1-1,ch,Chiwere,iowa1245,iow,8,yawn,i^ára,jgt92[29],
+wi-8-1-1,wi,Hoocąk,hoch1243,win,8,yawn,ʔiyaára,jwe,
+wi-8-1-2,wi,Hoocąk,hoch1243,win,8,yawn,iiyaara,,
+qu-8-1-1,qu,Quapaw,quap1242,qua,8,yawn,iáda,jod,

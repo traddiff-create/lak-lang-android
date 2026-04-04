@@ -1,0 +1,9 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-909-1-1,pmv,Proto-Mississipi-Valley,,,909,dig out,*-kótE,,
+pdh-909-1-1,pdh,Proto-Dhegiha,,,909,dig out,*-kóte,,
+la-909-1-1,la,Lakota,lako1247,lkt,909,dig out,"kóta, pa-",b[429a],
+la-909-1-2,la,Lakota,lako1247,lkt,909,dig out,"kota, wapá-",b[546a],
+ks-909-1-1,ks,Kanza/Kaw,kans1243,ksk,909,dig out,"-goǰe, bá-",mr;rr,
+ks-909-1-2,ks,Kanza/Kaw,kans1243,ksk,909,dig out,"-góǰe, ba-",rr,
+ks-909-1-3,ks,Kanza/Kaw,kans1243,ksk,909,dig out,"-goǰe, ogá-",rr,
+qu-909-1-1,qu,Quapaw,quap1242,qua,909,dig out,"-kótte, di-",rr,

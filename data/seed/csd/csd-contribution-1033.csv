@@ -1,0 +1,8 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-1033-1-1,psi,Proto-Siouan,,sio,1033,brother (2) mBrel,*i-ʔVka (?),,
+pch-1033-1-1,pch,Proto-Crow-Hidatsa,,,1033,brother (2) mBrel,*iʔVká,,
+cr-1033-1-1,cr,Crow,crow1244,cro,1033,brother (2) mBrel,i•ká,rg;gg[77];dec[23],
+hi-1033-1-1,hi,Hidatsa,hida1246,hid,1033,brother (2) mBrel,iʔaká,j,
+ma-1033-1-1,ma,Mandan,mand1446,mhq,1033,brother (2) mBrel,ų́ʔka,h[262],
+tu-1033-1-1,tu,Tutelo,tute1247,tta,1033,brother (2) mBrel,wahīik,h,
+tu-1033-1-2,tu,Tutelo,tute1247,tta,1033,brother (2) mBrel,ewahyek,hw,

@@ -1,0 +1,11 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-318-1-1,pmv,Proto-Mississipi-Valley,,,318,skim (2),*-ptÉ,,
+pda-318-1-1,pda,Proto-Dakota,,,318,skim (2),*ptA,,
+pdh-318-1-1,pdh,Proto-Dhegiha,,,318,skim (2),*ka-hté,,
+la-318-1-1,la,Lakota,lako1247,lkt,318,skim (2),"ptA´, ka-",b[288a],
+la-318-1-2,la,Lakota,lako1247,lkt,318,skim (2),"ptA, ka-",ej,
+da-318-1-1,da,Dakota,dako1258,dak,318,skim (2),kaptá,r[264a],
+op-318-1-1,op,Omaha-Ponca,omah1247,oma,318,skim (2),gaṭé,,
+ks-318-1-1,ks,Kanza/Kaw,kans1243,ksk,318,skim (2),"ccé, ga-",jod;rr,
+os-318-1-1,os,Osage,osag1243,osa,318,skim (2),gaṭsé,lf[48a],
+qu-318-1-1,qu,Quapaw,quap1242,qua,318,skim (2),"tté, ka-",rr,

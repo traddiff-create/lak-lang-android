@@ -1,0 +1,8 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-495-1-1,pmv,Proto-Mississipi-Valley,,,495,pelican,*wréɣe,,
+pda-495-1-1,pda,Proto-Dakota,,,495,pelican,*wréɣa,,
+pdh-495-1-1,pdh,Proto-Dhegiha,,,495,pelican,*bréɣe,,
+la-495-1-1,la,Lakota,lako1247,lkt,495,pelican,blega,eb[669b],
+da-495-1-1,da,Dakota,dako1258,dak,495,pelican,mdéġa,srr[312b],
+op-495-1-1,op,Omaha-Ponca,omah1247,oma,495,pelican,bthexe,sw[213],
+qu-495-1-1,qu,Quapaw,quap1242,qua,495,pelican,bdéɣa,jod,

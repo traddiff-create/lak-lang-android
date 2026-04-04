@@ -1,0 +1,5 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-580-1-1,psi,Proto-Siouan,,sio,580,melt (1),*sire (?),,
+pma-580-1-1,pma,Pre-Mandan,,,580,melt (1),*šre-,,
+ma-580-1-1,ma,Mandan,mand1446,mhq,580,melt (1),rášereʔš,c,
+bi-580-1-1,bi,Biloxi,bilo1248,bll,580,melt (1),sĭnĕ´,ds[256a],

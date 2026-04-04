@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-621-1-1,psi,Proto-Siouan,,sio,621,"lip (upper), snout",*ahpú•ti,,
+pch-621-1-1,pch,Proto-Crow-Hidatsa,,,621,"lip (upper), snout",*apú•ti,,
+pmv-621-1-1,pmv,Proto-Mississipi-Valley,,,621,"lip (upper), snout",*hpúte,,
+cr-621-1-1,cr,Crow,crow1244,cro,621,"lip (upper), snout",apú•ši,gg[12];dec[68],
+cr-621-1-2,cr,Crow,crow1244,cro,621,"lip (upper), snout",apúushi,,
+hi-621-1-1,hi,Hidatsa,hida1246,hid,621,"lip (upper), snout",apú•ti,j,
+pda-621-1-1,pda,Proto-Dakota,,,621,"lip (upper), snout",*phuté,,
+la-621-1-1,la,Lakota,lako1247,lkt,621,"lip (upper), snout",phuté,c,
+da-621-1-1,da,Dakota,dako1258,dak,621,"lip (upper), snout",puté,r[429a],
+wi-621-1-1,wi,Hoocąk,hoch1243,win,621,"lip (upper), snout",pų́ųč,km[2514],
+wi-621-1-2,wi,Hoocąk,hoch1243,win,621,"lip (upper), snout",pųųc,,

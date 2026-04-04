@@ -1,0 +1,7 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-816-1-1,psi,Proto-Siouan,,sio,816,fog (1),*awąší•,,
+pch-816-1-1,pch,Proto-Crow-Hidatsa,,,816,fog (1),*awaší•,,
+cr-816-1-1,cr,Crow,crow1244,cro,816,fog (1),awašíi,rg;gg[14],
+hi-816-1-1,hi,Hidatsa,hida1246,hid,816,fog (1),awaší•,j,
+ma-816-1-1,ma,Mandan,mand1446,mhq,816,fog (1),wąsí,h[276],
+of-816-1-1,of,Ofo,ofoo1242,ofo,816,fog (1),abashī´ska,ssf,

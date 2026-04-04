@@ -1,0 +1,9 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-483-1-1,pmv,Proto-Mississipi-Valley,,,483,plural,*-(a)pi ~ *-(a)pe,,
+pda-483-1-1,pda,Proto-Dakota,,,483,plural,*-pi,,
+pdh-483-1-1,pdh,Proto-Dhegiha,,,483,plural,*-(a)pi ~ *-(a)pe,,
+la-483-1-1,la,Lakota,lako1247,lkt,483,plural,-pi,,
+da-483-1-1,da,Dakota,dako1258,dak,483,plural,-pi,,
+op-483-1-1,op,Omaha-Ponca,omah1247,oma,483,plural,-(a)bi,,
+ks-483-1-1,ks,Kanza/Kaw,kans1243,ksk,483,plural,-(a)be,,
+qu-483-1-1,qu,Quapaw,quap1242,qua,483,plural,-(a)we,,

@@ -1,0 +1,13 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-740-1-1,psi,Proto-Siouan,,sio,740,hail,*-Wá•su,,
+pmv-740-1-1,pmv,Proto-Mississipi-Valley,,,740,hail,*Wá•su,,
+ca-740-1-1,ca,Catawba,cata1286,chc,740,hail,wasa-,asg;ks,
+pda-740-1-1,pda,Proto-Dakota,,,740,hail,*wasú,,
+pdh-740-1-1,pdh,Proto-Dhegiha,,,740,hail,*Wásü,,
+la-740-1-1,la,Lakota,lako1247,lkt,740,hail,wasú,c,
+da-740-1-1,da,Dakota,dako1258,dak,740,hail,wasú,r[535b],
+ch-740-1-1,ch,Chiwere,iowa1245,iow,740,hail,ba•θú,rr,
+op-740-1-1,op,Omaha-Ponca,omah1247,oma,740,hail,ma´çi,sw[91],
+ks-740-1-1,ks,Kanza/Kaw,kans1243,ksk,740,hail,bósü,rr,
+os-740-1-1,os,Osage,osag1243,osa,740,hail,báçi,lf[19a],
+qu-740-1-1,qu,Quapaw,quap1242,qua,740,hail,pási,rr,

@@ -1,0 +1,7 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-250-1-1,psi,Proto-Siouan,,sio,250,spotted (1),*(a-)pų́•sE,,
+cr-250-1-1,cr,Crow,crow1244,cro,250,spotted (1),puuchí,gg[54];dec[97],
+ma-250-1-1,ma,Mandan,mand1446,mhq,250,spotted (1),pųš,h[160],
+bi-250-1-1,bi,Biloxi,bilo1248,bll,250,spotted (1),apsûⁿ´,ds[248b],
+bi-250-2-1,bi,Biloxi,bilo1248,bll,250,spotted (1),sipí,ds[256a],
+bi-250-3-1,bi,Biloxi,bilo1248,bll,250,spotted (1),sipsipí,ds[256a],

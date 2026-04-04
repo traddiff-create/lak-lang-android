@@ -1,0 +1,6 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-445-1-1,psi,Proto-Siouan,,sio,445,rattle (2b),*širą́he,,
+la-445-1-1,la,Lakota,lako1247,lkt,445,rattle (2b),íčičašlašlayela,b[204b],
+la-445-1-2,la,Lakota,lako1247,lkt,445,rattle (2b),íčičašnašna,,
+bi-445-1-1,bi,Biloxi,bilo1248,bll,445,rattle (2b),tcĭnásedí,ds[264b],
+bi-445-1-2,bi,Biloxi,bilo1248,bll,445,rattle (2b),tcĭnásĕyĕ´,ds[264b],

@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-197-1-1,psi,Proto-Siouan,,sio,197,stop (1),*stąhe,,
+pmv-197-1-1,pmv,Proto-Mississipi-Valley,,,197,stop (1),*-stą,,
+pda-197-1-1,pda,Proto-Dakota,,,197,stop (1),*-stą,,
+la-197-1-1,la,Lakota,lako1247,lkt,197,stop (1),*-stą,,
+da-197-1-1,da,Dakota,dako1258,dak,197,stop (1),-stą,,
+st-197-1-1,st,Stoney,ston1242,sto,197,stop (1),-stą,pas,
+sv-197-1-1,sv,Sioux Valley,,,197,stop (1),-stą,,
+wi-197-1-1,wi,Hoocąk,hoch1243,win,197,stop (1),hakurustą́,km[2869],
+wi-197-1-2,wi,Hoocąk,hoch1243,win,197,stop (1),hakurustą,,
+qu-197-1-1,qu,Quapaw,quap1242,qua,197,stop (1),ádistą,cs;rr,
+bi-197-1-1,bi,Biloxi,bilo1248,bll,197,stop (1),stáⁿhiⁿ,ds[258a],

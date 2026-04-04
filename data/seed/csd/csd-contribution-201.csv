@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-201-1-1,pmv,Proto-Mississipi-Valley,,,201,stink (1),*kwų́ze (?),,
+pda-201-1-1,pda,Proto-Dakota,,,201,stink (1),*kmų́za,,
+pdh-201-1-1,pdh,Proto-Dhegiha,,,201,stink (1),*krǫ́ze,,
+la-201-1-1,la,Lakota,lako1247,lkt,201,stink (1),gmų́za,b[162a],
+da-201-1-1,da,Dakota,dako1258,dak,201,stink (1),hmuŋ´za,r[150b],
+wi-201-1-1,wi,Hoocąk,hoch1243,win,201,stink (1),čųwų́s,km[288],
+wi-201-1-2,wi,Hoocąk,hoch1243,win,201,stink (1),cųwųs,,
+ks-201-1-1,ks,Kanza/Kaw,kans1243,ksk,201,stink (1),"lǫ́ze, lóze",jod,
+os-201-1-1,os,Osage,osag1243,osa,201,stink (1),gthóⁿçe,lf[55b],
+bi-201-1-1,bi,Biloxi,bilo1248,bll,201,stink (1),yaⁿsí,ds[290b],
+tu-201-1-1,tu,Tutelo,tute1247,tta,201,stink (1),wihóoq gupsuá,hw,

@@ -1,0 +1,5 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-476-1-1,psi,Proto-Siouan,,sio,476,pound,*-ški,,
+cr-476-1-1,cr,Crow,crow1244,cro,476,pound,daschí,gg[42],
+la-476-1-1,la,Lakota,lako1247,lkt,476,pound,kaškí,eb[291],
+la-476-1-2,la,Lakota,lako1247,lkt,476,pound,woškí,eb[609],

@@ -1,0 +1,7 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pch-866-1-1,pch,Proto-Crow-Hidatsa,,,866,enter (2),*wiré•ri,,
+cr-866-1-1,cr,Crow,crow1244,cro,866,enter (2),biléeli,gg[31];dec[30],
+hi-866-1-1,hi,Hidatsa,hida1246,hid,866,enter (2),wiré•ri,j,
+hi-866-1-2,hi,Hidatsa,hida1246,hid,866,enter (2),miré•ri,,
+bi-866-1-1,bi,Biloxi,bilo1248,bll,866,enter (2),nḳuwé ndĕdi,ds[285ab],
+bi-866-1-2,bi,Biloxi,bilo1248,bll,866,enter (2),wĕdĕdí,,

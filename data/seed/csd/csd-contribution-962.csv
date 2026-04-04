@@ -1,0 +1,9 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pwc-962-1-1,pwc,Proto-Hoocąk-Chiwere,,,962,corn > corn mush,*waRúte,,
+pdh-962-1-1,pdh,Proto-Dhegiha,,,962,corn > corn mush,*waRǘte,,
+ch-962-1-1,ch,Chiwere,iowa1245,iow,962,corn > corn mush,wadúje,lwr[47],
+wi-962-1-1,wi,Hoocąk,hoch1243,win,962,corn > corn mush,waruc,huronsmith;ms,
+wi-962-1-2,wi,Hoocąk,hoch1243,win,962,corn > corn mush,wadútc,,
+op-962-1-1,op,Omaha-Ponca,omah1247,oma,962,corn > corn mush,wanį́de,,
+ks-962-1-1,ks,Kanza/Kaw,kans1243,ksk,962,corn > corn mush,waǰǘǰe,rr,
+os-962-1-1,os,Osage,osag1243,osa,962,corn > corn mush,wadsúdse,lf[187b],

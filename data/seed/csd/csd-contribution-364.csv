@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-364-1-1,psi,Proto-Siouan,,sio,364,sew,*-hta•,,
+pmv-364-1-1,pmv,Proto-Mississipi-Valley,,,364,sew,*-hta,,
+cr-364-1-1,cr,Crow,crow1244,cro,364,sew,"-taa, páa-",gg[53],
+pda-364-1-1,pda,Proto-Dakota,,,364,sew,*-tha,,
+la-364-1-1,la,Lakota,lako1247,lkt,364,sew,"-thá, pa-",b[435b],
+la-364-1-2,la,Lakota,lako1247,lkt,364,sew,ṗatá,,
+da-364-1-1,da,Dakota,dako1258,dak,364,sew,patá,r[415a],
+wi-364-1-1,wi,Hoocąk,hoch1243,win,364,sew,"-čák, ru-",km[2653],
+wi-364-1-2,wi,Hoocąk,hoch1243,win,364,sew,rucak,,

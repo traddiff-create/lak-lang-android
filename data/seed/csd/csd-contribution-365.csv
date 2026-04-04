@@ -1,0 +1,8 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pdh-365-1-1,pdh,Proto-Dhegiha,,,365,seven (2),*hpé•-rǫpa,,
+op-365-1-1,op,Omaha-Ponca,omah1247,oma,365,seven (2),ppéðǫba,c,
+pn-365-1-1,pn,Ponca,omah1247,oma,365,seven (2),ppé•ðąba ~ ppéąba (fast),rr,
+ks-365-1-1,ks,Kanza/Kaw,kans1243,ksk,365,seven (2),ppéyǫba,rr,
+os-365-1-1,os,Osage,osag1243,osa,365,seven (2),hpéǫpa,rr,
+qu-365-1-1,qu,Quapaw,quap1242,qua,365,seven (2),ppénǫba,rr,
+bi-365-1-1,bi,Biloxi,bilo1248,bll,365,seven (2),náⁿpahudí,ds[238b],

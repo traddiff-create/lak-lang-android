@@ -1,0 +1,11 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-720-1-1,psi,Proto-Siouan,,sio,720,"hawk (2), Buteo",*kyąSká,,
+pmv-720-1-1,pmv,Proto-Mississipi-Valley,,,720,"hawk (2), Buteo",*kyąšká,,
+pda-720-1-1,pda,Proto-Dakota,,,720,"hawk (2), Buteo",*čhąšká,,
+pdh-720-1-1,pdh,Proto-Dhegiha,,,720,"hawk (2), Buteo",*krąšká,,
+la-720-1-1,la,Lakota,lako1247,lkt,720,"hawk (2), Buteo",čhąšká,b[123b],
+da-720-1-1,da,Dakota,dako1258,dak,720,"hawk (2), Buteo",ćaŋśká,r[92b],
+op-720-1-1,op,Omaha-Ponca,omah1247,oma,720,"hawk (2), Buteo",gthoⁿshká,flf[105],
+qu-720-1-1,qu,Quapaw,quap1242,qua,720,"hawk (2), Buteo",xnąšká,jod,
+bi-720-1-1,bi,Biloxi,bilo1248,bll,720,"hawk (2), Buteo",kiyaⁿská,ds[209b],
+bi-720-2-1,bi,Biloxi,bilo1248,bll,720,"hawk (2), Buteo",tcoñktcona,ds[265b],

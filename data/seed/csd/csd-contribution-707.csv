@@ -1,0 +1,8 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pch-707-1-1,pch,Proto-Crow-Hidatsa,,,707,help,*hkuxtÉ,,
+pma-707-1-1,pma,Pre-Mandan,,,707,help,*-kute-,,
+cr-707-1-1,cr,Crow,crow1244,cro,707,help,kuxshí,gg[88],
+hi-707-1-1,hi,Hidatsa,hida1246,hid,707,help,hkuxtÉ,,
+hi-707-1-2,hi,Hidatsa,hida1246,hid,707,help,kuxtí,,
+ma-707-1-1,ma,Mandan,mand1446,mhq,707,help,kikų́tE,h[109],
+ma-707-1-2,ma,Mandan,mand1446,mhq,707,help,kikúteʔš,c,

@@ -1,0 +1,13 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psc-147-1-1,psc,Proto-Siouan-Catawba,,,147,the,*kį•,,
+psi-147-1-1,psi,Proto-Siouan,,sio,147,the,*-kį,,
+ca-147-1-1,ca,Catawba,cata1286,chc,147,the,kį,voorhis[55f],
+ca-147-1-2,ca,Catawba,cata1286,chc,147,the,-kį•,ks[223],
+ca-147-1-3,ca,Catawba,cata1286,chc,147,the,-kį• {in} tų́kį•,ks[223],
+ca-147-1-4,ca,Catawba,cata1286,chc,147,the,-kį•-,ks[223],
+ca-147-1-5,ca,Catawba,cata1286,chc,147,the,-kį•- {in} -kį•ye ‘the’ {in} tusikį•ye ‘the dove’,,
+ca-147-1-6,ca,Catawba,cata1286,chc,147,the,kį•-,,
+ca-147-1-7,ca,Catawba,cata1286,chc,147,the,kį•- {in} kį•tʻ,,
+ma-147-1-1,ma,Mandan,mand1446,mhq,147,the,-ki,c,
+la-147-1-1,la,Lakota,lako1247,lkt,147,the,"kį, ki",b[308b],
+bi-147-1-1,bi,Biloxi,bilo1248,bll,147,the,ḳiⁿhiⁿ,ds[315b],

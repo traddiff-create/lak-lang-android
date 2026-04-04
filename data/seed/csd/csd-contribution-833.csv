@@ -1,0 +1,13 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-833-1-1,psi,Proto-Siouan,,sio,833,five (1),*kiSų́•,,
+pch-833-1-1,pch,Proto-Crow-Hidatsa,,,833,five (1),*kixxú,,
+pse-833-1-1,pse,Proto-Southeastern,,,833,five (1),*kisą́•(-ri),,
+cr-833-1-1,cr,Crow,crow1244,cro,833,five (1),čiaxxú,rg;gg[36];dec[80],
+hi-833-1-1,hi,Hidatsa,hida1246,hid,833,five (1),kixxú,j,
+ma-833-1-1,ma,Mandan,mand1446,mhq,833,five (1),kíxų,c,
+pbo-833-1-1,pbo,Proto-Biloxi-Ofo,,,833,five (1),*kisą́(-ri),,
+bi-833-1-1,bi,Biloxi,bilo1248,bll,833,five (1),"ksaⁿ, ksáni",ds[213a],
+of-833-1-1,of,Ofo,ofoo1242,ofo,833,five (1),"kifaⁿ, kifaⁿ´",ds[325b],
+tu-833-1-1,tu,Tutelo,tute1247,tta,833,five (1),"kasā; kisāhi, kisē, kisáñ, kisāhai, kisāháñi",n;h,
+tu-833-1-2,tu,Tutelo,tute1247,tta,833,five (1),gĭs’ⁿ´,hw,
+tu-833-1-3,tu,Tutelo,tute1247,tta,833,five (1),kisén,frachtenberg,

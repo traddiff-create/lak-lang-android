@@ -1,0 +1,6 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-92-1-1,psi,Proto-Siouan,,sio,92,twist > curly (2),*wrį́xE,,
+la-92-1-1,la,Lakota,lako1247,lkt,92,twist > curly (2),"mníga, na-",b[350],
+la-92-1-2,la,Lakota,lako1247,lkt,92,twist > curly (2),"mníga, ya-",b[624],
+wi-92-1-1,wi,Hoocąk,hoch1243,win,92,twist > curly (2),"piríx, ru-",km[2709],
+wi-92-1-2,wi,Hoocąk,hoch1243,win,92,twist > curly (2),rupirix,,

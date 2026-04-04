@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-408-1-1,pmv,Proto-Mississipi-Valley,,,408,rub (2),*štútE,,
+pdh-408-1-1,pdh,Proto-Dhegiha,,,408,rub (2),*-štüte,,
+la-408-1-1,la,Lakota,lako1247,lkt,408,rub (2),"-štútA, pa-",b[435],
+la-408-1-2,la,Lakota,lako1247,lkt,408,rub (2),"-štútA, yu-",b[653],
+ch-408-1-1,ch,Chiwere,iowa1245,iow,408,rub (2),štúštuǰe,marsh,
+ch-408-1-2,ch,Chiwere,iowa1245,iow,408,rub (2),áwastuje,jgt92[218],
+op-408-1-1,op,Omaha-Ponca,omah1247,oma,408,rub (2),iðištíde,,
+ks-408-1-1,ks,Kanza/Kaw,kans1243,ksk,408,rub (2),íyüščüǰe,jod,
+ks-408-1-2,ks,Kanza/Kaw,kans1243,ksk,408,rub (2),büštǘǰe,jod,
+os-408-1-1,os,Osage,osag1243,osa,408,rub (2),dástsudse,lf[36b],
+qu-408-1-1,qu,Quapaw,quap1242,qua,408,rub (2),distítte,jod,

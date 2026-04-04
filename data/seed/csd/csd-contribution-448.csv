@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-448-1-1,psi,Proto-Siouan,,sio,448,rattle (1b),*šawúhe,,
+hi-448-1-1,hi,Hidatsa,hida1246,hid,448,rattle (1b),šawúa,j,
+pdh-448-1-1,pdh,Proto-Dhegiha,,,448,rattle (1b),*-špǘ,,
+wi-448-1-1,wi,Hoocąk,hoch1243,win,448,rattle (1b),šuwú,km[2996],
+wi-448-1-2,wi,Hoocąk,hoch1243,win,448,rattle (1b),šuwu,km[2997],
+wi-448-1-3,wi,Hoocąk,hoch1243,win,448,rattle (1b),-šuwu,,
+wi-448-1-4,wi,Hoocąk,hoch1243,win,448,rattle (1b),-šuwu,,
+op-448-1-1,op,Omaha-Ponca,omah1247,oma,448,rattle (1b),bašpí,,
+ks-448-1-1,ks,Kanza/Kaw,kans1243,ksk,448,rattle (1b),bašpǘ,rr,
+os-448-1-1,os,Osage,osag1243,osa,448,rattle (1b),thishpi´,flf[149a],
+qu-448-1-1,qu,Quapaw,quap1242,qua,448,rattle (1b),dišpí,jod,

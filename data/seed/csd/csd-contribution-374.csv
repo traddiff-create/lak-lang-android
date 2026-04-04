@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-374-1-1,psi,Proto-Siouan,,sio,374,see (2),*atá•(-re),,
+pma-374-1-1,pma,Pre-Mandan,,,374,see (2),*ta•-,,
+ma-374-1-1,ma,Mandan,mand1446,mhq,374,see (2),í_taroʔš,h[244],
+pwc-374-1-1,pwc,Proto-Hoocąk-Chiwere,,,374,see (2),*atá,,
+pbo-374-1-1,pbo,Proto-Biloxi-Ofo,,,374,see (2),*atá,,
+ch-374-1-1,ch,Chiwere,iowa1245,iow,374,see (2),"wą́•da, wa•da, adá",rr,
+wi-374-1-1,wi,Hoocąk,hoch1243,win,374,see (2),haǰá,km[586],
+wi-374-1-2,wi,Hoocąk,hoch1243,win,374,see (2),haja,,
+bi-374-1-1,bi,Biloxi,bilo1248,bll,374,see (2),watá,ds[286b],
+bi-374-2-1,bi,Biloxi,bilo1248,bll,374,see (2),waṭáye,ds[286b],
+of-374-1-1,of,Ofo,ofoo1242,ofo,374,see (2),akthá,ds[320a],

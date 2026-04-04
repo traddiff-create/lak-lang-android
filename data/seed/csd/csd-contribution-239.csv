@@ -1,0 +1,13 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-239-1-1,psi,Proto-Siouan,,sio,239,spread > flat (5),*pará•šE,,
+pmv-239-1-1,pmv,Proto-Mississipi-Valley,,,239,spread > flat (5),*-wrážE,,
+pda-239-1-1,pda,Proto-Dakota,,,239,spread > flat (5),*-wraža,,
+pdh-239-1-1,pdh,Proto-Dhegiha,,,239,spread > flat (5),*ka-bráže,,
+la-239-1-1,la,Lakota,lako1247,lkt,239,spread > flat (5),kabláža,c,
+da-239-1-1,da,Dakota,dako1258,dak,239,spread > flat (5),kamdáz´a,r[258b],
+ch-239-1-1,ch,Chiwere,iowa1245,iow,239,spread > flat (5),bráshge,jgt92[8],
+ks-239-1-1,ks,Kanza/Kaw,kans1243,ksk,239,spread > flat (5),gabláže,jod,
+os-239-1-1,os,Osage,osag1243,osa,239,spread > flat (5),gabtházhe,lf[43a],
+qu-239-1-1,qu,Quapaw,quap1242,qua,239,spread > flat (5),kabdáže,jod,
+qu-239-1-2,qu,Quapaw,quap1242,qua,239,spread > flat (5),"bdáže, ka-",rr,
+of-239-1-1,of,Ofo,ofoo1242,ofo,239,spread > flat (5),pạlā´tci,ds[328b];ssf,

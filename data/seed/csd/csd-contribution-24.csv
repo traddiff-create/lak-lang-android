@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-24-1-1,pmv,Proto-Mississipi-Valley,,,24,wing (2),*á•hu,,
+pwc-24-1-1,pwc,Proto-Hoocąk-Chiwere,,,24,wing (2),*á•hu,,
+pdh-24-1-1,pdh,Proto-Dhegiha,,,24,wing (2),*á•hü,,
+ch-24-1-1,ch,Chiwere,iowa1245,iow,24,wing (2),á•hu,rr,
+mo-24-1-1,mo,Missouria,,,24,wing (2),aho,,
+wi-24-1-1,wi,Hoocąk,hoch1243,win,24,wing (2),aahú,km[7],
+wi-24-1-2,wi,Hoocąk,hoch1243,win,24,wing (2),aahu,,
+op-24-1-1,op,Omaha-Ponca,omah1247,oma,24,wing (2),á•hi,,
+ks-24-1-1,ks,Kanza/Kaw,kans1243,ksk,24,wing (2),"áhü, áhü hį",,
+os-24-1-1,os,Osage,osag1243,osa,24,wing (2),áhiⁿ,lf[10b],
+qu-24-1-1,qu,Quapaw,quap1242,qua,24,wing (2),áhi,jod,

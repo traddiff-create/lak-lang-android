@@ -1,0 +1,13 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-50-1-1,pmv,Proto-Mississipi-Valley,,,50,"wear pants, wear on legs",*o-thą́ ~ o-thų́,,
+pda-50-1-1,pda,Proto-Dakota,,,50,"wear pants, wear on legs",*o-thų,,
+pwc-50-1-1,pwc,Proto-Hoocąk-Chiwere,,,50,"wear pants, wear on legs",*o-thą,,
+pdh-50-1-1,pdh,Proto-Dhegiha,,,50,"wear pants, wear on legs",*o-thą́,,
+la-50-1-1,la,Lakota,lako1247,lkt,50,"wear pants, wear on legs",othų,b[409b],
+da-50-1-1,da,Dakota,dako1258,dak,50,"wear pants, wear on legs",otóŋ,r[389b],
+ch-50-1-1,ch,Chiwere,iowa1245,iow,50,"wear pants, wear on legs",agúthą,jgt;jek,
+wi-50-1-1,wi,Hoocąk,hoch1243,win,50,"wear pants, wear on legs",hočą́,km[1178],
+wi-50-1-2,wi,Hoocąk,hoch1243,win,50,"wear pants, wear on legs",hocą,,
+op-50-1-1,op,Omaha-Ponca,omah1247,oma,50,"wear pants, wear on legs",utóⁿ toⁿga,sw[112],
+os-50-1-1,os,Osage,osag1243,osa,50,"wear pants, wear on legs",óthą,jek;mw,
+qu-50-1-1,qu,Quapaw,quap1242,qua,50,"wear pants, wear on legs",othą́ ~ othǫ́,,

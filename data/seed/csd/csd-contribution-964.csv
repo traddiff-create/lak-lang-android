@@ -1,0 +1,9 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pdh-964-1-1,pdh,Proto-Dhegiha,,,964,corn (3),*wathą́se,,
+op-964-1-1,op,Omaha-Ponca,omah1247,oma,964,corn (3),wathą́zi,rr,
+ks-964-1-1,ks,Kanza/Kaw,kans1243,ksk,964,corn (3),wakhózi,rr,
+os-964-1-1,os,Osage,osag1243,osa,964,corn (3),watoⁿçi,lf[204b];lf[205a],
+qu-964-1-1,qu,Quapaw,quap1242,qua,964,corn (3),wathą́se,rr,
+bi-964-1-1,bi,Biloxi,bilo1248,bll,964,corn (3),taⁿsi,,
+tu-964-1-1,tu,Tutelo,tute1247,tta,964,corn (3),mātāqē,n;h,
+tu-964-2-1,tu,Tutelo,tute1247,tta,964,corn (3),mandazéi,h,

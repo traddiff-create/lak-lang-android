@@ -1,0 +1,9 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-850-1-1,psi,Proto-Siouan,,sio,850,fart,"*píhe, *pį́he",,
+pch-850-1-1,pch,Proto-Crow-Hidatsa,,,850,fart,*píhe,,
+cr-850-1-1,cr,Crow,crow1244,cro,850,fart,pía ~ pípia,rg,
+hi-850-1-1,hi,Hidatsa,hida1246,hid,850,fart,pí(h) ~ pía,j,
+ma-850-1-1,ma,Mandan,mand1446,mhq,850,fart,píh,h[144],
+wi-850-1-1,wi,Hoocąk,hoch1243,win,850,fart,wį́į,km[3757],
+wi-850-1-2,wi,Hoocąk,hoch1243,win,850,fart,wįį,,
+tu-850-1-1,tu,Tutelo,tute1247,tta,850,fart,lakapįʔį,jodslipfile,

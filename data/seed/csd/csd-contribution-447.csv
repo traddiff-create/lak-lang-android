@@ -1,0 +1,7 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-447-1-1,psi,Proto-Siouan,,sio,447,rattle (1c),*xawúhe,,
+pch-447-1-1,pch,Proto-Crow-Hidatsa,,,447,rattle (1c),*xawúa,,
+cr-447-1-1,cr,Crow,crow1244,cro,447,rattle (1c),xawuá,gg[61];dec[93],
+hi-447-1-1,hi,Hidatsa,hida1246,hid,447,rattle (1c),xawúa,j,
+la-447-1-1,la,Lakota,lako1247,lkt,447,rattle (1c),"xwú, ya-",b[621],
+bi-447-1-1,bi,Biloxi,bilo1248,bll,447,rattle (1c),xwûdiḳe,ds[225a],

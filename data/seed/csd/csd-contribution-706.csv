@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-706-1-1,psi,Proto-Siouan,,sio,706,"here, now",*ko•,,
+pmv-706-1-1,pmv,Proto-Mississipi-Valley,,,706,"here, now",*ko•,,
+cr-706-1-1,cr,Crow,crow1244,cro,706,"here, now",koo {in} kootáa,gg[66],
+ch-706-1-1,ch,Chiwere,iowa1245,iow,706,"here, now",goʔó- {in} go^óch^i,jgt92[1142],
+ch-706-2-1,ch,Chiwere,iowa1245,iow,706,"here, now",goʔó- {in} go^ógi,jgt92[1143],
+ch-706-2-2,ch,Chiwere,iowa1245,iow,706,"here, now",gó-,jgt92[1151],
+ch-706-2-3,ch,Chiwere,iowa1245,iow,706,"here, now",gó- {in} gósigi,,
+ks-706-1-1,ks,Kanza/Kaw,kans1243,ksk,706,"here, now",-go {in} yego,jod;rr,
+ks-706-1-2,ks,Kanza/Kaw,kans1243,ksk,706,"here, now",-gó•- {in} yegó•ǰi,rr,
+ks-706-1-3,ks,Kanza/Kaw,kans1243,ksk,706,"here, now",-gó- {in} gagóǰi,rr,
+bi-706-1-1,bi,Biloxi,bilo1248,bll,706,"here, now",ko- {in} kode,ds[211a],

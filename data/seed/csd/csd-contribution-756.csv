@@ -1,0 +1,7 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-756-1-1,psi,Proto-Siouan,,sio,756,grave,*awą́•xE,,
+pmv-756-1-1,pmv,Proto-Mississipi-Valley,,,756,grave,*mį́•xe,,
+ma-756-1-1,ma,Mandan,mand1446,mhq,756,grave,ówą•xe,c,
+ot-756-1-1,ot,Otoe,iowa1245,iow,756,grave,mį́•xe,jdh,
+qu-756-1-1,qu,Quapaw,quap1242,qua,756,grave,míxe,jod,
+bi-756-1-1,bi,Biloxi,bilo1248,bll,756,grave,amaxí,ds[227a],

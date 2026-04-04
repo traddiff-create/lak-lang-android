@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-388-1-1,psi,Proto-Siouan,,sio,388,scrape (4),*tká,,
+pma-388-1-1,pma,Pre-Mandan,,,388,scrape (4),*tka•-,,
+pmv-388-1-1,pmv,Proto-Mississipi-Valley,,,388,scrape (4),*-tká,,
+ma-388-1-1,ma,Mandan,mand1446,mhq,388,scrape (4),tkároʔš,h[252],
+pda-388-1-1,pda,Proto-Dakota,,,388,scrape (4),*-tkA,,
+la-388-1-1,la,Lakota,lako1247,lkt,388,scrape (4),"-tkA´, wa-",b[554a],
+da-388-1-1,da,Dakota,dako1258,dak,388,scrape (4),"-tká, wa-",r[539a],
+wi-388-1-1,wi,Hoocąk,hoch1243,win,388,scrape (4),"-čgá, gi-",,
+wi-388-1-2,wi,Hoocąk,hoch1243,win,388,scrape (4),higicga,,

@@ -1,0 +1,8 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-214-1-1,psi,Proto-Siouan,,sio,214,star (1),*įtka,,
+pch-214-1-1,pch,Proto-Crow-Hidatsa,,,214,star (1),*ihka,,
+cr-214-1-1,cr,Crow,crow1244,cro,214,star (1),ihká,gg[74];dec[6],
+hi-214-1-1,hi,Hidatsa,hida1246,hid,214,star (1),íhka,j,
+bi-214-1-1,bi,Biloxi,bilo1248,bll,214,star (1),"íⁿtka, iⁿtká",ds[203b],
+of-214-1-1,of,Ofo,ofoo1242,ofo,214,star (1),"oⁿtaskĕ´, ontaskĕ´, óⁿtaske",ds[328a],
+tu-214-1-1,tu,Tutelo,tute1247,tta,214,star (1),tabunītçkai; tapniñskai,n;h,

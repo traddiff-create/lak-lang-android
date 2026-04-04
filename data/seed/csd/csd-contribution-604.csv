@@ -1,0 +1,7 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-604-1-1,psi,Proto-Siouan,,sio,604,look at (1),*-xát-,,
+pma-604-1-1,pma,Pre-Mandan,,,604,look at (1),*-xat-,,
+ma-604-1-1,ma,Mandan,mand1446,mhq,604,look at (1),í_xat,h[311],
+ma-604-1-2,ma,Mandan,mand1446,mhq,604,look at (1),íxatoʔš,c,
+tu-604-1-1,tu,Tutelo,tute1247,tta,604,look at (1),"ohāta, waqēta",h,
+tu-604-1-2,tu,Tutelo,tute1247,tta,604,look at (1),"oháta, oqáta",jod,

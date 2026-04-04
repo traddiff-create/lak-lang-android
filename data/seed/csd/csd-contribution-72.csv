@@ -1,0 +1,9 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-72-1-1,psi,Proto-Siouan,,sio,72,vine,*-tuhu,,
+hi-72-1-1,hi,Hidatsa,hida1246,hid,72,vine,túa,j,
+la-72-1-1,la,Lakota,lako1247,lkt,72,vine,saƞṫuhu,b[452],
+bi-72-1-1,bi,Biloxi,bilo1248,bll,72,vine,tóhu,ds[258b],
+bi-72-1-2,bi,Biloxi,bilo1248,bll,72,vine,ṭóhu sû´pka,ds[258b],
+bi-72-2-1,bi,Biloxi,bilo1248,bll,72,vine,maⁿtúhu,ds[229b],
+bi-72-3-1,bi,Biloxi,bilo1248,bll,72,vine,tohudi,,
+of-72-1-1,of,Ofo,ofoo1242,ofo,72,vine,"ānthū´hi, aⁿtóhi",ds[321a];ssf,

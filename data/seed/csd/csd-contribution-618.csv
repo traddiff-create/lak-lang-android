@@ -1,0 +1,4 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+ca-618-1-1,ca,Catawba,cata1286,chc,618,locative (1),-ki {in} mon kí,ks[164],
+ca-618-2-1,ca,Catawba,cata1286,chc,618,locative (1),-ki {in} impi kí,ks[164],
+bi-618-1-1,bi,Biloxi,bilo1248,bll,618,locative (1),"-ki {in} tēk, or teki",ds[273a],

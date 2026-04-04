@@ -1,0 +1,7 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-35-1-1,psi,Proto-Siouan,,sio,35,wife,*ųhe,,
+pch-35-1-1,pch,Proto-Crow-Hidatsa,,,35,wife,*uá,,
+pma-35-1-1,pma,Pre-Mandan,,,35,wife,*ųhe,,
+cr-35-1-1,cr,Crow,crow1244,cro,35,wife,uá,gg[58];dec[23],
+hi-35-1-1,hi,Hidatsa,hida1246,hid,35,wife,ua,j,
+ma-35-1-1,ma,Mandan,mand1446,mhq,35,wife,kų́ʔhe,c,

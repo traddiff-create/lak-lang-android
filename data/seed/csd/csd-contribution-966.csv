@@ -1,0 +1,7 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pda-966-1-1,pda,Proto-Dakota,,,966,corn (1),*wakwų́ ~ *wakwą́,,
+la-966-1-1,la,Lakota,lako1247,lkt,966,corn (1),wagméza,ej,
+la-966-1-2,la,Lakota,lako1247,lkt,966,corn (1),"wagmíza, maɣá",,
+da-966-1-1,da,Dakota,dako1258,dak,966,corn (1),wamnáheza,r[515b],
+wi-966-1-1,wi,Hoocąk,hoch1243,win,966,corn (1),wičąwás > wičą́ąs,km[3632],
+wi-966-1-2,wi,Hoocąk,hoch1243,win,966,corn (1),wicąwąs ~ wicąąs,,

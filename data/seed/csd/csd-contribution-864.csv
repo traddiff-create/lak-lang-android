@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-864-1-1,psi,Proto-Siouan,,sio,864,erect,*sį́he,,
+pch-864-1-1,pch,Proto-Crow-Hidatsa,,,864,erect,*iche•´ < *icVhe•´,,
+pmv-864-1-1,pmv,Proto-Mississipi-Valley,,,864,erect,*žį́,,
+cr-864-1-1,cr,Crow,crow1244,cro,864,erect,iččÉE,rg,
+hi-864-1-1,hi,Hidatsa,hida1246,hid,864,erect,ichÉ,j,
+la-864-1-1,la,Lakota,lako1247,lkt,864,erect,žį́,c,
+da-864-1-1,da,Dakota,dako1258,dak,864,erect,[†žį́],r[651b],
+ch-864-1-1,ch,Chiwere,iowa1245,iow,864,erect,yín,jgt92[137],
+bi-864-1-1,bi,Biloxi,bilo1248,bll,864,erect,"siⁿhiⁿ´, siⁿ´hiⁿ",ds[255a],

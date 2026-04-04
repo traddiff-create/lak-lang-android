@@ -1,0 +1,5 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-339-1-1,psi,Proto-Siouan,,sio,339,shout,*srekE,,
+pma-339-1-1,pma,Pre-Mandan,,,339,shout,*šrek,,
+ma-339-1-1,ma,Mandan,mand1446,mhq,339,shout,šerék,h[235],
+qu-339-1-1,qu,Quapaw,quap1242,qua,339,shout,sdeké,jod,

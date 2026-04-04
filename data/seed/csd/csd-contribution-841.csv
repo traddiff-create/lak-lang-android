@@ -1,0 +1,7 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pwc-841-1-1,pwc,Proto-Hoocąk-Chiwere,,,841,field (2),*mą́•xe,,
+la-841-1-1,la,Lakota,lako1247,lkt,841,field (2),maġa,b[327],
+la-841-1-2,la,Lakota,lako1247,lkt,841,field (2),máġahu,,
+ch-841-1-1,ch,Chiwere,iowa1245,iow,841,field (2),mą́xe,marsh,
+wi-841-1-1,wi,Hoocąk,hoch1243,win,841,field (2),mą́ąx,km[2039],
+wi-841-1-2,wi,Hoocąk,hoch1243,win,841,field (2),mąąx,,

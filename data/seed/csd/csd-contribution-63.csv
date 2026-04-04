@@ -1,0 +1,6 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-63-1-1,psi,Proto-Siouan,,sio,63,want (1),*ʔi•he,,
+hi-63-1-1,hi,Hidatsa,hida1246,hid,63,want (1),waʔi•he,j,
+hi-63-1-2,hi,Hidatsa,hida1246,hid,63,want (1),maʔi•he,,
+ma-63-1-1,ma,Mandan,mand1446,mhq,63,want (1),é_rehoʔš,c,
+bi-63-1-1,bi,Biloxi,bilo1248,bll,63,want (1),oyixí; náwiyihí,ds[292b],

@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-1172-1-1,psi,Proto-Siouan,,sio,1172,ahead (1),*(i-)htą́•(-rį),,
+pmv-1172-1-1,pmv,Proto-Mississipi-Valley,,,1172,ahead (1),*(i)htą́-rį,,
+pse-1172-1-1,pse,Proto-Southeastern,,,1172,ahead (1),*tá•hnį,,
+pdh-1172-1-1,pdh,Proto-Dhegiha,,,1172,ahead (1),*ihtą́-(rį),,
+la-1172-1-1,la,Lakota,lako1247,lkt,1172,ahead (1),taƞníla,b[480a],
+op-1172-1-1,op,Omaha-Ponca,omah1247,oma,1172,ahead (1),itoⁿthiⁿ,sw[4],
+ks-1172-1-1,ks,Kanza/Kaw,kans1243,ksk,1172,ahead (1),ittómittaha,rr,
+os-1172-1-1,os,Osage,osag1243,osa,1172,ahead (1),iṭóⁿthiⁿ,lf[80a],
+os-1172-2-1,os,Osage,osag1243,osa,1172,ahead (1),iṭóⁿthiaṭa,lf[80a],
+bi-1172-1-1,bi,Biloxi,bilo1248,bll,1172,ahead (1),"taⁿni, tâníyaⁿ, kitóⁿni",ds[272a],
+tu-1172-1-1,tu,Tutelo,tute1247,tta,1172,ahead (1),etā´hni,dsf,

@@ -1,0 +1,5 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pbo-963-1-1,pbo,Proto-Biloxi-Ofo,,,963,corn (4),*ayé•ki,,
+bi-963-1-1,bi,Biloxi,bilo1248,bll,963,corn (4),"yek, yékĭ, ayeki, ayeḳiyaⁿ, ayēk",ds[291b],
+bi-963-1-2,bi,Biloxi,bilo1248,bll,963,corn (4),"yɛ•keʔ, ayɛ•keʔ",swadesh,
+of-963-1-1,of,Ofo,ofoo1242,ofo,963,corn (4),"atcé̄ki, atcé̄k, itcé̄ki",ds[321b];ssf,

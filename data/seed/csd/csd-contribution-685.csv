@@ -1,0 +1,13 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-685-1-1,psi,Proto-Siouan,,sio,685,"hollow, empty (1)",*xaró(•)S- (?),,
+pmv-685-1-1,pmv,Proto-Mississipi-Valley,,,685,"hollow, empty (1)",*xró•S-(ka),,
+hi-685-1-1,hi,Hidatsa,hida1246,hid,685,"hollow, empty (1)",xarúxxE,j,
+hi-685-1-2,hi,Hidatsa,hida1246,hid,685,"hollow, empty (1)",xarúxxa,,
+pdh-685-1-1,pdh,Proto-Dhegiha,,,685,"hollow, empty (1)",*xróxʔa,,
+la-685-1-1,la,Lakota,lako1247,lkt,685,"hollow, empty (1)",xloɣéča,b[194],
+st-685-1-1,st,Stoney,ston1242,sto,685,"hollow, empty (1)",oʕnóʕa,pas,
+ch-685-1-1,ch,Chiwere,iowa1245,iow,685,"hollow, empty (1)","xló•ske, xró•ske",rr,
+op-685-1-1,op,Omaha-Ponca,omah1247,oma,685,"hollow, empty (1)",xthu’a,sw[68],
+ks-685-1-1,ks,Kanza/Kaw,kans1243,ksk,685,"hollow, empty (1)",xlókʔa,rr,
+os-685-1-1,os,Osage,osag1243,osa,685,"hollow, empty (1)","xthók’a, xthú’a, xthúḳ’a",lf[220b],
+qu-685-1-1,qu,Quapaw,quap1242,qua,685,"hollow, empty (1)",kdóxʔa,jod,

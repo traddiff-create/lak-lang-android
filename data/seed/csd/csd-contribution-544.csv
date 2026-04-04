@@ -1,0 +1,7 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-544-1-1,psi,Proto-Siouan,,sio,544,"negative (1), dubitative",*ku,,
+pwc-544-1-1,pwc,Proto-Hoocąk-Chiwere,,,544,"negative (1), dubitative",*-kú-,,
+ch-544-1-1,ch,Chiwere,iowa1245,iow,544,"negative (1), dubitative",š-kú-ñį,rr,
+wi-544-1-1,wi,Hoocąk,hoch1243,win,544,"negative (1), dubitative",š-gų́-nį,,
+wi-544-1-2,wi,Hoocąk,hoch1243,win,544,"negative (1), dubitative","šgųnį, gųnį",,
+bi-544-1-1,bi,Biloxi,bilo1248,bll,544,"negative (1), dubitative",ku-,,

@@ -1,0 +1,8 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-698-1-1,psi,Proto-Siouan,,sio,698,hiss (2),*siríhe,,
+pch-698-1-1,pch,Proto-Crow-Hidatsa,,,698,hiss (2),*ciría < *siríhe,,
+cr-698-1-1,cr,Crow,crow1244,cro,698,hiss (2),čilía,rg,
+hi-698-1-1,hi,Hidatsa,hida1246,hid,698,hiss (2),ciría,j,
+pda-698-1-1,pda,Proto-Dakota,,,698,hiss (2),*sri,,
+la-698-1-1,la,Lakota,lako1247,lkt,698,hiss (2),sliyá,b[457a],
+da-698-1-1,da,Dakota,dako1258,dak,698,hiss (2),sdi,r[432a],

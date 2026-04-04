@@ -1,0 +1,5 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pch-210-1-1,pch,Proto-Crow-Hidatsa,,,210,steal (2),*aša•ri,,
+cr-210-1-1,cr,Crow,crow1244,cro,210,steal (2),ataalí,gg[13],
+hi-210-1-1,hi,Hidatsa,hida1246,hid,210,steal (2),aša•ri,j,
+bi-210-1-1,bi,Biloxi,bilo1248,bll,210,steal (2),kĭsĭnĕ´,ds[256a],

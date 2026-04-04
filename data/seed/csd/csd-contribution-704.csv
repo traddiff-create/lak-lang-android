@@ -1,0 +1,6 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-704-1-1,pmv,Proto-Mississipi-Valley,,,704,hickory,*yą-su,,
+pda-704-1-1,pda,Proto-Dakota,,,704,hickory,*čhąsú,,
+la-704-1-1,la,Lakota,lako1247,lkt,704,hickory,caŋsú,b[123a],
+da-704-1-1,da,Dakota,dako1258,dak,704,hickory,ćaŋsú,r[92a],
+op-704-1-1,op,Omaha-Ponca,omah1247,oma,704,hickory,nóⁿçi,,

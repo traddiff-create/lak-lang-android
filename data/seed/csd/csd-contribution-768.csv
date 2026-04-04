@@ -1,0 +1,7 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-768-1-1,psi,Proto-Siouan,,sio,768,goose,*wį́•-,,
+pch-768-1-1,pch,Proto-Crow-Hidatsa,,,768,goose,*wí•ra,,
+cr-768-1-1,cr,Crow,crow1244,cro,768,goose,bíilaa,gg[29];dec[2],
+hi-768-1-1,hi,Hidatsa,hida1246,hid,768,goose,wí•ra,j,
+hi-768-1-2,hi,Hidatsa,hida1246,hid,768,goose,mí•ra,,
+ma-768-1-1,ma,Mandan,mand1446,mhq,768,goose,"wį́hą, wį́h",c,

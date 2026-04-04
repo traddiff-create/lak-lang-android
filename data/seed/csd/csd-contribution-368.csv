@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-368-1-1,psi,Proto-Siouan,,sio,368,separate > forked,*šąh + ka < *šą́he,,
+pch-368-1-1,pch,Proto-Crow-Hidatsa,,,368,separate > forked,*SahkV,,
+pse-368-1-1,pse,Proto-Southeastern,,,368,separate > forked,*čąk-,,
+cr-368-1-1,cr,Crow,crow1244,cro,368,separate > forked,sáhka,dec[98],
+hi-368-1-1,hi,Hidatsa,hida1246,hid,368,separate > forked,šahki,j,
+hi-368-1-2,hi,Hidatsa,hida1246,hid,368,separate > forked,cahki,j,
+ks-368-1-1,ks,Kanza/Kaw,kans1243,ksk,368,separate > forked,oížą́kka,rr,
+bi-368-1-1,bi,Biloxi,bilo1248,bll,368,separate > forked,"tcáⁿxkoⁿní, kutcáⁿxkoⁿni",ds[262b],
+tu-368-1-1,tu,Tutelo,tute1247,tta,368,separate > forked,"ogitcĕñkai, ogi´tciñka´i",hw,

@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-1056-1-1,psi,Proto-Siouan,,sio,1056,brave (2),*sihe,,
+pch-1056-1-1,pch,Proto-Crow-Hidatsa,,,1056,brave (2),*i-cihcih-E,,
+cr-1056-1-1,cr,Crow,crow1244,cro,1056,brave (2),iččía,dec[97],
+hi-1056-1-1,hi,Hidatsa,hida1246,hid,1056,brave (2),ichía,j,
+ma-1056-1-1,ma,Mandan,mand1446,mhq,1056,brave (2),sį́hoʔš,c,
+op-1056-1-1,op,Omaha-Ponca,omah1247,oma,1056,brave (2),[†uą́si],,
+op-1056-2-1,op,Omaha-Ponca,omah1247,oma,1056,brave (2),[†áąsi-],,
+os-1056-1-1,os,Osage,osag1243,osa,1056,brave (2),áuwiçi,lf[285b],
+bi-1056-1-1,bi,Biloxi,bilo1248,bll,1056,brave (2),áyiⁿsíhiⁿ,ds[255b],

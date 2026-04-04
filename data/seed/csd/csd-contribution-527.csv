@@ -1,0 +1,6 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-527-1-1,psi,Proto-Siouan,,sio,527,oak (3),*,,
+ma-527-1-1,ma,Mandan,mand1446,mhq,527,oak (3),itáhu,rh[95],
+pda-527-1-1,pda,Proto-Dakota,,,527,oak (3),*ithú-hu,,
+la-527-1-1,la,Lakota,lako1247,lkt,527,oak (3),ithúhu,rtc,
+da-527-1-1,da,Dakota,dako1258,dak,527,oak (3),utúhu,r[487b],

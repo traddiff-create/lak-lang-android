@@ -1,0 +1,9 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-1092-1-1,psi,Proto-Siouan,,sio,1092,bird (1),*awą́•-xe,,
+pda-1092-1-1,pda,Proto-Dakota,,,1092,bird (1),*mąɣá,,
+pbo-1092-1-1,pbo,Proto-Biloxi-Ofo,,,1092,bird (1),*awá•xi ~ *awą́•xi,,
+la-1092-1-1,la,Lakota,lako1247,lkt,1092,bird (1),maɣá,c,
+da-1092-1-1,da,Dakota,dako1258,dak,1092,bird (1),maġaksica,wm[55a],
+bi-1092-1-1,bi,Biloxi,bilo1248,bll,1092,bird (1),"maxí, máxi",ds[226b],
+bi-1092-1-2,bi,Biloxi,bilo1248,bll,1092,bird (1),ma•xeʔ ~ mą•xeʔ,mrh;ms,
+of-1092-1-1,of,Ofo,ofoo1242,ofo,1092,bird (1),"abā´si, ạbā´si",ds[319a];ssf,

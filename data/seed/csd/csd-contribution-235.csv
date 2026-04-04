@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-235-1-1,pmv,Proto-Mississipi-Valley,,,235,spring (water) (2),*wi,,
+pda-235-1-1,pda,Proto-Dakota,,,235,spring (water) (2),*wiwí,,
+pwc-235-1-1,pwc,Proto-Hoocąk-Chiwere,,,235,spring (water) (2),*wi,,
+la-235-1-1,la,Lakota,lako1247,lkt,235,spring (water) (2),wiwíla,b[591a],
+da-235-1-1,da,Dakota,dako1258,dak,235,spring (water) (2),wiwí,r[580b],
+ch-235-1-1,ch,Chiwere,iowa1245,iow,235,spring (water) (2),wiwíxa,jgt92[238],
+wi-235-1-1,wi,Hoocąk,hoch1243,win,235,spring (water) (2),mąąʔí,km[1935],
+wi-235-1-2,wi,Hoocąk,hoch1243,win,235,spring (water) (2),mąą’i (> mąą + ii),km[1579],
+wi-235-1-3,wi,Hoocąk,hoch1243,win,235,spring (water) (2),howiwís,,
+wi-235-1-4,wi,Hoocąk,hoch1243,win,235,spring (water) (2),howiwis,,
+os-235-1-1,os,Osage,osag1243,osa,235,spring (water) (2),ui,lf[171a],

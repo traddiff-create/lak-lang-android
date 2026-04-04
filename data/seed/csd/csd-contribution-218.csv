@@ -1,0 +1,8 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-218-1-1,pmv,Proto-Mississipi-Valley,,,218,stagger,*tékE,,
+pda-218-1-1,pda,Proto-Dakota,,,218,stagger,*čeka,,
+la-218-1-1,la,Lakota,lako1247,lkt,218,stagger,"čéka, čekčéka",b[129b],
+la-218-1-2,la,Lakota,lako1247,lkt,218,stagger,čekčéka,pas,
+da-218-1-1,da,Dakota,dako1258,dak,218,stagger,ćéka,r[98b],
+wi-218-1-1,wi,Hoocąk,hoch1243,win,218,stagger,giǰeǰék,km[1699],
+wi-218-1-2,wi,Hoocąk,hoch1243,win,218,stagger,gijejek,,

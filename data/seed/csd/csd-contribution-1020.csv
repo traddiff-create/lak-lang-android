@@ -1,0 +1,11 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-1020-1-1,pmv,Proto-Mississipi-Valley,,,1020,burn (5),*yé,,
+pda-1020-1-1,pda,Proto-Dakota,,,1020,burn (5),*ché,,
+pdh-1020-1-1,pdh,Proto-Dhegiha,,,1020,burn (5),*-žé,,
+la-1020-1-1,la,Lakota,lako1247,lkt,1020,burn (5),čhethí,c,
+la-1020-1-2,la,Lakota,lako1247,lkt,1020,burn (5),čeóŋṗa,b[130a],
+da-1020-1-1,da,Dakota,dako1258,dak,1020,burn (5),će_óŋpa,r[99a],
+op-1020-1-1,op,Omaha-Ponca,omah1247,oma,1020,burn (5),wazhe zhi,sw[82],
+op-1020-1-2,op,Omaha-Ponca,omah1247,oma,1020,burn (5),zhégthoⁿ,sw[311],
+ks-1020-1-1,ks,Kanza/Kaw,kans1243,ksk,1020,burn (5),žélą ~ žéla,rr,
+ks-1020-1-2,ks,Kanza/Kaw,kans1243,ksk,1020,burn (5),ožéčči,rr,

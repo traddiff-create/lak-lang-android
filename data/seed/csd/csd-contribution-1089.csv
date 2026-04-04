@@ -1,0 +1,13 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-1089-1-1,pmv,Proto-Mississipi-Valley,,,1089,bird (4),*wayį́ka,,
+pwc-1089-1-1,pwc,Proto-Hoocąk-Chiwere,,,1089,bird (4),*wayį́ke,,
+pdh-1089-1-1,pdh,Proto-Dhegiha,,,1089,bird (4),*wažį́ka,rr,
+la-1089-1-1,la,Lakota,lako1247,lkt,1089,bird (4),ųžį́čala,b[506b];ej,
+ch-1089-1-1,ch,Chiwere,iowa1245,iow,1089,bird (4),wayį́ŋe,rr,
+wi-1089-1-1,wi,Hoocąk,hoch1243,win,1089,bird (4),wanį́k,km[3408],
+wi-1089-1-2,wi,Hoocąk,hoch1243,win,1089,bird (4),wanįk,,
+op-1089-1-1,op,Omaha-Ponca,omah1247,oma,1089,bird (4),wažį́ga,rr,
+ks-1089-1-1,ks,Kanza/Kaw,kans1243,ksk,1089,bird (4),wažį́ga,rr,
+os-1089-1-1,os,Osage,osag1243,osa,1089,bird (4),wažį́ka,rr,
+qu-1089-1-1,qu,Quapaw,quap1242,qua,1089,bird (4),wažį́ka,rr,
+tu-1089-1-1,tu,Tutelo,tute1247,tta,1089,bird (4),māyīñk,h,

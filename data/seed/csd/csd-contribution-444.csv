@@ -1,0 +1,6 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-444-1-1,psi,Proto-Siouan,,sio,444,rattle (2c),*xirehe,,
+pda-444-1-1,pda,Proto-Dakota,,,444,rattle (2c),*xrá,,
+la-444-1-1,la,Lakota,lako1247,lkt,444,rattle (2c),xlá,c,
+da-444-1-1,da,Dakota,dako1258,dak,444,rattle (2c),ḣda,r[162b],
+bi-444-1-1,bi,Biloxi,bilo1248,bll,444,rattle (2c),xyídĕ nedí,ds[226a],

@@ -1,0 +1,9 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-450-1-1,psi,Proto-Siouan,,sio,450,rain (2),*xo•he,,
+pma-450-1-1,pma,Pre-Mandan,,,450,rain (2),*xeʔh-,,
+pse-450-1-1,pse,Proto-Southeastern,,,450,rain (2),*wa-xó•-hi,,
+ma-450-1-1,ma,Mandan,mand1446,mhq,450,rain (2),xéʔhoʔš,c,
+pbo-450-1-1,pbo,Proto-Biloxi-Ofo,,,450,rain (2),*(wa-)xóhi,,
+bi-450-1-1,bi,Biloxi,bilo1248,bll,450,rain (2),"xóhi, xohí",ds[222a],
+of-450-1-1,of,Ofo,ofoo1242,ofo,450,rain (2),"ashóhi, ashói, áshohi",ds[321b],
+tu-450-1-1,tu,Tutelo,tute1247,tta,450,rain (2),"qawōi; qawōqa, hāwōhā, qawō",n;hale,

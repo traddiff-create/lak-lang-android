@@ -1,0 +1,13 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pch-172-1-1,pch,Proto-Crow-Hidatsa,,,172,surround,*xa,,
+cr-172-1-1,cr,Crow,crow1244,cro,172,surround,huupaxáa,gg[49],
+cr-172-1-2,cr,Crow,crow1244,cro,172,surround,áaxaa,gg[3],
+hi-172-1-1,hi,Hidatsa,hida1246,hid,172,surround,í•xa,j,
+hi-172-1-2,hi,Hidatsa,hida1246,hid,172,surround,í•xaxihe,j,
+hi-172-1-3,hi,Hidatsa,hida1246,hid,172,surround,íʔaxa,j,
+hi-172-1-4,hi,Hidatsa,hida1246,hid,172,surround,hu•paxá,j,
+wi-172-1-1,wi,Hoocąk,hoch1243,win,172,surround,hasá,lk[16.6];km[693],
+wi-172-1-2,wi,Hoocąk,hoch1243,win,172,surround,hasa,,
+bi-172-1-1,bi,Biloxi,bilo1248,bll,172,surround,axí,r[172b],
+bi-172-2-1,bi,Biloxi,bilo1248,bll,172,surround,atcá,r[259b],
+of-172-1-1,of,Ofo,ofoo1242,ofo,172,surround,oⁿ´sxa,ds[328a],

@@ -1,0 +1,11 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-401-1-1,pmv,Proto-Mississipi-Valley,,,401,"sacred (2b), god",*wahką́ta,,
+pwc-401-1-1,pwc,Proto-Hoocąk-Chiwere,,,401,"sacred (2b), god",*wakhą́ta,,
+pdh-401-1-1,pdh,Proto-Dhegiha,,,401,"sacred (2b), god",*wahką́ta,,
+ch-401-1-1,ch,Chiwere,iowa1245,iow,401,"sacred (2b), god",wa•khą́da,rr,
+wi-401-1-1,wi,Hoocąk,hoch1243,win,401,"sacred (2b), god",wakąǰá,km[3340],
+wi-401-1-2,wi,Hoocąk,hoch1243,win,401,"sacred (2b), god",wakąja,,
+op-401-1-1,op,Omaha-Ponca,omah1247,oma,401,"sacred (2b), god",wakką́da,rr,
+ks-401-1-1,ks,Kanza/Kaw,kans1243,ksk,401,"sacred (2b), god",wakką́da,rr,
+os-401-1-1,os,Osage,osag1243,osa,401,"sacred (2b), god",wahką́ta,rr,
+qu-401-1-1,qu,Quapaw,quap1242,qua,401,"sacred (2b), god",wakką́tta,rr,

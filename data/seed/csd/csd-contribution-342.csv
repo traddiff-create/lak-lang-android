@@ -1,0 +1,11 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-342-1-1,pmv,Proto-Mississipi-Valley,,,342,short,*tápE,,
+pdh-342-1-1,pdh,Proto-Dhegiha,,,342,short,*táhpa < *tap + *ka,,
+la-342-1-1,la,Lakota,lako1247,lkt,342,short,katáptapA,b[292],
+la-342-1-2,la,Lakota,lako1247,lkt,342,short,kaṫápṫapa,,
+wi-342-1-1,wi,Hoocąk,hoch1243,win,342,short,giǰáp,jwe,
+wi-342-1-2,wi,Hoocąk,hoch1243,win,342,short,gijap,,
+op-342-1-1,op,Omaha-Ponca,omah1247,oma,342,short,dą́ppa,jod,
+ks-342-1-1,ks,Kanza/Kaw,kans1243,ksk,342,short,"dáppa, ǰáppa",rr,
+os-342-1-1,os,Osage,osag1243,osa,342,short,"táhpa, tą́ppa, cáhpa",rr,
+qu-342-1-1,qu,Quapaw,quap1242,qua,342,short,táppa,jod,

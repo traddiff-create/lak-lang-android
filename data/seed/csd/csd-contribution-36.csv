@@ -1,0 +1,11 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-36-1-1,pmv,Proto-Mississipi-Valley,,,36,whoop,*xʔá,,
+pdh-36-1-1,pdh,Proto-Dhegiha,,,36,whoop,*okráxʔaxʔa,,
+la-36-1-1,la,Lakota,lako1247,lkt,36,whoop,xʔayéla,b[197a],
+la-36-1-2,la,Lakota,lako1247,lkt,36,whoop,xʔą́hąska,b[197a],
+la-36-1-3,la,Lakota,lako1247,lkt,36,whoop,xʔą́hąska hoxpapi,b[197a],
+ch-36-1-1,ch,Chiwere,iowa1245,iow,36,whoop,ugráxʔa,jgt92[286],
+op-36-1-1,op,Omaha-Ponca,omah1247,oma,36,whoop,oðágðaʔáʔa,,
+ks-36-1-1,ks,Kanza/Kaw,kans1243,ksk,36,whoop,iolákʔakʔá,,
+qu-36-1-1,qu,Quapaw,quap1242,qua,36,whoop,"xʔa, okdá-",rr,
+qu-36-1-2,qu,Quapaw,quap1242,qua,36,whoop,"xʔaxʔá, okdá-",rr,

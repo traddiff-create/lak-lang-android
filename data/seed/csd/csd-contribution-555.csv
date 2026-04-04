@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-555-1-1,pmv,Proto-Mississipi-Valley,,,555,mucus,*xrį,,
+pdh-555-1-1,pdh,Proto-Dhegiha,,,555,mucus,*hpa-xrį́,,
+ch-555-1-1,ch,Chiwere,iowa1245,iow,555,mucus,páxringe,jgt92[232],
+op-555-1-1,op,Omaha-Ponca,omah1247,oma,555,mucus,paxthiⁿ,sw[160],
+op-555-1-2,op,Omaha-Ponca,omah1247,oma,555,mucus,žexðį́,,
+ks-555-1-1,ks,Kanza/Kaw,kans1243,ksk,555,mucus,ppaxlį́,rr,
+ks-555-1-2,ks,Kanza/Kaw,kans1243,ksk,555,mucus,xlį́,rr,
+os-555-1-1,os,Osage,osag1243,osa,555,mucus,p̣axthíⁿ,lf[126b],
+qu-555-1-1,qu,Quapaw,quap1242,qua,555,mucus,ppaxnį́,jod,

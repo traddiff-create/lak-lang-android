@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-826-1-1,pmv,Proto-Mississipi-Valley,,,826,flicker (bird),*Sųzika,,
+pdh-826-1-1,pdh,Proto-Dhegiha,,,826,flicker (bird),*zą́zika,,
+la-826-1-1,la,Lakota,lako1247,lkt,826,flicker (bird),šųzíča,b[471a],
+wi-826-1-1,wi,Hoocąk,hoch1243,win,826,flicker (bird),xųųwą́zik,km[3958],
+wi-826-1-2,wi,Hoocąk,hoch1243,win,826,flicker (bird),xųųwązik,,
+op-826-1-1,op,Omaha-Ponca,omah1247,oma,826,flicker (bird),zą́ziga,jod,
+os-826-1-1,os,Osage,osag1243,osa,826,flicker (bird),çoⁿ´çiga,lf[31b],
+qu-826-1-1,qu,Quapaw,quap1242,qua,826,flicker (bird),zą́zikka,jod,
+bi-826-1-1,bi,Biloxi,bilo1248,bll,826,flicker (bird),tcaⁿtcáⁿhayí,r[262b],

@@ -1,0 +1,7 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-182-1-1,psi,Proto-Siouan,,sio,182,stuff,*xíhe,,
+hi-182-1-1,hi,Hidatsa,hida1246,hid,182,stuff,"xia, o•p-",j,
+pda-182-1-1,pda,Proto-Dakota,,,182,stuff,*-ɣi,,
+la-182-1-1,la,Lakota,lako1247,lkt,182,stuff,"-gí, ka-",b[272],
+la-182-2-1,la,Lakota,lako1247,lkt,182,stuff,"-gi, opú-",b[403],
+da-182-1-1,da,Dakota,dako1258,dak,182,stuff,opúġi,r[384a],

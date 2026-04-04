@@ -1,0 +1,7 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-118-1-1,pmv,Proto-Mississipi-Valley,,,118,toward,*-pa,,
+la-118-1-1,la,Lakota,lako1247,lkt,118,toward,-pa {in} akhówapa,b[76],
+la-118-1-2,la,Lakota,lako1247,lkt,118,toward,-pa {in} ihéktapa,b[216],
+la-118-1-3,la,Lakota,lako1247,lkt,118,toward,-pa {in} tókhiyapa,b[498b],
+la-118-1-4,la,Lakota,lako1247,lkt,118,toward,-pa {in} itókaxwapa,b[241b],
+qu-118-1-1,qu,Quapaw,quap1242,qua,118,toward,okáxpa,rr,

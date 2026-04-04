@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+ca-532-1-1,ca,Catawba,cata1286,chc,532,"nose (3), nostril",hipį́su•ʔ,fs,
+pwc-532-1-1,pwc,Proto-Hoocąk-Chiwere,,,532,"nose (3), nostril",*phų́-,,
+ch-532-1-1,ch,Chiwere,iowa1245,iow,532,"nose (3), nostril",phų́xa,rtc,
+ch-532-1-2,ch,Chiwere,iowa1245,iow,532,"nose (3), nostril",phų́glaǰe,gmsf,
+wi-532-1-1,wi,Hoocąk,hoch1243,win,532,"nose (3), nostril","pųsopox, pǫsopox",marino[364],
+wi-532-1-2,wi,Hoocąk,hoch1243,win,532,"nose (3), nostril",pųųšje hopox,,
+qu-532-1-1,qu,Quapaw,quap1242,qua,532,"nose (3), nostril",ppąkdátte,jod,
+bi-532-1-1,bi,Biloxi,bilo1248,bll,532,"nose (3), nostril","putcoⁿ, pŭtcuⁿ, ptcûⁿ, ptcoⁿ",ds[248],
+of-532-1-1,of,Ofo,ofoo1242,ofo,532,"nose (3), nostril",apĭ´ntcu,ds[321a],

@@ -1,0 +1,5 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-575-1-1,psi,Proto-Siouan,,sio,575,mire (1),*SatakE,,
+cr-575-1-1,cr,Crow,crow1244,cro,575,mire (1),alaxsachí,dec,
+cr-575-1-2,cr,Crow,crow1244,cro,575,mire (1),dúxsachi,rg,
+qu-575-1-1,qu,Quapaw,quap1242,qua,575,mire (1),kastáke,rr,

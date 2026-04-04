@@ -1,0 +1,9 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-44-1-1,pmv,Proto-Mississipi-Valley,,,44,whip,*psį́tE,,
+pda-44-1-1,pda,Proto-Dakota,,,44,whip,*psį́tA,,
+la-44-1-1,la,Lakota,lako1247,lkt,44,whip,"psįte, šųkíča-",b[469],
+la-44-1-2,la,Lakota,lako1247,lkt,44,whip,"psį́psįta, yu-",b[648],
+la-44-1-3,la,Lakota,lako1247,lkt,44,whip,"psį́ta, ka-",b[287],
+da-44-1-1,da,Dakota,dako1258,dak,44,whip,ićápsiŋte,r[174b],
+wi-44-1-1,wi,Hoocąk,hoch1243,win,44,whip,"psį́c, gi-",km[373],
+wi-44-1-2,wi,Hoocąk,hoch1243,win,44,whip,gipsįc,,

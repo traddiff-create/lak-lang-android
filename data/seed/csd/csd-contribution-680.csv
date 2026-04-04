@@ -1,0 +1,13 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-680-1-1,psi,Proto-Siouan,,sio,680,hot weather,*wąšte,,
+pmv-680-1-1,pmv,Proto-Mississipi-Valley,,,680,hot weather,*mąšte,,
+pdh-680-1-1,pdh,Proto-Dhegiha,,,680,hot weather,*mąšté,,
+la-680-1-1,la,Lakota,lako1247,lkt,680,hot weather,mašté,c,
+st-680-1-1,st,Stoney,ston1242,sto,680,hot weather,mastá,pas,
+sv-680-1-1,sv,Sioux Valley,,,680,hot weather,mašté,pas,
+ch-680-1-1,ch,Chiwere,iowa1245,iow,680,hot weather,mą́sǰe,jgt92[41];w[236a],
+op-680-1-1,op,Omaha-Ponca,omah1247,oma,680,hot weather,moⁿshte,sw[167],
+ks-680-1-1,ks,Kanza/Kaw,kans1243,ksk,680,hot weather,mǫščé,rr,
+os-680-1-1,os,Osage,osag1243,osa,680,hot weather,moⁿ´stse,lf[102a],
+qu-680-1-1,qu,Quapaw,quap1242,qua,680,hot weather,mošté,rr,
+tu-680-1-1,tu,Tutelo,tute1247,tta,680,hot weather,"maste, mústee",h,

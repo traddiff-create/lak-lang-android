@@ -1,0 +1,9 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pwc-1184-1-1,pwc,Proto-Hoocąk-Chiwere,,,1184,Otoe,*watókta,,
+ch-1184-1-1,ch,Chiwere,iowa1245,iow,1184,Otoe,wat’óhta,lwr[64],
+ch-1184-1-2,ch,Chiwere,iowa1245,iow,1184,Otoe,wadóhda,jgt92[196],
+wi-1184-1-1,wi,Hoocąk,hoch1243,win,1184,Otoe,waǰokǰáǰa,km[3330],
+wi-1184-1-2,wi,Hoocąk,hoch1243,win,1184,Otoe,wajokjaja,,
+op-1184-1-1,op,Omaha-Ponca,omah1247,oma,1184,Otoe,wathútada,mjs[130],
+ks-1184-1-1,ks,Kanza/Kaw,kans1243,ksk,1184,Otoe,wadóttatta,rr,
+ks-1184-1-2,ks,Kanza/Kaw,kans1243,ksk,1184,Otoe,wadóttadą,rr,

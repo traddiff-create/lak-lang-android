@@ -1,0 +1,167 @@
+[
+  {
+    "lakota": "Háu",
+    "english": "Hello (said by males)",
+    "part_of_speech": "interjection",
+    "phonetic_guide": "HAH-oo",
+    "ipa": "ˈhaʊ",
+    "category": "greetings",
+    "cultural_note": "Traditional greeting used by men. Women use 'Háŋ' instead.",
+    "source": "Lakota Language Consortium, New Lakota Dictionary",
+    "review_status": "approved"
+  },
+  {
+    "lakota": "Háŋ",
+    "english": "Hello (said by females)",
+    "part_of_speech": "interjection",
+    "phonetic_guide": "HAHN",
+    "ipa": "ˈhãŋ",
+    "category": "greetings",
+    "cultural_note": "Traditional greeting used by women. Men use 'Háu' instead.",
+    "source": "Lakota Language Consortium, New Lakota Dictionary",
+    "review_status": "approved"
+  },
+  {
+    "lakota": "Philámayaye",
+    "english": "Thank you (to one person)",
+    "part_of_speech": "verb phrase",
+    "phonetic_guide": "pee-LAH-mah-yah-yeh",
+    "ipa": "pʰiˈlamaja.je",
+    "category": "greetings",
+    "cultural_note": "Use 'Philámayayapi' when thanking more than one person.",
+    "source": "Lakota Language Consortium, New Lakota Dictionary",
+    "review_status": "approved"
+  },
+  {
+    "lakota": "Tókheškhe yaúŋ he?",
+    "english": "How are you?",
+    "part_of_speech": "phrase",
+    "phonetic_guide": "TOH-kesh-keh yah-OON heh",
+    "ipa": "ˈtoːkʰeʃkʰe jaˈũŋ he",
+    "category": "greetings",
+    "cultural_note": "A common greeting asking about someone's wellbeing.",
+    "source": "Lakota Language Consortium, New Lakota Dictionary",
+    "review_status": "approved"
+  },
+  {
+    "lakota": "Taŋyáŋ waúŋ",
+    "english": "I am well",
+    "part_of_speech": "phrase",
+    "phonetic_guide": "tahn-YAHN wah-OON",
+    "ipa": "tãˈjãŋ waˈũŋ",
+    "category": "greetings",
+    "cultural_note": "A common response to 'How are you?'",
+    "source": "Lakota Language Consortium, New Lakota Dictionary",
+    "review_status": "approved"
+  },
+  {
+    "lakota": "Iná",
+    "english": "Mother",
+    "part_of_speech": "noun",
+    "phonetic_guide": "ee-NAH",
+    "ipa": "iˈna",
+    "category": "family",
+    "cultural_note": "Term of address and reference for one's mother. Also used respectfully for older women.",
+    "source": "Lakota Language Consortium, New Lakota Dictionary",
+    "review_status": "approved"
+  },
+  {
+    "lakota": "Até",
+    "english": "Father",
+    "part_of_speech": "noun",
+    "phonetic_guide": "ah-TEH",
+    "ipa": "aˈte",
+    "category": "family",
+    "cultural_note": "Term of address and reference for one's father. Also used respectfully for older men.",
+    "source": "Lakota Language Consortium, New Lakota Dictionary",
+    "review_status": "approved"
+  },
+  {
+    "lakota": "Uŋčí",
+    "english": "Grandmother",
+    "part_of_speech": "noun",
+    "phonetic_guide": "oon-CHEE",
+    "ipa": "ũˈtʃi",
+    "category": "family",
+    "cultural_note": "Term for grandmother. Grandmothers hold respected positions in Lakota family structure.",
+    "source": "Lakota Language Consortium, New Lakota Dictionary",
+    "review_status": "approved"
+  },
+  {
+    "lakota": "Tȟuŋkášila",
+    "english": "Grandfather",
+    "part_of_speech": "noun",
+    "phonetic_guide": "toon-KAH-shee-lah",
+    "ipa": "tʰũˈkaʃila",
+    "category": "family",
+    "cultural_note": "Term for grandfather. Also used ceremonially to address the Creator.",
+    "source": "Lakota Language Consortium, New Lakota Dictionary",
+    "review_status": "approved"
+  },
+  {
+    "lakota": "Thiyóšpaye",
+    "english": "Extended family, community",
+    "part_of_speech": "noun",
+    "phonetic_guide": "tee-YOH-shpah-yeh",
+    "ipa": "tʰiˈjoʃpaje",
+    "category": "family",
+    "cultural_note": "The fundamental social unit in Lakota culture, encompassing extended family and close community.",
+    "source": "Lakota Language Consortium, New Lakota Dictionary",
+    "review_status": "approved"
+  },
+  {
+    "lakota": "Waŋží",
+    "english": "One",
+    "part_of_speech": "number",
+    "phonetic_guide": "wahn-ZHEE",
+    "ipa": "wãˈʒi",
+    "category": "numbers",
+    "cultural_note": null,
+    "source": "Lakota Language Consortium, New Lakota Dictionary",
+    "review_status": "approved"
+  },
+  {
+    "lakota": "Núŋpa",
+    "english": "Two",
+    "part_of_speech": "number",
+    "phonetic_guide": "NOON-pah",
+    "ipa": "ˈnũpa",
+    "category": "numbers",
+    "cultural_note": null,
+    "source": "Lakota Language Consortium, New Lakota Dictionary",
+    "review_status": "approved"
+  },
+  {
+    "lakota": "Yámni",
+    "english": "Three",
+    "part_of_speech": "number",
+    "phonetic_guide": "YAHM-nee",
+    "ipa": "ˈjamni",
+    "category": "numbers",
+    "cultural_note": null,
+    "source": "Lakota Language Consortium, New Lakota Dictionary",
+    "review_status": "approved"
+  },
+  {
+    "lakota": "Tópa",
+    "english": "Four",
+    "part_of_speech": "number",
+    "phonetic_guide": "TOH-pah",
+    "ipa": "ˈtopa",
+    "category": "numbers",
+    "cultural_note": "Four is a sacred number in Lakota tradition, representing the four directions.",
+    "source": "Lakota Language Consortium, New Lakota Dictionary",
+    "review_status": "approved"
+  },
+  {
+    "lakota": "Záptaŋ",
+    "english": "Five",
+    "part_of_speech": "number",
+    "phonetic_guide": "ZAHP-tahn",
+    "ipa": "ˈzaptãŋ",
+    "category": "numbers",
+    "cultural_note": null,
+    "source": "Lakota Language Consortium, New Lakota Dictionary",
+    "review_status": "approved"
+  }
+]

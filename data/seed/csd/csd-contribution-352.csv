@@ -1,0 +1,11 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-352-1-1,pmv,Proto-Mississipi-Valley,,,352,"sharpen, grind",*-mą́,,
+pda-352-1-1,pda,Proto-Dakota,,,352,"sharpen, grind",*-mą́,,
+pdh-352-1-1,pdh,Proto-Dhegiha,,,352,"sharpen, grind",*-mą,,
+la-352-1-1,la,Lakota,lako1247,lkt,352,"sharpen, grind",pamą́,b[430b],
+la-352-1-2,la,Lakota,lako1247,lkt,352,"sharpen, grind",yumą́,b[643b],
+op-352-1-1,op,Omaha-Ponca,omah1247,oma,352,"sharpen, grind",we bamoⁿ,sw[77],
+ks-352-1-1,ks,Kanza/Kaw,kans1243,ksk,352,"sharpen, grind",bamą,rr,
+os-352-1-1,os,Osage,osag1243,osa,352,"sharpen, grind",bamoⁿ,lf[22a],
+os-352-2-1,os,Osage,osag1243,osa,352,"sharpen, grind",thimoⁿ,lf[148a],
+qu-352-1-1,qu,Quapaw,quap1242,qua,352,"sharpen, grind",kamǫ́,jod,

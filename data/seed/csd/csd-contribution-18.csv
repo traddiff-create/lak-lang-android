@@ -1,0 +1,13 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-18-1-1,pmv,Proto-Mississipi-Valley,,,18,"within, inside",*mąrhe,,
+pda-18-1-1,pda,Proto-Dakota,,,18,"within, inside",*mąhé,,
+pdh-18-1-1,pdh,Proto-Dhegiha,,,18,"within, inside",*mąthe,,
+la-18-1-1,la,Lakota,lako1247,lkt,18,"within, inside",mahé,b[327b],
+la-18-1-2,la,Lakota,lako1247,lkt,18,"within, inside",mahétu,b[328],
+da-18-1-1,da,Dakota,dako1258,dak,18,"within, inside",ma-hén,r[304b],
+op-18-1-1,op,Omaha-Ponca,omah1247,oma,18,"within, inside",moⁿte,sw[101],
+ks-18-1-1,ks,Kanza/Kaw,kans1243,ksk,18,"within, inside",mą́čhe,rr,
+ks-18-1-2,ks,Kanza/Kaw,kans1243,ksk,18,"within, inside",mąčhétta,jod,
+os-18-1-1,os,Osage,osag1243,osa,18,"within, inside","moⁿ´tse, moⁿtsé",lf[103a],
+qu-18-1-1,qu,Quapaw,quap1242,qua,18,"within, inside",[†mą́the],jod,
+qu-18-2-1,qu,Quapaw,quap1242,qua,18,"within, inside",[†mątháha],jod,

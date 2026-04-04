@@ -1,0 +1,9 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-206-1-1,psi,Proto-Siouan,,sio,206,stick (4),*a-rakE,,
+pbo-206-1-1,pbo,Proto-Biloxi-Ofo,,,206,stick (4),*a-raki,,
+da-206-1-1,da,Dakota,dako1258,dak,206,stick (4),ikʻóyaka,b[222a],
+da-206-1-2,da,Dakota,dako1258,dak,206,stick (4),ikóyaka,r[195a],
+ks-206-1-1,ks,Kanza/Kaw,kans1243,ksk,206,stick (4),áyage,,
+bi-206-1-1,bi,Biloxi,bilo1248,bll,206,stick (4),"daki, dag, tûki, tûg; añksi adaki",ds[180a],
+of-206-1-1,of,Ofo,ofoo1242,ofo,206,stick (4),atạkíti,ds[322a],
+tu-206-1-1,tu,Tutelo,tute1247,tta,206,stick (4),masīgorāk,h[1878],

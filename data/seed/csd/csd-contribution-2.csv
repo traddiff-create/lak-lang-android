@@ -1,0 +1,13 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-2-1-1,psi,Proto-Siouan,,sio,2,yesterday (1),*sitó• (?),,
+ca-2-1-1,ca,Catawba,cata1286,chc,2,yesterday (1),sųdá•,ks;g,
+pdh-2-1-1,pdh,Proto-Dhegiha,,,2,yesterday (1),*sitóti,,
+ch-2-1-1,ch,Chiwere,iowa1245,iow,2,yesterday (1),θʔída,jgt[69],
+op-2-1-1,op,Omaha-Ponca,omah1247,oma,2,yesterday (1),çidadi,sw[192],
+ks-2-1-1,ks,Kanza/Kaw,kans1243,ksk,2,yesterday (1),ʔsídoǰi ~ sidóǰi,rr,
+os-2-1-1,os,Osage,osag1243,osa,2,yesterday (1),çidódsi,lf[30a],
+qu-2-1-1,qu,Quapaw,quap1242,qua,2,yesterday (1),siótti,jod,
+tu-2-1-1,tu,Tutelo,tute1247,tta,2,yesterday (1),setoŋle,,
+tu-2-2-1,tu,Tutelo,tute1247,tta,2,yesterday (1),sitō,h[1883a],
+tu-2-2-2,tu,Tutelo,tute1247,tta,2,yesterday (1),šitóre,jod[1882],
+tu-2-2-3,tu,Tutelo,tute1247,tta,2,yesterday (1),citóre,,

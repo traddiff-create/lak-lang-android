@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-844-1-1,pmv,Proto-Mississipi-Valley,,,844,feeble,*šʔákE,,
+pda-844-1-1,pda,Proto-Dakota,,,844,feeble,*-šʔákA,,
+la-844-1-1,la,Lakota,lako1247,lkt,844,feeble,"-šʔákA, ka-",b[292a],
+la-844-1-2,la,Lakota,lako1247,lkt,844,feeble,"-šʔákA, pa-",b[435b],
+la-844-1-3,la,Lakota,lako1247,lkt,844,feeble,"-šʔákA, ya-",b[629a],
+la-844-1-4,la,Lakota,lako1247,lkt,844,feeble,"-šʔákA, yu-",b[653a],
+la-844-1-5,la,Lakota,lako1247,lkt,844,feeble,"-šʔagya, óka-",b[386a],
+da-844-1-1,da,Dakota,dako1258,dak,844,feeble,kaś’áka,r[267b],
+wi-844-1-1,wi,Hoocąk,hoch1243,win,844,feeble,"-šʔák, ru-",,
+wi-844-1-2,wi,Hoocąk,hoch1243,win,844,feeble,ruš’ak,,
+ks-844-1-1,ks,Kanza/Kaw,kans1243,ksk,844,feeble,yacʔáge,rr,

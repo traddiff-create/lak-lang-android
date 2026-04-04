@@ -1,0 +1,7 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pch-280-1-1,pch,Proto-Crow-Hidatsa,,,280,something (2),*ta•pa,,
+ca-280-1-1,ca,Catawba,cata1286,chc,280,something (2),tα´pə,ks[208],
+ca-280-1-2,ca,Catawba,cata1286,chc,280,something (2),tαpα,ks[208],
+cr-280-1-1,cr,Crow,crow1244,cro,280,something (2),sáapa,gg[66],
+hi-280-1-1,hi,Hidatsa,hida1246,hid,280,something (2),ta•pa- {in} ta•pato•k,j,
+hi-280-1-2,hi,Hidatsa,hida1246,hid,280,something (2),ta•pa- {in} ta•paʔ,j,

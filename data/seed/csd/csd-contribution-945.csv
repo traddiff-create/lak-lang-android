@@ -1,0 +1,6 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-945-1-1,psi,Proto-Siouan,,sio,945,crush (1),*pú•SE (?),,
+hi-945-1-1,hi,Hidatsa,hida1246,hid,945,crush (1),"-pu•xE, ara-",j,
+hi-945-1-2,hi,Hidatsa,hida1246,hid,945,crush (1),"-pu•xE, ná-",j,
+hi-945-1-3,hi,Hidatsa,hida1246,hid,945,crush (1),"-pu•xE, nú-",j,
+ma-945-1-1,ma,Mandan,mand1446,mhq,945,crush (1),"-puš, ra-",h[160],

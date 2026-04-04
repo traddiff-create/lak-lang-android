@@ -1,0 +1,11 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-260-1-1,psi,Proto-Siouan,,sio,260,"spit (2), foam",*htá•Se,,
+pmv-260-1-1,pmv,Proto-Mississipi-Valley,,,260,"spit (2), foam",*htá•ɣe,,
+pdh-260-1-1,pdh,Proto-Dhegiha,,,260,"spit (2), foam",*htáxe,,
+la-260-1-1,la,Lakota,lako1247,lkt,260,"spit (2), foam","tháɣa, thaɣé",c,
+wi-260-1-1,wi,Hoocąk,hoch1243,win,260,"spit (2), foam",čaax,km[155],
+wi-260-1-2,wi,Hoocąk,hoch1243,win,260,"spit (2), foam",caax,,
+op-260-1-1,op,Omaha-Ponca,omah1247,oma,260,"spit (2), foam",taxe chu,sw[162],
+qu-260-1-1,qu,Quapaw,quap1242,qua,260,"spit (2), foam",ni ttáxe,jod,
+bi-260-1-1,bi,Biloxi,bilo1248,bll,260,"spit (2), foam",tatckĕ´,ds[282a],
+of-260-1-1,of,Ofo,ofoo1242,ofo,260,"spit (2), foam",ā´ktchĕ,ds[320a],

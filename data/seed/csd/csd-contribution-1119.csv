@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pch-1119-1-1,pch,Proto-Crow-Hidatsa,,,1119,bee (2),*awáko•xE,,
+cr-1119-1-1,cr,Crow,crow1244,cro,1119,bee (2),awákooxa,rg;gg[58];dec[43],
+hi-1119-1-1,hi,Hidatsa,hida1246,hid,1119,bee (2),awáko•xE,j,
+hi-1119-1-2,hi,Hidatsa,hida1246,hid,1119,bee (2),awáko•xi,,
+ma-1119-1-1,ma,Mandan,mand1446,mhq,1119,bee (2),kox,h[115],
+ma-1119-1-2,ma,Mandan,mand1446,mhq,1119,bee (2),síkox,c,
+pbo-1119-1-1,pbo,Proto-Biloxi-Ofo,,,1119,bee (2),*akąxi,,
+bi-1119-1-1,bi,Biloxi,bilo1248,bll,1119,bee (2),"kaⁿx, kaⁿxí",ds[206a],
+of-1119-1-1,of,Ofo,ofoo1242,ofo,1119,bee (2),ạkoⁿ´si,ds[320a],

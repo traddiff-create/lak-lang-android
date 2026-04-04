@@ -1,0 +1,6 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-151-1-1,psi,Proto-Siouan,,sio,151,thank you,*hahó,,
+pch-151-1-1,pch,Proto-Crow-Hidatsa,,,151,thank you,*hahó,,
+cr-151-1-1,cr,Crow,crow1244,cro,151,thank you,ahó•,gg[4],
+hi-151-1-1,hi,Hidatsa,hida1246,hid,151,thank you,hahó,,
+ma-151-1-1,ma,Mandan,mand1446,mhq,151,thank you,hahó,h[65],

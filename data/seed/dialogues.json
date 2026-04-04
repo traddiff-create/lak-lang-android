@@ -1,0 +1,892 @@
+[
+  {
+    "type": "mini",
+    "title": "10.1 Meeting Someone",
+    "context": "",
+    "section_ref": "10-1-meeting-someone",
+    "exchanges": [
+      {
+        "speaker": "A",
+        "lakota": "Haú, kȟolá! Tókheškhe yaúŋ he?"
+      },
+      {
+        "speaker": "B",
+        "lakota": "Taŋyáŋ waúŋ. Níš tókheškhe yaúŋ he?"
+      },
+      {
+        "speaker": "A",
+        "lakota": "Taŋyáŋ waúŋ. Tókheš eníčiyapi he?"
+      },
+      {
+        "speaker": "B",
+        "lakota": "___ emáčiyapi. Níš tókheš eníčiyapi he?"
+      },
+      {
+        "speaker": "A",
+        "lakota": "___ emáčiyapi. Waŋčhíŋyaŋke iyómakiphi."
+      },
+      {
+        "speaker": "B",
+        "lakota": "Míš-eyá. Tókša akhé."
+      }
+    ],
+    "english_translation": "Hello, friend! How are you? — I'm doing well. And you? — Good. What's your name? — They call me ___. And yours? — They call me ___. Nice to see you. — Me too. Until next time.",
+    "participants": [
+      "A",
+      "B"
+    ],
+    "speaker_genders": [],
+    "review_status": "approved"
+  },
+  {
+    "type": "mini",
+    "title": "10.2 At Home (Parent and Child)",
+    "context": "",
+    "section_ref": "10-2-at-home-parent-and-child",
+    "exchanges": [
+      {
+        "speaker": "Iná",
+        "lakota": "Čhiŋkší, kiktá yo!"
+      },
+      {
+        "speaker": "Čhiŋkší",
+        "lakota": "Naháŋȟčiŋ maȟwá, Iná."
+      },
+      {
+        "speaker": "Iná",
+        "lakota": "Waná híŋhaŋni. Owáyawa ektá lá kte."
+      },
+      {
+        "speaker": "Čhiŋkší",
+        "lakota": "Oháŋ. Maločhíŋ. Wóyute wačhíŋ."
+      },
+      {
+        "speaker": "Iná",
+        "lakota": "Aǧúyapi na asáŋpi hé wíyeya."
+      }
+    ],
+    "english_translation": "Son, wake up! — I'm still sleepy, Mom. — It's morning now. You'll go to school. — Okay. I'm hungry. I want food. — Bread and milk are ready.",
+    "participants": [
+      "Iná",
+      "Čhiŋkší"
+    ],
+    "speaker_genders": [],
+    "review_status": "approved"
+  },
+  {
+    "type": "mini",
+    "title": "10.3 Asking for Help",
+    "context": "",
+    "section_ref": "10-3-asking-for-help",
+    "exchanges": [
+      {
+        "speaker": "A",
+        "lakota": "Ómakiya yo."
+      },
+      {
+        "speaker": "B",
+        "lakota": "Oháŋ. Táku yačhíŋ he?"
+      },
+      {
+        "speaker": "A",
+        "lakota": "Slolwáye šni. Tókheškhe ečhúŋ he?"
+      },
+      {
+        "speaker": "B",
+        "lakota": "Ú ye. Kipázo kte."
+      },
+      {
+        "speaker": "A",
+        "lakota": "Philámayaye."
+      },
+      {
+        "speaker": "B",
+        "lakota": "Tókȟa šni."
+      }
+    ],
+    "english_translation": "Help me. — Okay. What do you want? — I don't know. How do you do it? — Come here. I'll show you. — Thank you. — No problem.",
+    "participants": [
+      "A",
+      "B"
+    ],
+    "speaker_genders": [],
+    "review_status": "approved"
+  },
+  {
+    "type": "mini",
+    "title": "10.4 Weather Talk",
+    "context": "",
+    "section_ref": "10-4-weather-talk",
+    "exchanges": [
+      {
+        "speaker": "A",
+        "lakota": "Aŋpétu wašté, inčhéye?"
+      },
+      {
+        "speaker": "B",
+        "lakota": "Háŋ, éyaš maǧážu kte nachéče."
+      },
+      {
+        "speaker": "A",
+        "lakota": "Maȟpíya kiŋ sápa áye."
+      },
+      {
+        "speaker": "B",
+        "lakota": "Thípi ektá uŋglípi kte."
+      }
+    ],
+    "english_translation": "Nice day, isn't it? — Yes, but it'll probably rain. — The clouds are getting dark. — Let's go home.",
+    "participants": [
+      "A",
+      "B"
+    ],
+    "speaker_genders": [],
+    "review_status": "approved"
+  },
+  {
+    "type": "mini",
+    "title": "10.5 Checking on Someone",
+    "context": "",
+    "section_ref": "10-5-checking-on-someone",
+    "exchanges": [
+      {
+        "speaker": "A",
+        "lakota": "Tókheškhe yaúŋ he? Nikȟúža he?"
+      },
+      {
+        "speaker": "B",
+        "lakota": "Kítaŋla makȟúža. Natá mayázaŋ."
+      },
+      {
+        "speaker": "A",
+        "lakota": "Šika. Pȟežúta yúta yo."
+      },
+      {
+        "speaker": "B",
+        "lakota": "Oháŋ. Tókša taŋyáŋ waúŋ kte."
+      },
+      {
+        "speaker": "A",
+        "lakota": "Asníkiya yo."
+      }
+    ],
+    "english_translation": "How are you? Are you sick? — A little sick. My head hurts. — Poor thing. Take medicine. — Okay. I'll be fine later. — Rest up.",
+    "participants": [
+      "A",
+      "B"
+    ],
+    "speaker_genders": [],
+    "review_status": "approved"
+  },
+  {
+    "type": "mini",
+    "title": "10.6 At a Gathering",
+    "context": "",
+    "section_ref": "10-6-at-a-gathering",
+    "exchanges": [
+      {
+        "speaker": "A",
+        "lakota": "Taŋyáŋ yahípi! Iyótaka po / pe."
+      },
+      {
+        "speaker": "B",
+        "lakota": "Philáuŋyayapi. Líla wašté lél uŋhípi kiŋ."
+      },
+      {
+        "speaker": "A",
+        "lakota": "Wóyute wačhíŋ he?"
+      },
+      {
+        "speaker": "B",
+        "lakota": "Háŋ! Maločhíŋ."
+      },
+      {
+        "speaker": "A",
+        "lakota": "Waháŋpi na tȟaló waná wíyeya."
+      },
+      {
+        "speaker": "B",
+        "lakota": "Wópȟila tȟáŋka!"
+      }
+    ],
+    "english_translation": "Welcome! Sit down. — Thank you. It's good we came. — Want food? — Yes! I'm hungry. — Soup and meat are ready. — Big thanks!",
+    "participants": [
+      "A",
+      "B"
+    ],
+    "speaker_genders": [],
+    "review_status": "approved"
+  },
+  {
+    "type": "mini",
+    "title": "10.7 Shopping for Ceremony Supplies",
+    "context": "",
+    "section_ref": "10-7-shopping-for-ceremony-supplies",
+    "exchanges": [
+      {
+        "speaker": "A",
+        "lakota": "Čhaŋlí na čhaŋšášá kiŋ duhá he?"
+      },
+      {
+        "speaker": "B",
+        "lakota": "Háŋ, lél yúha waúŋ. Tóna yačhíŋ he?"
+      },
+      {
+        "speaker": "A",
+        "lakota": "Waŋží-ží na šiná kiŋ lé nakúŋ."
+      },
+      {
+        "speaker": "B",
+        "lakota": "Šiná tónakča he?"
+      },
+      {
+        "speaker": "A",
+        "lakota": "Wikčémna núŋpa sáŋm záptaŋ."
+      },
+      {
+        "speaker": "B",
+        "lakota": "Oháŋ, opȟéwatȟuŋ kte ló."
+      },
+      {
+        "speaker": "A",
+        "lakota": "Akhé wóphila."
+      },
+      {
+        "speaker": "B",
+        "lakota": "Héčhetu. Wóčhekiye wašté yuhá yo."
+      }
+    ],
+    "english_translation": "Do you have tobacco and red willow bark? — Yes, I have them here. How many do you want? — A little of each and this blanket too. — How much is the blanket? — Twenty-five. — Okay, I'll buy it. — Thanks again. — That's right. Have a good prayer.",
+    "participants": [
+      "A",
+      "B"
+    ],
+    "speaker_genders": [
+      "male"
+    ],
+    "review_status": "approved"
+  },
+  {
+    "type": "mini",
+    "title": "10.8 Planning an Activity Together",
+    "context": "",
+    "section_ref": "10-8-planning-an-activity-together",
+    "exchanges": [
+      {
+        "speaker": "A",
+        "lakota": "Aŋpétu kiŋ lé táku ečhúŋk'uŋpi kte he?"
+      },
+      {
+        "speaker": "B",
+        "lakota": "Blé ektá uŋyáŋpi kiŋhán wašté kte."
+      },
+      {
+        "speaker": "A",
+        "lakota": "Wašté kštó! Hokšíla kiŋ nakúŋ awíčhauŋglapi kte he?"
+      },
+      {
+        "speaker": "B",
+        "lakota": "Háŋ, hokȟúwa wačhíŋpi načhéče."
+      },
+      {
+        "speaker": "A",
+        "lakota": "Tóhaŋ uŋyáŋpi kte he?"
+      },
+      {
+        "speaker": "B",
+        "lakota": "Wiyótȟaŋhaŋ iyóhakam. Nakáha líla makȟáta."
+      },
+      {
+        "speaker": "A",
+        "lakota": "Héčhetu. Wóyute na mní awáŋglapi kte."
+      },
+      {
+        "speaker": "B",
+        "lakota": "Na owíŋža čík'ala waŋží nakúŋ."
+      }
+    ],
+    "english_translation": "What should we do today? — It would be nice if we go to the lake. — Great! Should we bring the boys too? — Yes, they probably want to fish. — When should we go? — After noon. Right now it's really hot. — That's right. We'll bring food and water. — And a small blanket too.",
+    "participants": [
+      "A",
+      "B"
+    ],
+    "speaker_genders": [
+      "female"
+    ],
+    "review_status": "approved"
+  },
+  {
+    "type": "mini",
+    "title": "10.9 Discussing Someone's Health",
+    "context": "",
+    "section_ref": "10-9-discussing-someone-s-health",
+    "exchanges": [
+      {
+        "speaker": "A",
+        "lakota": "Uŋčí tókhel uŋ he? Líla awáčhaŋmi."
+      },
+      {
+        "speaker": "B",
+        "lakota": "Kitáŋla yazáŋ uŋ kštó. Čhaŋkpéhola kiŋ yazáŋ."
+      },
+      {
+        "speaker": "A",
+        "lakota": "Šíka. Pȟežúta thípi ektá yá he?"
+      },
+      {
+        "speaker": "B",
+        "lakota": "Háŋ, htálehaŋ yá. Pȟežúta k'úpi."
+      },
+      {
+        "speaker": "A",
+        "lakota": "Wašté. Táku awágli owákihi he?"
+      },
+      {
+        "speaker": "B",
+        "lakota": "Wahánpi na aǧúyapi awágli kiŋhán iyókiphi kte."
+      },
+      {
+        "speaker": "A",
+        "lakota": "Oháŋ, htȟayétu ektá wahí kte ló."
+      },
+      {
+        "speaker": "B",
+        "lakota": "Philámayaye. Líla iyókiphi kte kštó."
+      }
+    ],
+    "english_translation": "How is Grandmother doing? I'm really thinking about her. — She's a little sick. Her knee hurts. — That's too bad. Did she go to the hospital? — Yes, she went yesterday. They gave her medicine. — Good. Can I bring her anything? — If you bring soup and bread she'll be happy. — Okay, I'll come by this evening. — Thank you. She'll be very happy.",
+    "participants": [
+      "A",
+      "B"
+    ],
+    "speaker_genders": [
+      "male",
+      "female"
+    ],
+    "review_status": "approved"
+  },
+  {
+    "type": "mini",
+    "title": "10.10 Teaching a Traditional Skill",
+    "context": "",
+    "section_ref": "10-10-teaching-a-traditional-skill",
+    "exchanges": [
+      {
+        "speaker": "Uŋčí",
+        "lakota": "Čhuŋwé, lé kȟáŋ omáyakihi kte he?"
+      },
+      {
+        "speaker": "Čhuŋwé",
+        "lakota": "Háŋ, Uŋčí! Táku kȟáŋpi kte he?"
+      },
+      {
+        "speaker": "Uŋčí",
+        "lakota": "Haŋpá wakáǧiŋ kte. Nipȟehíŋ awáčhi kiŋhán lé ečháŋuŋ kte."
+      },
+      {
+        "speaker": "Čhuŋwé",
+        "lakota": "Wašté kštó! Tóhakam tókhel omáyakiya yo."
+      },
+      {
+        "speaker": "Uŋčí",
+        "lakota": "Itókaheyaŋ, tȟahá kiŋ čhókata baksápi. Uŋyúza yo...heháŋ."
+      },
+      {
+        "speaker": "Čhuŋwé",
+        "lakota": "Heháŋ?"
+      },
+      {
+        "speaker": "Uŋčí",
+        "lakota": "Héčhel waŋží iyúha yutítaŋ uŋyúza na heháŋ wikáŋ kiŋ apáȟtapi."
+      },
+      {
+        "speaker": "Čhuŋwé",
+        "lakota": "Uŋčí, líla waúŋspekȟiya wašté kštó."
+      },
+      {
+        "speaker": "Uŋčí",
+        "lakota": "Iná mitȟáwa kiŋ héčhel omákhiya. Na iyéš húŋku. Héčhel héhaŋyaŋ uŋkáǧapi s'a."
+      }
+    ],
+    "english_translation": "Granddaughter, can you help me with this? — Yes, Grandmother! What are we going to make? — I'll make moccasins. If you want to sew I'll do this. — Good! Show me how later. — First, we cut the hide in the middle. Hold it...like that. — Then? — Like that we hold each one tight and then stitch the thread. — Grandmother, you're a really good teacher. — My mother taught me like that. And her mother before her. That's how we've always made them.",
+    "participants": [
+      "Uŋčí",
+      "Čhuŋwé"
+    ],
+    "speaker_genders": [
+      "female"
+    ],
+    "review_status": "approved"
+  },
+  {
+    "type": "mini",
+    "title": "10.11 Returning Home After a Long Absence",
+    "context": "",
+    "section_ref": "10-11-returning-home-after-a-long-absence",
+    "exchanges": [
+      {
+        "speaker": "A",
+        "lakota": "Háu, kȟolá. Líla tȟéhaŋ waŋblák šni ló."
+      },
+      {
+        "speaker": "B",
+        "lakota": "Háu! Tókiya yaúŋ he? Líla awáčhičhiŋ waúŋ ló."
+      },
+      {
+        "speaker": "A",
+        "lakota": "Otȟúŋwahe tȟáŋka waŋ él wówaši waúŋ. Waŋná waglí ló."
+      },
+      {
+        "speaker": "B",
+        "lakota": "Wašté ló! Líla uŋkíničiyuškiŋpe. Thíyata taŋyáŋ yahí."
+      },
+      {
+        "speaker": "A",
+        "lakota": "Háŋ, makȟóče kiŋ lé líla iyómakiphi. Otȟúŋwahe tȟáŋka kiŋ iyómečhilačhe šni."
+      },
+      {
+        "speaker": "B",
+        "lakota": "Héčhetu. Lél mitȟáoyate kiŋ iyúha uŋpí ló. Aŋpétu kiŋ lé wóphila."
+      },
+      {
+        "speaker": "A",
+        "lakota": "Akhé lél uŋyáŋkiŋ kte ló. Tȟuŋkášila philámaya."
+      }
+    ],
+    "english_translation": "Hello, friend. I haven't seen you in a long time. — Hello! Where have you been? I was thinking about you a lot. — I was working in a big city. Now I've come home. — Great! We're really glad to see you. Welcome home. — Yes, I love this land. I didn't like the big city. — That's right. Here all our people are together. Today is a day of thanks. — I'll be staying here again. Thank you, Grandfather.",
+    "participants": [
+      "A",
+      "B"
+    ],
+    "speaker_genders": [
+      "male"
+    ],
+    "review_status": "approved"
+  },
+  {
+    "type": "extended",
+    "title": "16.1 Visiting Relatives",
+    "context": "",
+    "section_ref": "16-1-visiting-relatives",
+    "exchanges": [
+      {
+        "speaker": "A",
+        "lakota": "Háu kȟolá! Taŋyáŋ yahí ló. Tímahel ú yo."
+      },
+      {
+        "speaker": "B",
+        "lakota": "Háu! Philámayaye. Tokíyataŋhaŋ wahí na líla tȟehíŋ waúŋ."
+      },
+      {
+        "speaker": "A",
+        "lakota": "Čhuwíta ló. Pȟežúta sápa yačhíŋ he?"
+      },
+      {
+        "speaker": "B",
+        "lakota": "Háŋ! Líla wašté kte ló."
+      },
+      {
+        "speaker": "A",
+        "lakota": "Thawíču yaúŋ he? Uŋčí kiŋ waŋyáka wačhíŋ."
+      },
+      {
+        "speaker": "B",
+        "lakota": "Háŋ, čhíŋkš kičhí okówažila iyótakapi. Tókša hí kte ló."
+      },
+      {
+        "speaker": "A",
+        "lakota": "Wašté. Wahéphi wahpáŋpi na wahánpi yúha yaúŋ."
+      },
+      {
+        "speaker": "B",
+        "lakota": "Wóphila tȟáŋka! Uŋčí tókhel uŋ he?"
+      },
+      {
+        "speaker": "A",
+        "lakota": "Taŋyáŋ uŋ. Anpétu wašté-wašté yuhá uŋ ló."
+      }
+    ],
+    "english_translation": "Hello friend! Welcome. Come inside. — Hello! Thank you. I came from far and was traveling a long time. — It's cold. Want coffee? — Yes! That would be great. — Is your wife with you? Grandmother wants to see her. — Yes, she and the kids are sitting in the car. She'll come soon. — Good. We have tea and soup. — Big thanks! How is Grandmother? — She's doing well. She's having good days.",
+    "participants": [
+      "A",
+      "B"
+    ],
+    "speaker_genders": [
+      "male"
+    ],
+    "review_status": "approved"
+  },
+  {
+    "type": "extended",
+    "title": "16.2 At the Store (Mazóphiye ektá)",
+    "context": "",
+    "section_ref": "16-2-at-the-store-maz-phiye-ekt",
+    "exchanges": [
+      {
+        "speaker": "A",
+        "lakota": "Tókhel! Táku yačhíŋ he?"
+      },
+      {
+        "speaker": "B",
+        "lakota": "Aǧúyapi na asáŋpi na wičháyažipa čhaŋháŋpi wačhíŋ."
+      },
+      {
+        "speaker": "A",
+        "lakota": "Aǧúyapi kiŋ lél na asáŋpi kiŋ ká."
+      },
+      {
+        "speaker": "B",
+        "lakota": "Lé tónakča he?"
+      },
+      {
+        "speaker": "A",
+        "lakota": "Záptaŋ na záptaŋ — wikčémna."
+      },
+      {
+        "speaker": "B",
+        "lakota": "Wašté. Na čhaŋháŋpi kiŋ lé nakúŋ."
+      },
+      {
+        "speaker": "A",
+        "lakota": "Oháŋ. Akhé wahíyaŋ pe."
+      },
+      {
+        "speaker": "B",
+        "lakota": "Háŋ, philámayaye kštó!"
+      }
+    ],
+    "english_translation": "Hello! What do you want? — I want bread and milk and honey. — The bread is here and the milk is over there. — How much is this? — Five and five — ten. — Good. And this sugar too. — Okay. Come again! — Yes, thank you!",
+    "participants": [
+      "A",
+      "B"
+    ],
+    "speaker_genders": [
+      "female"
+    ],
+    "review_status": "approved"
+  },
+  {
+    "type": "extended",
+    "title": "16.3 Talking About the Weather",
+    "context": "",
+    "section_ref": "16-3-talking-about-the-weather",
+    "exchanges": [
+      {
+        "speaker": "A",
+        "lakota": "Aŋpétu kiŋ lé líla tȟaté ló. Wíyažu waŋží hí kte načhéče."
+      },
+      {
+        "speaker": "B",
+        "lakota": "Háŋ, maȟpíya sápa kiŋ héna kȟíya hí ló."
+      },
+      {
+        "speaker": "A",
+        "lakota": "Maǧážu kiŋhán thíyata uŋyáŋkiŋ kte ló."
+      },
+      {
+        "speaker": "B",
+        "lakota": "Čhuwíta nakúŋ. Ptaŋyétu kiŋ wanáȟčiŋ hí kte."
+      },
+      {
+        "speaker": "A",
+        "lakota": "Wanípȟala kiŋhán wá kiŋ líla óta hí kte načhéče."
+      },
+      {
+        "speaker": "B",
+        "lakota": "Héčhetu ló. Čhaŋ kiŋ pahí uŋkókihipi kiŋhán wašté kte."
+      }
+    ],
+    "english_translation": "Today is really windy. A storm is probably coming. — Yes, those dark clouds are coming this way. — If it rains, we'll stay at home. — It's cold too. Autumn is coming soon. — If winter comes, there will probably be a lot of snow. — That's right. If we can gather wood, that will be good.",
+    "participants": [
+      "A",
+      "B"
+    ],
+    "speaker_genders": [
+      "male"
+    ],
+    "review_status": "approved"
+  },
+  {
+    "type": "extended",
+    "title": "16.4 At an Elder's Home",
+    "context": "",
+    "section_ref": "16-4-at-an-elder-s-home",
+    "exchanges": [
+      {
+        "speaker": "A",
+        "lakota": "Uŋčí, tókhel yaúŋ he?"
+      },
+      {
+        "speaker": "Uŋčí",
+        "lakota": "Á, taŋyáŋ waúŋ kštó. Nitȟáŋkaš kičhí yahí he?"
+      },
+      {
+        "speaker": "A",
+        "lakota": "Háŋ, thimáhel škaŋ uŋ."
+      },
+      {
+        "speaker": "Uŋčí",
+        "lakota": "Wašté kštó. Takúku yúta wačhíŋpi kiŋhán wahánpi yuháŋ."
+      },
+      {
+        "speaker": "A",
+        "lakota": "Philámayaye, Uŋčí. Tóhakam wóyažu awaŋíčhiyaŋke kte."
+      },
+      {
+        "speaker": "Uŋčí",
+        "lakota": "Nitȟáŋkaš Lakȟótiyapi oyák'uŋ čha líla iyómakiphi kštó."
+      },
+      {
+        "speaker": "A",
+        "lakota": "Uŋkíyapi ló. Líla él éwačhaŋmi."
+      },
+      {
+        "speaker": "Uŋčí",
+        "lakota": "Hó, héčhetu. Wakȟáŋyaŋ úŋ ye."
+      }
+    ],
+    "english_translation": "Grandmother, how are you? — Ah, I'm doing well. Did you come with your grandchild? — Yes, she's playing inside. — Good. If they want to eat something, I have soup. — Thank you, Grandmother. Later I'll come check your medicine. — I'm so happy your grandchild is learning Lakota. — We're trying. I think about it a lot. — Good, that's right. Live in a sacred way.",
+    "participants": [
+      "A",
+      "Uŋčí"
+    ],
+    "speaker_genders": [
+      "female"
+    ],
+    "review_status": "approved"
+  },
+  {
+    "type": "extended",
+    "title": "16.5 Encouraging a Child to Speak Lakota",
+    "context": "",
+    "section_ref": "16-5-encouraging-a-child-to-speak-lakota",
+    "exchanges": [
+      {
+        "speaker": "Até",
+        "lakota": "Čhiŋkší, Lakȟótiya éya yo."
+      },
+      {
+        "speaker": "Čhiŋkší",
+        "lakota": "Tókhel ehé kte he?"
+      },
+      {
+        "speaker": "Até",
+        "lakota": "\"Philámayaye\" — héčhel oyáka yo."
+      },
+      {
+        "speaker": "Čhiŋkší",
+        "lakota": "Philámayaye!"
+      },
+      {
+        "speaker": "Até",
+        "lakota": "Wašté ló! Waŋná, \"Aŋpétu wašté\" eyá yo."
+      },
+      {
+        "speaker": "Čhiŋkší",
+        "lakota": "Aŋpétu wašté!"
+      },
+      {
+        "speaker": "Até",
+        "lakota": "Héčhetu ló! Kȟoktá waŋží: \"Tókhel yaúŋ he?\" — tokíl la he?"
+      },
+      {
+        "speaker": "Čhiŋkší",
+        "lakota": "Tókhel yaúŋ he?"
+      },
+      {
+        "speaker": "Até",
+        "lakota": "Taŋyáŋ waúŋ! Čhiŋkší, líla owáyaspahe ló. Wakȟáŋyaŋ Lakȟótiya iyáya yo."
+      },
+      {
+        "speaker": "Čhiŋkší",
+        "lakota": "Háŋ, Até! Akhé uŋspémakiya yo!"
+      }
+    ],
+    "english_translation": "Son, say it in Lakota. — How should I say it? — \"Thank you\" — say it like that. — Thank you! — Good! Now, say \"Nice day.\" — Nice day! — That's right! One more: \"How are you?\" — where is it going? — How are you? — I'm doing well! Son, you learn fast. Speak Lakota in a sacred way. — Yes, Dad! Teach me again!",
+    "participants": [
+      "Até",
+      "Čhiŋkší"
+    ],
+    "speaker_genders": [
+      "male"
+    ],
+    "review_status": "approved"
+  },
+  {
+    "type": "extended",
+    "title": "16.6 After a Ceremony (Wóčhekiye Iyóhakam)",
+    "context": "",
+    "section_ref": "16-6-after-a-ceremony-w-hekiye-iy-hakam",
+    "exchanges": [
+      {
+        "speaker": "A",
+        "lakota": "Wóphila Tȟáŋka. Líla wašté ló."
+      },
+      {
+        "speaker": "B",
+        "lakota": "Háŋ. Wóčhekiye kiŋ líla wasúta ló."
+      },
+      {
+        "speaker": "A",
+        "lakota": "Tȟuŋkášila nawíčhaȟ'uŋ ló."
+      },
+      {
+        "speaker": "B",
+        "lakota": "Héčhetu. Thiwáhe kiŋ iyúha él uŋpípi na wašté."
+      },
+      {
+        "speaker": "A",
+        "lakota": "Wóyute waŋná wíyeya he?"
+      },
+      {
+        "speaker": "B",
+        "lakota": "Háŋ, wiŋyáŋ kiŋ waháŋpi na tȟaló na aǧúyapi kȟaȟéyapi."
+      },
+      {
+        "speaker": "A",
+        "lakota": "Hókahé! Uŋyútapi kte ló."
+      },
+      {
+        "speaker": "B",
+        "lakota": "Mitákuye Oyás'iŋ."
+      }
+    ],
+    "english_translation": "Big thanks. It was really good. — Yes. The prayer was very strong. — Grandfather heard them. — That's right. All the families were there together and it was good. — Is the food ready now? — Yes, the women prepared soup and meat and bread. — Let's go! Let's eat. — All My Relations.",
+    "participants": [
+      "A",
+      "B"
+    ],
+    "speaker_genders": [
+      "male"
+    ],
+    "review_status": "approved"
+  },
+  {
+    "type": "extended",
+    "title": "16.7 Extended Dialogue: Storytelling Night",
+    "context": "",
+    "section_ref": "16-7-extended-dialogue-storytelling-night",
+    "exchanges": [
+      {
+        "speaker": "Tȟuŋkášila",
+        "lakota": "Ú po, ú po. Aŋpétu kiŋ lé ohúŋkakaŋ waŋ oníčiyakapi kte ló."
+      },
+      {
+        "speaker": "Thakóža 1",
+        "lakota": "Háŋ, Tȟuŋkášila! Táku oyáke kte he?"
+      },
+      {
+        "speaker": "Tȟuŋkášila",
+        "lakota": "Iktómi otȟúŋkakaŋ waŋ oyáke kte."
+      },
+      {
+        "speaker": "Thakóža 2",
+        "lakota": "Iktómi! Hé líla wamáyaŋk waŋ hokšíla šíča yélo!"
+      },
+      {
+        "speaker": "Tȟuŋkášila",
+        "lakota": "Háŋ, Iktómi líla ksápa éyaš líla witȟkó nakúŋ. Hé kiŋ wauŋspéuŋkȟiyapi s'a. Naȟóŋ po..."
+      },
+      {
+        "speaker": "Thakóža 1",
+        "lakota": "Naúŋȟ'uŋpi ló!"
+      },
+      {
+        "speaker": "Tȟuŋkášila",
+        "lakota": "Wašté. Ehánni, ehánni, líla ehánni — Iktómi čhaŋkú waŋ él ománi. Líla okhíŋni na líla lokhíŋ. Uŋkáŋ..."
+      },
+      {
+        "speaker": "Thakóža 2",
+        "lakota": "Uŋkáŋ?"
+      },
+      {
+        "speaker": "Tȟuŋkášila",
+        "lakota": "Uŋkáŋ kȟaŋǧí waŋ čhaŋ akáŋl yaŋké. Iktómi wablák na ȟeyá: \"Kȟolá! Wóyute duhá he?\""
+      },
+      {
+        "speaker": "Thakóža 1",
+        "lakota": "Kȟaŋǧí kiŋ iyáyupte he?"
+      },
+      {
+        "speaker": "Tȟuŋkášila",
+        "lakota": "Háŋ. Kȟaŋǧí kiŋ ȟeyá: \"Wóyute wahá éyaš niyé čha ničúŋ kte šni.\" Na kiŋyáŋ iyáya!"
+      },
+      {
+        "speaker": "Thakóža 2",
+        "lakota": "Iktómi héčhel ečhúŋpi s'a ló!"
+      },
+      {
+        "speaker": "Tȟuŋkášila",
+        "lakota": "Héčhetu ló. Iktómi héčhel ečhúŋpi s'a — éyaš uŋspéuŋkȟiyapi. Wičháša waŋ wamánuŋ čhíŋ kiŋhán tȟáŋiŋ kte s'a. Héčhel ohúŋkakaŋ kiŋ uŋspéuŋkȟiyapi ló."
+      }
+    ],
+    "english_translation": "Come, come. Today I'll tell you a story. — Yes, Grandfather! What will you tell? — I'll tell an Iktómi story. — Iktómi! He's a really tricky bad boy! — Yes, Iktómi is very clever but also very foolish. He teaches us. Listen... — We're listening! — Good. Long ago, very long ago — Iktómi was walking on a road. He was very tired and very hungry. And then... — And then? — And then a crow was sitting in a tree. Iktómi saw him and said: \"Friend! Do you have food?\" — Did the crow answer? — Yes. The crow said: \"I have food but I won't give it to you.\" And he flew away! — Iktómi always does that! — That's right. Iktómi always does that — but he teaches us. When a man wants to steal, it will become obvious. That's how the stories teach us.",
+    "participants": [
+      "Tȟuŋkášila",
+      "Thakóža 1",
+      "Thakóža 2"
+    ],
+    "speaker_genders": [
+      "male"
+    ],
+    "review_status": "approved"
+  },
+  {
+    "type": "extended",
+    "title": "16.8 Extended Dialogue: At a Powwow",
+    "context": "",
+    "section_ref": "16-8-extended-dialogue-at-a-powwow",
+    "exchanges": [
+      {
+        "speaker": "A",
+        "lakota": "Háu! Líla wówačhi tȟáŋka ló aŋpétu kiŋ lé."
+      },
+      {
+        "speaker": "B",
+        "lakota": "Háŋ! Wačhípi kiŋ líla wašté kštó."
+      },
+      {
+        "speaker": "A",
+        "lakota": "Čhiŋkší wačhí he?"
+      },
+      {
+        "speaker": "B",
+        "lakota": "Háŋ, wačhí čhíŋ! Šiná lúta kiŋ kíč'uŋ na wanáȟčiŋ oíyokiphi."
+      },
+      {
+        "speaker": "A",
+        "lakota": "Wašté ló. Líla walówaŋpi wašté škhé."
+      },
+      {
+        "speaker": "B",
+        "lakota": "Háŋ, walówaŋpi kiŋ tokíyataŋhaŋ hípi he?"
+      },
+      {
+        "speaker": "A",
+        "lakota": "Pȟahá Sápa etáŋhaŋ hípi načhéče."
+      },
+      {
+        "speaker": "B",
+        "lakota": "Á, héčhetu. Na hokšíla kiŋ škaŋ wačhíŋpi."
+      },
+      {
+        "speaker": "A",
+        "lakota": "Oháŋ. Tókša wóyute kiŋ wíyeya kiŋháŋ uŋyútapi kte ló."
+      },
+      {
+        "speaker": "B",
+        "lakota": "Aǧúyapi skúyela na wahánpi wačhíŋ kštó!"
+      }
+    ],
+    "english_translation": "Hello! There's a really big dance today. — Yes! The dancing is very good. — Is your child dancing? — Yes, she wants to dance! She's wearing her red shawl and she's happy. — Good. I hear the singers are really good. — Yes, where did the singers come from? — They probably came from the Black Hills. — Ah, that's right. And the boys want to play. — Okay. Later when the food is ready we'll eat. — I want fry bread and soup!",
+    "participants": [
+      "A",
+      "B"
+    ],
+    "speaker_genders": [
+      "male",
+      "female"
+    ],
+    "review_status": "approved"
+  }
+]

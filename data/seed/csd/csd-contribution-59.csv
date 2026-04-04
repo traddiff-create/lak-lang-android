@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-59-1-1,psi,Proto-Siouan,,sio,59,warm (1),*štákE,,
+pmv-59-1-1,pmv,Proto-Mississipi-Valley,,,59,warm (1),*štá•kE,,
+cr-59-1-1,cr,Crow,crow1244,cro,59,warm (1),óoštači,gg[52],
+pdh-59-1-1,pdh,Proto-Dhegiha,,,59,warm (1),*štáke,,
+la-59-1-1,la,Lakota,lako1247,lkt,59,warm (1),štáka,b[467b],
+la-59-1-2,la,Lakota,lako1247,lkt,59,warm (1),štagyá,b[467b],
+wi-59-1-1,wi,Hoocąk,hoch1243,win,59,warm (1),šǰáak,km[2968],
+wi-59-1-2,wi,Hoocąk,hoch1243,win,59,warm (1),šjaak,,
+os-59-1-1,os,Osage,osag1243,osa,59,warm (1),shtáge,lf[134b],
+qu-59-1-1,qu,Quapaw,quap1242,qua,59,warm (1),štáke,,
+of-59-1-1,of,Ofo,ofoo1242,ofo,59,warm (1),"ā´tạtcha, atạtchá",ds[322a],

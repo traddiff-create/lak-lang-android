@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-427-1-1,psi,Proto-Siouan,,sio,427,river,*awá•tahi (?),,
+pch-427-1-1,pch,Proto-Crow-Hidatsa,,,427,river,*awá•tVhi,,
+cr-427-1-1,cr,Crow,crow1244,cro,427,river,áaši,gg[3];dec[65],
+hi-427-1-1,hi,Hidatsa,hida1246,hid,427,river,awá•thi,j,
+ma-427-1-1,ma,Mandan,mand1446,mhq,427,river,"wą́•ta, wą́•tahe",c,
+pdh-427-1-1,pdh,Proto-Dhegiha,,,427,river,*wathíška,,
+op-427-1-1,op,Omaha-Ponca,omah1247,oma,427,river,wačhíška,rr,
+op-427-2-1,op,Omaha-Ponca,omah1247,oma,427,river,watícka,,
+ks-427-1-1,ks,Kanza/Kaw,kans1243,ksk,427,river,wačhį́ška,jod,
+os-427-1-1,os,Osage,osag1243,osa,427,river,waṭsíshka,lf[206b],
+qu-427-1-1,qu,Quapaw,quap1242,qua,427,river,wathíška,rr,

@@ -1,0 +1,7 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-11-1-1,psi,Proto-Siouan,,sio,11,wrinkle (3),*xí•pE,,
+pch-11-1-1,pch,Proto-Crow-Hidatsa,,,11,wrinkle (3),*xí•pE,,
+cr-11-1-1,cr,Crow,crow1244,cro,11,wrinkle (3),xíipi,gg[62],
+hi-11-1-1,hi,Hidatsa,hida1246,hid,11,wrinkle (3),xí•pE,j,
+hi-11-1-2,hi,Hidatsa,hida1246,hid,11,wrinkle (3),xí•pi,,
+ma-11-1-1,ma,Mandan,mand1446,mhq,11,wrinkle (3),xí•poʔš,c,

@@ -1,0 +1,11 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-438-1-1,pmv,Proto-Mississipi-Valley,,,438,remember,*ki-ksú(-re),,
+pda-438-1-1,pda,Proto-Dakota,,,438,remember,*kiksúyA,,
+pdh-438-1-1,pdh,Proto-Dhegiha,,,438,remember,*kisíre,,
+la-438-1-1,la,Lakota,lako1247,lkt,438,remember,kiksúyA,c,
+da-438-1-1,da,Dakota,dako1258,dak,438,remember,kiksúya,r[287b],
+sv-438-1-1,sv,Sioux Valley,,,438,remember,kiksúyA,pas,
+ch-438-1-1,ch,Chiwere,iowa1245,iow,438,remember,"giʔθú, gláʔθu",marsh,
+op-438-1-1,op,Omaha-Ponca,omah1247,oma,438,remember,kiçithe,sw[146],
+os-438-1-1,os,Osage,osag1243,osa,438,remember,giçíthe,lf[50a],
+qu-438-1-1,qu,Quapaw,quap1242,qua,438,remember,kíside,jod,

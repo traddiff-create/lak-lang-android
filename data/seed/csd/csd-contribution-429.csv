@@ -1,0 +1,11 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-429-1-1,psi,Proto-Siouan,,sio,429,rip (3),*-paráxE,,
+pma-429-1-1,pma,Pre-Mandan,,,429,rip (3),*:prax (?),,
+pmv-429-1-1,pmv,Proto-Mississipi-Valley,,,429,rip (3),*bráɣe,,
+ma-429-1-1,ma,Mandan,mand1446,mhq,429,rip (3),páraxoʔš,h[149],
+pdh-429-1-1,pdh,Proto-Dhegiha,,,429,rip (3),*bráxe,,
+la-429-1-1,la,Lakota,lako1247,lkt,429,rip (3),"blaga, okhína-",b[389],
+ks-429-1-1,ks,Kanza/Kaw,kans1243,ksk,429,rip (3),bláxe,rr,
+os-429-1-1,os,Osage,osag1243,osa,429,rip (3),bthaxe,lf[28a],
+qu-429-1-1,qu,Quapaw,quap1242,qua,429,rip (3),bdáxa,rr,
+tu-429-1-1,tu,Tutelo,tute1247,tta,429,rip (3),lubl’q´,hw,

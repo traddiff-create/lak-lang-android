@@ -1,0 +1,6 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-102-1-1,psi,Proto-Siouan,,sio,102,"turnip, Psoralea (1)",*wa-ąhe,,
+pch-102-1-1,pch,Proto-Crow-Hidatsa,,,102,"turnip, Psoralea (1)",*ahí,,
+cr-102-1-1,cr,Crow,crow1244,cro,102,"turnip, Psoralea (1)",ihí,gg[74];dec[12],
+hi-102-1-1,hi,Hidatsa,hida1246,hid,102,"turnip, Psoralea (1)",ahí,j,
+ma-102-1-1,ma,Mandan,mand1446,mhq,102,"turnip, Psoralea (1)",wą́he,c,

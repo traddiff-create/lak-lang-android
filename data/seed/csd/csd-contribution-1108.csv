@@ -1,0 +1,6 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-1108-1-1,psi,Proto-Siouan,,sio,1108,bend (6),*kšé•kE,,
+pmv-1108-1-1,pmv,Proto-Mississipi-Valley,,,1108,bend (6),*kšé•kE,,
+ma-1108-1-1,ma,Mandan,mand1446,mhq,1108,bend (6),ksékoʔš,c,
+wi-1108-1-1,wi,Hoocąk,hoch1243,win,1108,bend (6),kšeekšék,km[1907],
+wi-1108-1-2,wi,Hoocąk,hoch1243,win,1108,bend (6),kšeekšek,,

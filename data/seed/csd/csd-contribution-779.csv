@@ -1,0 +1,9 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-779-1-1,pmv,Proto-Mississipi-Valley,,,779,"gills, palate",*i-ráke,,
+pda-779-1-1,pda,Proto-Dakota,,,779,"gills, palate",*čhaká,,
+pdh-779-1-1,pdh,Proto-Dhegiha,,,779,"gills, palate",*i-ráke,,
+la-779-1-1,la,Lakota,lako1247,lkt,779,"gills, palate",čhaká,c,
+da-779-1-1,da,Dakota,dako1258,dak,779,"gills, palate",ćaká,r[84b],
+ks-779-1-1,ks,Kanza/Kaw,kans1243,ksk,779,"gills, palate",ho yáge,rr,
+os-779-1-1,os,Osage,osag1243,osa,779,"gills, palate",ho íthage,lf[63b],
+qu-779-1-1,qu,Quapaw,quap1242,qua,779,"gills, palate",táka,jod,

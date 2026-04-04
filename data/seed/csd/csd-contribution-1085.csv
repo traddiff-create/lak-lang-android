@@ -1,0 +1,8 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pdh-1085-1-1,pdh,Proto-Dhegiha,,,1085,"bison, reddish yellow buffalo",*Róxe ~ *róxe,,
+pn-1085-1-1,pn,Ponca,omah1247,oma,1085,"bison, reddish yellow buffalo",nóxe,,
+pn-1085-1-2,pn,Ponca,omah1247,oma,1085,"bison, reddish yellow buffalo",nuxe,,
+ks-1085-1-1,ks,Kanza/Kaw,kans1243,ksk,1085,"bison, reddish yellow buffalo",yóxe,jod,
+os-1085-1-1,os,Osage,osag1243,osa,1085,"bison, reddish yellow buffalo",ðóxe,lf[154a],
+os-1085-1-2,os,Osage,osag1243,osa,1085,"bison, reddish yellow buffalo",thóxe,,
+qu-1085-1-1,qu,Quapaw,quap1242,qua,1085,"bison, reddish yellow buffalo",toxe,jod,

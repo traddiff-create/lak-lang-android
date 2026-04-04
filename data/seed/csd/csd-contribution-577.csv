@@ -1,0 +1,8 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-577-1-1,psi,Proto-Siouan,,sio,577,middle,*rą́ta,,
+pma-577-1-1,pma,Pre-Mandan,,,577,middle,*rą́t-,,
+ma-577-1-1,ma,Mandan,mand1446,mhq,577,middle,rą́t-ha,h[170],
+ma-577-1-2,ma,Mandan,mand1446,mhq,577,middle,rą́sta,h[171],
+pbo-577-1-1,pbo,Proto-Biloxi-Ofo,,,577,middle,*rąta,,
+bi-577-1-1,bi,Biloxi,bilo1248,bll,577,middle,"nata, nátaxti",ds[233a],
+of-577-1-1,of,Ofo,ofoo1242,ofo,577,middle,"tạtá, tạtạ",ds[330a],

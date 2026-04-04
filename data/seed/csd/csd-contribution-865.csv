@@ -1,0 +1,13 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-865-1-1,psi,Proto-Siouan,,sio,865,enter (3),*o-phÉ,,
+pmv-865-1-1,pmv,Proto-Mississipi-Valley,,,865,enter (3),*o-phÉ,,
+pse-865-1-1,pse,Proto-Southeastern,,,865,enter (3),*o-phé,,
+ca-865-1-1,ca,Catawba,cata1286,chc,865,enter (3),pe•ʔ,rudes,
+ma-865-1-1,ma,Mandan,mand1446,mhq,865,enter (3),ró•pxekereʔš,c,
+la-865-1-1,la,Lakota,lako1247,lkt,865,enter (3),óphA,b[400b],
+da-865-1-1,da,Dakota,dako1258,dak,865,enter (3),ópa,r[380b],
+ch-865-1-1,ch,Chiwere,iowa1245,iow,865,enter (3),-owe,marsh,
+ch-865-1-2,ch,Chiwere,iowa1245,iow,865,enter (3),uwá,marsh,
+ks-865-1-1,ks,Kanza/Kaw,kans1243,ksk,865,enter (3),ophé,rr,
+of-865-1-1,of,Ofo,ofoo1242,ofo,865,enter (3),ophĕ,ds[327b],
+tu-865-1-1,tu,Tutelo,tute1247,tta,865,enter (3),opé,jod,

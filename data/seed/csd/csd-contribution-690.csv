@@ -1,0 +1,13 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-690-1-1,psi,Proto-Siouan,,sio,690,"hole, dig",*ho•pi,,
+pch-690-1-1,pch,Proto-Crow-Hidatsa,,,690,"hole, dig",*hopí,,
+pma-690-1-1,pma,Pre-Mandan,,,690,"hole, dig",*ho•p-,,
+cr-690-1-1,cr,Crow,crow1244,cro,690,"hole, dig",hupí,rg;gg[49],
+hi-690-1-1,hi,Hidatsa,hida1246,hid,690,"hole, dig",hopí,j,
+hi-690-1-2,hi,Hidatsa,hida1246,hid,690,"hole, dig",hóhpi,j,
+hi-690-1-3,hi,Hidatsa,hida1246,hid,690,"hole, dig",wa•hóhpi,j,
+hi-690-1-4,hi,Hidatsa,hida1246,hid,690,"hole, dig",ma•hóhpi,,
+ma-690-1-1,ma,Mandan,mand1446,mhq,690,"hole, dig",hó•pak,c,
+ma-690-1-2,ma,Mandan,mand1446,mhq,690,"hole, dig",hó•poʔš,c,
+ma-690-1-3,ma,Mandan,mand1446,mhq,690,"hole, dig",wó•ho•p,c,
+of-690-1-1,of,Ofo,ofoo1242,ofo,690,"hole, dig",hûpi,ds[323b],

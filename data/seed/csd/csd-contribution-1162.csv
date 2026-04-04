@@ -1,0 +1,8 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-1162-1-1,psi,Proto-Siouan,,sio,1162,arise (3),*kitá(-re) {or} *kiktá(-re),,
+pma-1162-1-1,pma,Pre-Mandan,,,1162,arise (3),*kita•-,,
+pmv-1162-1-1,pmv,Proto-Mississipi-Valley,,,1162,arise (3),*kikta,,
+ma-1162-1-1,ma,Mandan,mand1446,mhq,1162,arise (3),kitą́r,h[338],
+ma-1162-2-1,ma,Mandan,mand1446,mhq,1162,arise (3),kitá•roʔš,h[112],
+la-1162-1-1,la,Lakota,lako1247,lkt,1162,arise (3),kiktá,c,
+qu-1162-1-1,qu,Quapaw,quap1242,qua,1162,arise (3),kítta,asg,

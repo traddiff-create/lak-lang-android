@@ -1,0 +1,6 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-248-1-1,psi,Proto-Siouan,,sio,248,spotted > striped,*pų́•šE,,
+pch-248-1-1,pch,Proto-Crow-Hidatsa,,,248,spotted > striped,*pu•šE,,
+cr-248-1-1,cr,Crow,crow1244,cro,248,spotted > striped,puuší,gg[54];dec[97],
+hi-248-1-1,hi,Hidatsa,hida1246,hid,248,spotted > striped,pú•šE ~ puʔšE,j,
+ma-248-1-1,ma,Mandan,mand1446,mhq,248,spotted > striped,pų́soʔš,h[159],

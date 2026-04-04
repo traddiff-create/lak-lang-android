@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-574-1-1,psi,Proto-Siouan,,sio,574,mire (2),*satá•,,
+hi-574-1-1,hi,Hidatsa,hida1246,hid,574,mire (2),núcata•,awj,
+hi-574-1-2,hi,Hidatsa,hida1246,hid,574,mire (2),pácata•,awj,
+hi-574-1-3,hi,Hidatsa,hida1246,hid,574,mire (2),aracáta•,awj,
+hi-574-1-4,hi,Hidatsa,hida1246,hid,574,mire (2),nacáta•,awj,
+ks-574-1-1,ks,Kanza/Kaw,kans1243,ksk,574,mire (2),dásta,mr;rr,
+ks-574-1-2,ks,Kanza/Kaw,kans1243,ksk,574,mire (2),dá•sta,mr;rr,
+ks-574-1-3,ks,Kanza/Kaw,kans1243,ksk,574,mire (2),ánąstásta,jod;rr,
+ks-574-1-4,ks,Kanza/Kaw,kans1243,ksk,574,mire (2),yastásta,jod;rr,

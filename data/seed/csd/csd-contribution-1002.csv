@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-1002-1-1,pmv,Proto-Mississipi-Valley,,,1002,"catfish, bullhead",*htó•zi,,
+pwc-1002-1-1,pwc,Proto-Hoocąk-Chiwere,,,1002,"catfish, bullhead",*thó•zike,,
+pdh-1002-1-1,pdh,Proto-Dhegiha,,,1002,"catfish, bullhead",*htóze,,
+ch-1002-1-1,ch,Chiwere,iowa1245,iow,1002,"catfish, bullhead",thóðíge,marsh,
+wi-1002-1-1,wi,Hoocąk,hoch1243,win,1002,"catfish, bullhead",coozík,km[276],
+wi-1002-1-2,wi,Hoocąk,hoch1243,win,1002,"catfish, bullhead",coozik,,
+op-1002-1-1,op,Omaha-Ponca,omah1247,oma,1002,"catfish, bullhead",ttóze,sw[35],
+op-1002-1-2,op,Omaha-Ponca,omah1247,oma,1002,"catfish, bullhead",túçe,,
+qu-1002-1-1,qu,Quapaw,quap1242,qua,1002,"catfish, bullhead",ttóze,rr;jod,

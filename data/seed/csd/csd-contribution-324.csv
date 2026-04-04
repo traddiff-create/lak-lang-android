@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-324-1-1,psi,Proto-Siouan,,sio,324,sister (6),*(i-)rų́(-rį),,
+pma-324-1-1,pma,Pre-Mandan,,,324,sister (6),*-rųk,,
+pse-324-1-1,pse,Proto-Southeastern,,,324,sister (6),*inų́•-(ni),,
+hi-324-1-1,hi,Hidatsa,hida1246,hid,324,sister (6),irú•,j,
+ma-324-1-1,ma,Mandan,mand1446,mhq,324,sister (6),wįrų́k,c,
+pwc-324-1-1,pwc,Proto-Hoocąk-Chiwere,,,324,sister (6),*inų́(-nį),,
+ch-324-1-1,ch,Chiwere,iowa1245,iow,324,sister (6),i•nų́ñį,rr,
+wi-324-1-1,wi,Hoocąk,hoch1243,win,324,sister (6),hinų́,km[966],
+wi-324-1-2,wi,Hoocąk,hoch1243,win,324,sister (6),hinų,,
+bi-324-1-1,bi,Biloxi,bilo1248,bll,324,sister (6),inóⁿni,ds[200a],
+tu-324-1-1,tu,Tutelo,tute1247,tta,324,sister (6),minōn,h,

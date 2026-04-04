@@ -1,0 +1,13 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-25-1-1,psi,Proto-Siouan,,sio,25,wing (1),*xupa ~ *xųpa,,
+pch-25-1-1,pch,Proto-Crow-Hidatsa,,,25,wing (1),*ixpá,,
+pma-25-1-1,pma,Pre-Mandan,,,25,wing (1),*ą•xpa,,
+cr-25-1-1,cr,Crow,crow1244,cro,25,wing (1),iaxpá,gg[71];dec[3],
+hi-25-1-1,hi,Hidatsa,hida1246,hid,25,wing (1),ixpá,j,
+ma-25-1-1,ma,Mandan,mand1446,mhq,25,wing (1),ą́•pxa,c,
+pda-25-1-1,pda,Proto-Dakota,,,25,wing (1),*xupá-,,
+la-25-1-1,la,Lakota,lako1247,lkt,25,wing (1),xupáhu,c,
+da-25-1-1,da,Dakota,dako1258,dak,25,wing (1),ḣupáhu,r[168b],
+of-25-1-1,of,Ofo,ofoo1242,ofo,25,wing (1),tcĭshóᵐpka,ds[329a],
+of-25-2-1,of,Ofo,ofoo1242,ofo,25,wing (1),sóᵐpka,ds[329a],
+of-25-3-1,of,Ofo,ofoo1242,ofo,25,wing (1),nạsóᵐpka,ssf,

@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-341-1-1,psi,Proto-Siouan,,sio,341,shoulder,*(a)-į-xkéte,,
+ma-341-1-1,ma,Mandan,mand1446,mhq,341,shoulder,ąxkít,c,
+pdh-341-1-1,pdh,Proto-Dhegiha,,,341,shoulder,*įkhéte,,
+op-341-1-1,op,Omaha-Ponca,omah1247,oma,341,shoulder,įkhéde,jod,
+ks-341-1-1,ks,Kanza/Kaw,kans1243,ksk,341,shoulder,ikhéǰe,jod;rr,
+os-341-1-1,os,Osage,osag1243,osa,341,shoulder,įkšéce,jod;rr,
+qu-341-1-1,qu,Quapaw,quap1242,qua,341,shoulder,įkhétte,rr,
+bi-341-1-1,bi,Biloxi,bilo1248,bll,341,shoulder,axĕ´,ds[172b],
+bi-341-2-1,bi,Biloxi,bilo1248,bll,341,shoulder,"axe´ya, kŭdĕsk axe",ds[172b],

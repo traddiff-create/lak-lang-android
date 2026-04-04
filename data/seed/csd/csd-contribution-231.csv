@@ -1,0 +1,9 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-231-1-1,psi,Proto-Siouan,,sio,231,squeeze (3),*-šképE,,
+pda-231-1-1,pda,Proto-Dakota,,,231,squeeze (3),*-šképA,,
+la-231-1-1,la,Lakota,lako1247,lkt,231,squeeze (3),"šképa, ka-",b[291],
+la-231-1-2,la,Lakota,lako1247,lkt,231,squeeze (3),"šképa, ya-",b[832],
+la-231-1-3,la,Lakota,lako1247,lkt,231,squeeze (3),"škéškepa, ya-",b[832],
+la-231-1-4,la,Lakota,lako1247,lkt,231,squeeze (3),"šképa, yu-",b[651],
+da-231-1-1,da,Dakota,dako1258,dak,231,squeeze (3),kaśképa,r[268b],
+tu-231-1-1,tu,Tutelo,tute1247,tta,231,squeeze (3),[†lučkep],d,

@@ -1,0 +1,6 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-265-1-1,psi,Proto-Siouan,,sio,265,spider,*-kox-,,
+pch-265-1-1,pch,Proto-Crow-Hidatsa,,,265,spider,*awáko•xV,,
+cr-265-1-1,cr,Crow,crow1244,cro,265,spider,awáko•xa,gg[14];dec[1],
+hi-265-1-1,hi,Hidatsa,hida1246,hid,265,spider,awako•xi,j,
+bi-265-1-1,bi,Biloxi,bilo1248,bll,265,spider,koxodé niká,ds[212a],

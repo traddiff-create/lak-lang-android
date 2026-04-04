@@ -1,0 +1,12 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-77-1-1,psi,Proto-Siouan,,sio,77,vermin (2),*wa-krúS-ka,,
+pma-77-1-1,pma,Pre-Mandan,,,77,vermin (2),wá•kruxka,,
+ma-77-1-1,ma,Mandan,mand1446,mhq,77,vermin (2),wá•kiruxkaʔ,c,
+ma-77-1-2,ma,Mandan,mand1446,mhq,77,vermin (2),"snake, worm, snail",,
+pdh-77-1-1,pdh,Proto-Dhegiha,,,77,vermin (2),*(wa)krǘška,rr,
+op-77-1-1,op,Omaha-Ponca,omah1247,oma,77,vermin (2),žągðiška,flf[106],
+op-77-1-2,op,Omaha-Ponca,omah1247,oma,77,vermin (2),wagðíška,flf[106],
+op-77-1-3,op,Omaha-Ponca,omah1247,oma,77,vermin (2),wagríška,rr,
+ks-77-1-1,ks,Kanza/Kaw,kans1243,ksk,77,vermin (2),walǘška,,
+os-77-1-1,os,Osage,osag1243,osa,77,vermin (2),wagthúshka,lf[190b],
+qu-77-1-1,qu,Quapaw,quap1242,qua,77,vermin (2),wakdíška,rr,

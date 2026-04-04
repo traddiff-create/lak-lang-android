@@ -1,0 +1,10 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-166-1-1,psi,Proto-Siouan,,sio,166,swell (1),-pá•he,,
+pmv-166-1-1,pmv,Proto-Mississipi-Valley,,,166,swell (1),*-pá,,
+ma-166-1-1,ma,Mandan,mand1446,mhq,166,swell (1),pá•hoʔš,c,
+pdh-166-1-1,pdh,Proto-Dhegiha,,,166,swell (1),*ípa,,
+ch-166-1-1,ch,Chiwere,iowa1245,iow,166,swell (1),u•wá,rr,
+op-166-1-1,op,Omaha-Ponca,omah1247,oma,166,swell (1),íba,sw[167],
+ks-166-1-1,ks,Kanza/Kaw,kans1243,ksk,166,swell (1),íba,rr,
+os-166-1-1,os,Osage,osag1243,osa,166,swell (1),íba,lf[68a],
+qu-166-1-1,qu,Quapaw,quap1242,qua,166,swell (1),ípa,jod,

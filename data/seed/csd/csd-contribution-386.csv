@@ -1,0 +1,11 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+psi-386-1-1,psi,Proto-Siouan,,sio,386,scrape > peel,*-xikE (?),,
+cr-386-1-1,cr,Crow,crow1244,cro,386,scrape > peel,"-xči, pá-",dec[29],
+cr-386-1-2,cr,Crow,crow1244,cro,386,scrape > peel,páxchi,dec[27],
+cr-386-1-3,cr,Crow,crow1244,cro,386,scrape > peel,"-xči, dú-",gg[8],
+cr-386-1-4,cr,Crow,crow1244,cro,386,scrape > peel,dúxchi,,
+cr-386-1-5,cr,Crow,crow1244,cro,386,scrape > peel,"-xičí, ala-",,
+cr-386-1-6,cr,Crow,crow1244,cro,386,scrape > peel,alaxichí,,
+bi-386-1-1,bi,Biloxi,bilo1248,bll,386,scrape > peel,ádŭkŭxkĕ´,ds[221b],
+bi-386-2-1,bi,Biloxi,bilo1248,bll,386,scrape > peel,duxkĕ´,ds[221b],
+bi-386-3-1,bi,Biloxi,bilo1248,bll,386,scrape > peel,tcĕmúk adaxkĕ´,ds[221b],

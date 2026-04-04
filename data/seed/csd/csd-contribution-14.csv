@@ -1,0 +1,11 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pmv-14-1-1,pmv,Proto-Mississipi-Valley,,,14,wrap,*-šį,,
+pdh-14-1-1,pdh,Proto-Dhegiha,,,14,wrap,*-šį,,
+wi-14-1-1,wi,Hoocąk,hoch1243,win,14,wrap,"šį́, haru-",km[684],
+wi-14-1-2,wi,Hoocąk,hoch1243,win,14,wrap,harušį,km[850],
+wi-14-1-3,wi,Hoocąk,hoch1243,win,14,wrap,"šį́, higi-",,
+wi-14-1-4,wi,Hoocąk,hoch1243,win,14,wrap,higišį,,
+ks-14-1-1,ks,Kanza/Kaw,kans1243,ksk,14,wrap,"šį, oyǘ-",rr,
+os-14-1-1,os,Osage,osag1243,osa,14,wrap,béshiⁿ,lf[26b],
+os-14-2-1,os,Osage,osag1243,osa,14,wrap,beṭóⁿ,lf[26b],
+qu-14-1-1,qu,Quapaw,quap1242,qua,14,wrap,"šį, odí-",rr,

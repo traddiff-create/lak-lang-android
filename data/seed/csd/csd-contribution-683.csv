@@ -1,0 +1,6 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pwc-683-1-1,pwc,Proto-Hoocąk-Chiwere,,,683,hook,*hí,,
+ch-683-1-1,ch,Chiwere,iowa1245,iow,683,hook,wahíkho,,
+wi-683-1-1,wi,Hoocąk,hoch1243,win,683,hook,hiruhí,km[806],
+wi-683-1-2,wi,Hoocąk,hoch1243,win,683,hook,hiruhi,,
+bi-683-1-1,bi,Biloxi,bilo1248,bll,683,hook,hiñkáhi,ds[198a],

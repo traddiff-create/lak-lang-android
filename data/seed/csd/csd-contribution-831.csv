@@ -1,0 +1,5 @@
+ID,Language_ID,Language_name,Language_glottocode,Language_iso,Parameter_ID,Parameter_name,Value,Source,Comment
+pma-831-1-1,pma,Pre-Mandan,,,831,flat (1),*špi•-,,
+ma-831-1-1,ma,Mandan,mand1446,mhq,831,flat (1),pší•roʔš,c,
+ma-831-1-2,ma,Mandan,mand1446,mhq,831,flat (1),it’s flat,,
+tu-831-1-1,tu,Tutelo,tute1247,tta,831,flat (1),sā´p’,hw,
