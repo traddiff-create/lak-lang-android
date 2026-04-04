@@ -28,6 +28,7 @@ import com.traddiff.laklang.ui.search.SpotlightOverlay
 import com.traddiff.laklang.ui.stories.StoryDetailScreen
 import com.traddiff.laklang.ui.stories.StoriesScreen
 import com.traddiff.laklang.ui.cosmos.CosmosScreen
+import com.traddiff.laklang.ui.cosmos.DirectionScreen
 
 sealed class Screen(val route: String, val label: String, val icon: ImageVector) {
     data object Explore : Screen("explore", "Explore", Icons.Filled.Home)
@@ -139,6 +140,20 @@ fun LakLangNavigation() {
                     CosmosScreen(
                         onWordClick = { wordId -> navController.navigate("word/$wordId") },
                         onStoryClick = { storyId -> navController.navigate("story/$storyId") },
+                        onDirectionClick = { key -> navController.navigate("cosmos/$key") },
+                    )
+                }
+                composable(
+                    route = "cosmos/{directionKey}",
+                    arguments = listOf(navArgument("directionKey") { type = NavType.StringType }),
+                ) { backStackEntry ->
+                    val dirKey = backStackEntry.arguments?.getString("directionKey") ?: return@composable
+                    DirectionScreen(
+                        directionKey = dirKey,
+                        onBack = { navController.popBackStack() },
+                        onWordClick = { id -> navController.navigate("word/$id") },
+                        onStoryClick = { id -> navController.navigate("story/$id") },
+                        onModuleClick = { id -> navController.navigate("module/$id") },
                     )
                 }
 

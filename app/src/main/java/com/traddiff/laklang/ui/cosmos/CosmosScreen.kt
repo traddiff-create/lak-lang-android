@@ -24,6 +24,7 @@ import com.traddiff.laklang.viewmodel.CosmosViewModel
 fun CosmosScreen(
     onWordClick: (String) -> Unit = {},
     onStoryClick: (String) -> Unit = {},
+    onDirectionClick: (String) -> Unit = {},
     viewModel: CosmosViewModel = viewModel(),
 ) {
     val state by viewModel.state.collectAsStateWithLifecycle()
@@ -45,7 +46,7 @@ fun CosmosScreen(
             CosmosCanvas(
                 nodes = state.nodes,
                 activeDirection = state.activeDirection,
-                onDirectionClick = { viewModel.selectDirection(it.key) },
+                onDirectionClick = { onDirectionClick(it.key) },
                 onNodeClick = { viewModel.selectNode(it) },
             )
         }
