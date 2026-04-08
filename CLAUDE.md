@@ -1,6 +1,7 @@
 # LakLang — Lakota Language & Cultural Preservation
 
 **Location:** `/Applications/Apps/LakLangAndroid/`
+**Repo:** `traddiff-create/lak-lang-android`
 **Type:** Monorepo (Android + Web + Server + Data) | **Status:** Active
 **Owner:** Rory Stone (Traditionally Different Technology)
 

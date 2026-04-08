@@ -42,17 +42,18 @@ cd /Applications/Apps/LakLangAndroid
 ```
 LakLangAndroid/
 ├── app/src/main/
-│   ├── assets/laklang.db          ← Pre-built 5.5MB SQLite
+│   ├── assets/laklang.db          ← Pre-built 5.6MB SQLite
 │   ├── java/com/traddiff/laklang/
 │   │   ├── LakLangApp.kt          ← Application + DI
 │   │   ├── MainActivity.kt
 │   │   ├── data/
 │   │   │   ├── LakLangDatabase.kt ← Room database
 │   │   │   ├── DatabaseHelper.kt   ← createFromAsset
-│   │   │   ├── entity/             ← 9 Room entities
-│   │   │   └── dao/                ← 6 Room DAOs
+│   │   │   ├── entity/             ← 10 Room entities
+│   │   │   └── dao/                ← 7 Room DAOs
 │   │   ├── ui/
-│   │   │   ├── navigation/         ← Nav graph + bottom tabs
+│   │   │   ├── navigation/         ← Nav graph + 5-tab bottom nav
+│   │   │   ├── cosmos/             ← Seven Directions museum
 │   │   │   ├── search/             ← Spotlight overlay
 │   │   │   ├── explore/            ← Category browse
 │   │   │   ├── detail/             ← Word detail
@@ -62,10 +63,11 @@ LakLangAndroid/
 │   │   │   └── theme/              ← Material 3 colors
 │   │   └── viewmodel/              ← ViewModels
 │   └── res/
-├── CLAUDE.md                        ← AI assistant context
-├── README.md
-├── CHANGELOG.md
-└── ARCHITECTURE.md
+├── web/                             ← React web client
+├── server/                          ← Express API server
+├── data/seed/                       ← Ingestion pipelines
+├── docs/                            ← Documentation
+└── CLAUDE.md
 ```
 
 ## Adding a New Screen

@@ -65,8 +65,30 @@ The LLC Standard Lakota Orthography — every vowel, consonant, and diacritic wi
 
 All your bookmarked words, stories, and articles in one place. Tap any saved item to return to its detail page.
 
+## Cosmos Tab — Seven Sacred Directions
+
+The Cosmos is a living museum of Lakota knowledge. A dark starfield shows 12,535+ items orbiting across seven sacred directions. Pinch to zoom, drag to pan.
+
+### The Seven Directions
+
+- **Wiyohpeyata (West)** — Stories. Place of the Thunder Beings and introspection.
+- **Waziyata (North)** — Wisdom. Place of the White Giant, where cold brings clarity.
+- **Wihinanpata (East)** — Knowledge. Place of the rising sun and new beginnings.
+- **Itokaga (South)** — Community. Place of warmth and growth.
+- **Wankantanhan (Sky)** — Sacred. The realm above, home of Wakȟáŋ Tȟáŋka.
+- **Maka (Earth)** — Land. Grandmother Earth and all living things below.
+- **Cante (Center)** — Heart. Where all directions meet — your personal learning center.
+
+**Tap a direction** to enter its immersive page with a cosmological description and all related content. Tap any item to see its full detail page.
+
+**Tap any orbiting node** to see its Lakota name, English meaning, and graph connections to other items.
+
+The current season's direction glows brighter — spring highlights East (vocabulary/knowledge).
+
 ## Tips
 
 - Search works in both Lakota and English
 - The pronunciation breakdown on word detail pages helps you sound out unfamiliar words
 - Connected Stories and Values show how words live in Lakota culture, not just what they translate to
+- The Cosmos tab shows how all knowledge is connected — zoom in to see individual word labels
+- Each direction has its own color — follow the colors to understand the thematic groupings

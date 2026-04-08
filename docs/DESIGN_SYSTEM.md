@@ -62,6 +62,30 @@ System default (Roboto on Android). Lakota special characters (ą, š, ž, č, �
 - Search field at top, auto-focused
 - Results grouped by type with section headers and type icons
 
+### Cosmos Palette
+
+The Cosmos tab uses a separate dark palette:
+
+| Token | Hex | Usage |
+|-------|-----|-------|
+| Background | `#0B1026` | Deep indigo starfield |
+| Ink | `#E8DCC8` | Primary text on dark |
+| InkDim | `#80E8DCC8` | Secondary text |
+| Ghost | `#1FE8DCC8` | Dividers, faint UI |
+| Ochre | `#C4883A` | West — stories |
+| Sage | `#7A8B6F` | North — wisdom |
+| Turquoise | `#4ABFBF` | East — knowledge |
+| Ember | `#D4553A` | South — community |
+| Star | `#F5E6C8` | Sky — sacred |
+| Earth | `#8B7355` | Earth — land |
+| Center | `#B8A9C9` | Center — heart |
+
+### Direction Immersive Pages
+- Dark cosmos background matching Cosmos tab
+- Direction's accent color for name, dividers, accent dots
+- Content cards: minimal, dark-themed list items
+- Back arrow returns to Cosmos canvas
+
 ### Detail Cards
 - Related Words: Secondary container, horizontal scroll
 - Connected Values: Tertiary container

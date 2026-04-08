@@ -1,0 +1,1 @@
+Read CLAUDE.md for full project context. Android app (Kotlin/Jetpack Compose) for Lakota language learning.

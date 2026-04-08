@@ -55,6 +55,13 @@ class VocabularyDaoTest {
 - [ ] Orthography renders: ą, š, ž, č, ȟ, ġ, ŋ, ʼ
 - [ ] Dark mode displays correctly
 - [ ] Back navigation works from all detail screens
+- [ ] Cosmos tab loads starfield with 7 direction labels
+- [ ] Cosmos: pinch-to-zoom and pan work
+- [ ] Cosmos: tap direction → immersive page with description + content
+- [ ] Cosmos: tap node → overlay with Lakota/English + connections
+- [ ] Cosmos: direction page → tap story → StoryDetailScreen
+- [ ] Cosmos: back from direction page → returns to canvas
+- [ ] Cosmos: seasonal direction glows brighter (spring = East)
 
 ## Running Tests
 

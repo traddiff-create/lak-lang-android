@@ -15,11 +15,14 @@
 
 ## Short Description (80 chars max)
 
-Learn Lakota through deep cultural connection. 12,535 words, stories & more.
+Lakota Living Museum. 12,535 words across Seven Sacred Directions.
 
 ## Full Description (4,000 chars max)
 
-LakLang is a Lakota language learning app built for people with real ties to the language and community. Every word is a doorway back into the worldview.
+LakLang is a Lakota language and cultural preservation app. Every word is a doorway back into the worldview.
+
+SEVEN SACRED DIRECTIONS
+Explore Lakota knowledge through a living cosmic museum. Seven directions — West (stories), North (wisdom), East (knowledge), South (community), Sky (sacred), Earth (land), Center (heart) — each with its own immersive experience rooted in Lakota cosmology.
 
 SEARCH EVERYTHING
 Type any word — in Lakota or English — and instantly find vocabulary, stories, cultural articles, values, historical figures, and dialogues. One search, all knowledge connected.
