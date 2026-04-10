@@ -413,3 +413,156 @@ A comprehensive inventory of every known digitized source for Lakota language, s
 - **Directors:** Jesse Short Bull, Laura Tomaselli | **Narrator:** Layli Long Soldier
 - **Content:** Land rights activism, NDN Collective, archival materials
 - **KG nodes:** Story, Person, Value, Place, Song
+
+---
+
+## Tier 7 — Verified New Sources (Researched 2026-04-10)
+
+### Free Downloadable Audio
+
+#### Way of Wakan — BHSC Lakota Language I & II Audio Tapes
+- **URL:** https://www.wayofwakan.com (links to audio + textbook downloads)
+- **Creator:** David Mathieu, with B. Chasing Hawk & E. Badwound (textbooks, 1978)
+- **Native speakers:** Mary Young (Sicangu Lakota), Billy Burnette (Oglala Lakota)
+- **Content:** Interactive audio tapes simulating classroom language lab exercises; Lakota I and II courses
+- **Orthography:** Custom classroom orthography (Cheyenne River reservation terminology)
+- **License:** Free to download and use (explicitly offered free via Lakota Times coverage)
+- **Contact:** david.mathieu902@gmail.com
+- **Status:** ✅ PRODUCTION-READY — download audio + parse for vocabulary/phrase alignment
+- **KG nodes:** Word (phrases, pronunciation), Dialogue (classroom exercises)
+
+#### Wóimaǧaǧa — The Office Seasons 1-3 (Lakota Language Learning Radio)
+- **URL:** https://archive.org/details/zvhkbpp7bh2puji5u1i2yugj3zxy3cjlz4c4rhgj
+- **Format:** 4 downloadable files (17.9MB total)
+- **Content:** Lakota language instruction using The Office TV scripts as teaching material
+- **Creator:** Lakota Language Learning Radio collective (uploaded 2023)
+- **License:** Free download via Internet Archive
+- **Status:** ✅ DOWNLOADABLE — conversational Lakota through popular culture context
+- **KG nodes:** Word, Dialogue
+
+#### Darla Shupik Lakota Storytelling (StoryCorps / Internet Archive)
+- **URL:** https://archive.org/details/73fmwfaethwakownqyphoru5hbpoogmp81xfigwe
+- **Content:** Lakota storytelling audio (Part 2)
+- **License:** Free via Internet Archive
+- **Status:** ✅ DOWNLOADABLE
+- **KG nodes:** Story, Person
+
+### Public Domain Image Collections (Verified Counts)
+
+#### LOC Public Domain Lakota Photos — 141 images
+- **URL:** https://loc.getarchive.net/topics/lakota
+- **Content:** Historical photographs (1870-1987) — portraits, community life, cultural figures
+- **License:** Public domain ✅
+- **Status:** ✅ PRODUCTION-READY — download via LOC Prints & Photographs catalog
+- **KG nodes:** Person, Place, Ceremony, Value (visual context)
+
+#### LOC Oglala Lakota Photos — 52 images
+- **URL:** https://loc.getarchive.net/topics/oglala+lakota
+- **Content:** Pine Ridge-specific historical photographs
+- **License:** Public domain ✅
+- **Status:** ✅ PRODUCTION-READY
+- **KG nodes:** Person, Place
+
+#### PICRYL Lakota Indians Collection — 36+ images
+- **URL:** https://picryl.com/topics/lakota+indians
+- **Content:** Public domain aggregator — historical photographs, portraits
+- **License:** Public domain ✅
+- **Additional:** 147 Oglala Lakota images at https://picryl.com/topics/oglala+lakota
+- **Status:** ✅ PRODUCTION-READY (aggregates LOC + other public domain sources)
+- **KG nodes:** Person, Place
+
+#### 7 Generation Games — Authentic Native American Photos
+- **URL:** https://www.7generationgames.com/resources/spirit-lake/photos/
+- **Content:** Curated public domain Native American photographs
+- **License:** Public domain ✅
+- **Status:** ✅ PRODUCTION-READY
+- **KG nodes:** Person, Place, Value
+
+#### Smithsonian Open Access — CC0 Lakota Content
+- **URL:** https://www.si.edu/openaccess (search "lakota")
+- **Content:** Part of 5.1M+ CC0 items — photographs, artworks, artifacts with Lakota provenance
+- **License:** Creative Commons Zero (CC0) — no restrictions ✅
+- **Notable items:** 1891 Buffalo Bill Wild West performers, 1905 inaugural parade chiefs
+- **API:** https://api.si.edu/openaccess/api/v1.0/search?q=lakota
+- **Status:** ✅ PRODUCTION-READY — use API or web search to download
+- **KG nodes:** Person, Place, Ceremony
+
+### Wikimedia Commons (Verified Inventory — 9 files)
+
+#### Kimberly Speaking Lakota (Video)
+- **URL:** https://commons.wikimedia.org/wiki/File:Kimberly_speaking_Lakota.webm
+- **Format:** WebM, 57 seconds, 1920x1080, 15.39MB
+- **License:** CC-BY 3.0+
+- **Status:** ✅ DOWNLOADABLE — native speaker pronunciation video
+- **KG nodes:** Word (pronunciation)
+
+#### Lakota Alphabet Charts (SVG)
+- **Files:** Lakota_alphabet.svg (512x352, 3KB), Lakota_alphabet_2.svg (512x540, 5KB)
+- **License:** CC-BY 3.0+
+- **Status:** ✅ DOWNLOADABLE — orthography reference visuals
+- **KG nodes:** Word (orthography)
+
+### New Institutional Projects (Partnership Opportunities)
+
+#### IU/Thunder Valley "Ways of Communicating" Project
+- **Funding:** $449,877 (NEH + NSF, 3-year initiative)
+- **Partners:** Indiana University Institute for Indigenous Knowledge + Thunder Valley CDC + Phoenix Indian Center
+- **Content:** Digital audiovisual recordings of naturally-occurring Lakota language use + community speaker interviews
+- **Status:** Active spring 2025, archiving in progress
+- **Value:** Authentic conversational Lakota (not textbook phrases)
+- **CoLang 2026:** Methodology dissemination planned
+- **Contact:** IU Institute for Indigenous Knowledge — https://indigenousknowledge.indiana.edu/
+- **KG nodes:** Word, Dialogue, Person, Value
+
+#### Newberry Library Lakota Drawings Digitization
+- **Content:** 160 digitized Lakota artworks + broader 200,000+ document collection
+- **Coverage:** https://www.smithsonianmag.com/smart-news/20th-century-collection-drawings-sioux-tribe-have-been-digitized-180968953/
+- **Status:** Check Newberry digital collections for download access
+- **KG nodes:** Value, Ceremony, Person (visual vocabulary)
+
+#### KILI Radio Historical Archive
+- **URL:** http://kalloch.org/KILI/kili.htm
+- **Content:** Decades of Lakota-language radio broadcasts from Pine Ridge (KILI 90.1 FM, Voice of the Lakota Nation)
+- **Status:** Check accessibility; remastered episodes available via Lakota Language Learning Radio podcast
+- **KG nodes:** Word, Story, Person
+
+#### Aktá Lakota Museum Expansion (Opening July 2026)
+- **URL:** https://aktalakota.stjo.org/
+- **Content:** New exhibitions with enhanced Lakota cultural & linguistic materials
+- **Status:** Watch for digital access announcements post-opening
+- **KG nodes:** Value, Ceremony, Person
+
+#### Journey Museum "Lakota Contemporary" Exhibition (Through May 2026)
+- **URL:** https://www.journeymuseum.org/exhibitions
+- **Curator:** Marty Two-Bulls Jr. (Oglala artist laureate)
+- **Content:** Contemporary Lakota art + historical objects
+- **KG nodes:** Value, Person, Place
+
+#### Standing Rock Sioux Tribe Language & Culture Institute (DELAMAN member)
+- **URL:** https://www.delaman.org/members/standing-rock-sioux-tribe-language-and-culture-institute/
+- **Content:** DELAMAN (Digital Endangered Languages and Musics Archiving Network) member
+- **Status:** Institutional partnership — may have digitized archives
+- **KG nodes:** Word, Story, Person
+
+### Online Learning Platforms (Verified)
+
+#### Otȟókahe — Dakota/Lakota Online Courses (Expanded)
+- **URL:** https://othokahe.com/ | Registration: https://register.othokahe.com/
+- **Content:** Live video classes + self-paced assignments, sequenced beginner→intermediate
+- **Free courses available:** Dakota/Lakota Plant Medicines (open to all)
+- **Features:** Video/audio of real-life speech, flashcards, presentations
+- **Instructors:** Team from across Standing Rock
+- **Status:** Active platform — some content free, structured courses paid
+- **KG nodes:** Word, Value, Dialogue
+
+### LOC Audio (Verified Details)
+
+#### Frances Densmore Wax Cylinder Recordings (Pre-1923 Public Domain)
+- **URL:** https://www.loc.gov/audio/?fa=language%3Adakota
+- **Content:** 340+ songs digitized from 1911-1914 wax cylinders
+- **Also includes:** Willard Rhodes field recordings (1940), Evelyn Finkbeiner collection (1947)
+- **Types:** Ceremonial songs, pipe songs, Sun Dance songs, healing songs, flute music
+- **License:** Pre-1923 recordings = PUBLIC DOMAIN ✅; post-1923 recordings may require $126/hr copying fee from LOC Recording Lab
+- **Note:** Primarily songs/ceremonies — cultural context rather than vocabulary instruction
+- **Status:** ✅ Pre-1923 content downloadable; check per-item for post-1923
+- **KG nodes:** Song, Ceremony, Person
