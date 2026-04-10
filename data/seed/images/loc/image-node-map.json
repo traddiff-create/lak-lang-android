@@ -1,0 +1,463 @@
+[
+  {
+    "image_id": "LOC-2024643136",
+    "filename": "2024643136.jpg",
+    "title": "Mrs. American Horse",
+    "mapped_nodes": [
+      {
+        "english_name": "American Horse",
+        "lakota": "Tȟašúŋke Waŋkíyaŋ",
+        "node_type": "person",
+        "role": "Oglala Lakota leader"
+      }
+    ]
+  },
+  {
+    "image_id": "LOC-2006679573",
+    "filename": "2006679573.jpg",
+    "title": "[Charging Thunder, a Sioux Indian from Buffalo Bill's Wild West Show]",
+    "mapped_nodes": [
+      {
+        "english_name": "Charging Thunder",
+        "lakota": "Wakíŋyaŋ Íŋyaŋke",
+        "node_type": "person",
+        "role": "Lakota performer"
+      }
+    ]
+  },
+  {
+    "image_id": "LOC-2006679582",
+    "filename": "2006679582.jpg",
+    "title": "[Charging Thunder, Sioux & wife, American Indians]",
+    "mapped_nodes": [
+      {
+        "english_name": "Charging Thunder",
+        "lakota": "Wakíŋyaŋ Íŋyaŋke",
+        "node_type": "person",
+        "role": "Lakota performer"
+      }
+    ]
+  },
+  {
+    "image_id": "LOC-2006679583",
+    "filename": "2006679583.jpg",
+    "title": "[Charging Thunder, American Indian]",
+    "mapped_nodes": [
+      {
+        "english_name": "Charging Thunder",
+        "lakota": "Wakíŋyaŋ Íŋyaŋke",
+        "node_type": "person",
+        "role": "Lakota performer"
+      }
+    ]
+  },
+  {
+    "image_id": "LOC-2006679593",
+    "filename": "2006679593.jpg",
+    "title": "[Charging Thunder, American Indian]",
+    "mapped_nodes": [
+      {
+        "english_name": "Charging Thunder",
+        "lakota": "Wakíŋyaŋ Íŋyaŋke",
+        "node_type": "person",
+        "role": "Lakota performer"
+      }
+    ]
+  },
+  {
+    "image_id": "LOC-2023698073",
+    "filename": "2023698073.jpg",
+    "title": "Memorial at the Little Bighorn National Battlefield site near the Crow Agency community in the U.S. state of Montana, which memorializes the US Army's 7th Cavalry and the Lakotas and Cheyennes in one plains Indians' last armed efforts to preserve their way of life. Here on June 25 and 26 of 1876, 263 soldiers, including Lt. Col. George A. Custer and attached personnel died fighting several thousand Lakota and Cheyenne warriors",
+    "mapped_nodes": [
+      {
+        "english_name": "Little Bighorn",
+        "lakota": "Pȟežísla Wakpá",
+        "node_type": "place"
+      }
+    ]
+  },
+  {
+    "image_id": "LOC-2023698072",
+    "filename": "2023698072.jpg",
+    "title": "Tombstones at the Little Bighorn National Battlefield site near the Crow Agency community in the U.S. state of Montana, which memorializes the US Army's 7th Cavalry and the Lakotas and Cheyennes in one plains Indians' last armed efforts to preserve their way of life",
+    "mapped_nodes": [
+      {
+        "english_name": "Little Bighorn",
+        "lakota": "Pȟežísla Wakpá",
+        "node_type": "place"
+      }
+    ]
+  },
+  {
+    "image_id": "LOC-2023698074",
+    "filename": "2023698074.jpg",
+    "title": "Tombstones at the Little Bighorn National Battlefield site near the Crow Agency community in the U.S. state of Montana, which memorializes the US Army's 7th Cavalry and the Lakotas and Cheyennes in one plains Indians' last armed efforts to preserve their way of life",
+    "mapped_nodes": [
+      {
+        "english_name": "Little Bighorn",
+        "lakota": "Pȟežísla Wakpá",
+        "node_type": "place"
+      }
+    ]
+  },
+  {
+    "image_id": "LOC-2023698105",
+    "filename": "2023698105.jpg",
+    "title": "Tombstones at the Little Bighorn National Battlefield site near the Crow Agency community in the U.S. state of Montana, which memorializes the US Army's 7th Cavalry and the Lakotas and Cheyennes in one plains Indians' last armed efforts to preserve their way of life",
+    "mapped_nodes": [
+      {
+        "english_name": "Little Bighorn",
+        "lakota": "Pȟežísla Wakpá",
+        "node_type": "place"
+      }
+    ]
+  },
+  {
+    "image_id": "LOC-2023698152",
+    "filename": "2023698152.jpg",
+    "title": "Tombstones at the Little Bighorn National Battlefield site near the Crow Agency community in the U.S. state of Montana, which memorializes the US Army's 7th Cavalry and the Lakotas and Cheyennes in one plains Indians' last armed efforts to preserve their way of life",
+    "mapped_nodes": [
+      {
+        "english_name": "Little Bighorn",
+        "lakota": "Pȟežísla Wakpá",
+        "node_type": "place"
+      }
+    ]
+  },
+  {
+    "image_id": "LOC-2023698153",
+    "filename": "2023698153.jpg",
+    "title": "Tombstones at the Little Bighorn National Battlefield site near the Crow Agency community in the U.S. state of Montana, which memorializes the US Army's 7th Cavalry and the Lakotas and Cheyennes in one plains Indians' last armed efforts to preserve their way of life",
+    "mapped_nodes": [
+      {
+        "english_name": "Little Bighorn",
+        "lakota": "Pȟežísla Wakpá",
+        "node_type": "place"
+      }
+    ]
+  },
+  {
+    "image_id": "LOC-2023698101",
+    "filename": "2023698101.jpg",
+    "title": "Memorial and tombstones at the Little Bighorn National Battlefield site near the Crow Agency community in the U.S. state of Montana, which memorializes the US Army's 7th Cavalry and the Lakotas and Cheyennes in one plains Indians' last armed efforts to preserve their way of life",
+    "mapped_nodes": [
+      {
+        "english_name": "Little Bighorn",
+        "lakota": "Pȟežísla Wakpá",
+        "node_type": "place"
+      }
+    ]
+  },
+  {
+    "image_id": "LOC-91481171",
+    "filename": "91481171.jpg",
+    "title": "[Red Cloud, Oglala division of Lakota, Sioux, head-and-shoulders portrait, facing right wearing suit]",
+    "mapped_nodes": [
+      {
+        "english_name": "Red Cloud",
+        "lakota": "Maȟpíya Lúta",
+        "node_type": "person",
+        "role": "Oglala Lakota chief"
+      }
+    ]
+  },
+  {
+    "image_id": "LOC-91481278",
+    "filename": "91481278.jpg",
+    "title": "[Iron Shell, Lakota, Sioux tribe, half-length portrait, facing front in traditional clothing]",
+    "mapped_nodes": [
+      {
+        "english_name": "Iron Shell",
+        "lakota": "Mázaočeti",
+        "node_type": "person",
+        "role": "Brulé Lakota chief"
+      }
+    ]
+  },
+  {
+    "image_id": "LOC-2005693371",
+    "filename": "2005693371.jpg",
+    "title": "Two Strike['s] band [Brulé Lakota] Pine Ridge 1891",
+    "mapped_nodes": [
+      {
+        "english_name": "Two Strike",
+        "lakota": "Nomkahpa",
+        "node_type": "person",
+        "role": "Brulé Lakota chief"
+      },
+      {
+        "english_name": "Pine Ridge",
+        "lakota": "Wazí Aháŋhaŋ Oyáŋke",
+        "node_type": "place"
+      }
+    ]
+  },
+  {
+    "image_id": "LOC-91705081",
+    "filename": "91705081.jpg",
+    "title": "Chief American Horse",
+    "mapped_nodes": [
+      {
+        "english_name": "American Horse",
+        "lakota": "Tȟašúŋke Waŋkíyaŋ",
+        "node_type": "person",
+        "role": "Oglala Lakota leader"
+      }
+    ]
+  },
+  {
+    "image_id": "LOC-2015634111",
+    "filename": "2015634111.jpg",
+    "title": "An everyday soldier's garb and possessions inside a cabin at Fort Caspar, a reconstructed 1865 military post located at a North Platte River crossing on the Oregon, Mormon Pioneer, California, and Pony Express trails and the transcontinental telegraph trail corridor in Casper, Wyoming",
+    "mapped_nodes": [
+      {
+        "english_name": "Fort Caspar",
+        "node_type": "place"
+      }
+    ]
+  },
+  {
+    "image_id": "LOC-2015634112",
+    "filename": "2015634112.jpg",
+    "title": "An everyday soldier's garb and possessions inside a cabin at Fort Caspar, a reconstructed 1865 military post located at a North Platte River crossing on the Oregon, Mormon Pioneer, California, and Pony Express trails and the transcontinental telegraph trail corridor in Casper, Wyoming",
+    "mapped_nodes": [
+      {
+        "english_name": "Fort Caspar",
+        "node_type": "place"
+      }
+    ]
+  },
+  {
+    "image_id": "LOC-2015634113",
+    "filename": "2015634113.jpg",
+    "title": "A settler's wagon at Fort Caspar, a reconstructed 1865 military post located at a North Platte River crossing on the Oregon, Mormon Pioneer, California, and Pony Express trails and the transcontinental telegraph trail corridor in Casper, Wyoming",
+    "mapped_nodes": [
+      {
+        "english_name": "Fort Caspar",
+        "node_type": "place"
+      }
+    ]
+  },
+  {
+    "image_id": "LOC-99613903",
+    "filename": "99613903.jpg",
+    "title": "Gen. Miles and staff viewing the largest hostile Indian Camp in the U.S., near Pine Ridge, S. Dak., Jan 16, 1891",
+    "mapped_nodes": [
+      {
+        "english_name": "Pine Ridge",
+        "lakota": "Wazí Aháŋhaŋ Oyáŋke",
+        "node_type": "place"
+      }
+    ]
+  },
+  {
+    "image_id": "LOC-99613900",
+    "filename": "99613900.jpg",
+    "title": "Indian chiefs and U.S. officials.  1. Two Strike.  2. Crow Dog.  3. Short Bull.  4. High Hawk.  5. Two Lance.  6.  Kicking Bear.  7. Good Voice.  8. Thunder Hawk.  9. Rocky Bear.  10. Young Man Afraid of His Horse.  11. American Horse.  12. W.F. Cody (Buffalo Bill).  13. Maj. J.M. Burk.  14. J.C. Craiger.  15. J. McDonald.  16. J.G. Worth.  Taken at Pine Ridge, Jan. 16 '91",
+    "mapped_nodes": [
+      {
+        "english_name": "American Horse",
+        "lakota": "Tȟašúŋke Waŋkíyaŋ",
+        "node_type": "person",
+        "role": "Oglala Lakota leader"
+      },
+      {
+        "english_name": "Two Strike",
+        "lakota": "Nomkahpa",
+        "node_type": "person",
+        "role": "Brulé Lakota chief"
+      },
+      {
+        "english_name": "Crow Dog",
+        "lakota": "Kȟaŋǧí Šúŋka",
+        "node_type": "person",
+        "role": "Brulé Lakota leader"
+      },
+      {
+        "english_name": "Short Bull",
+        "lakota": "Tȟatȟáŋka Ptéčela",
+        "node_type": "person",
+        "role": "Brulé Lakota leader"
+      },
+      {
+        "english_name": "Pine Ridge",
+        "lakota": "Wazí Aháŋhaŋ Oyáŋke",
+        "node_type": "place"
+      }
+    ]
+  },
+  {
+    "image_id": "LOC-99613901",
+    "filename": "99613901.jpg",
+    "title": "Indian chiefs and U.S. officials [at Pine Ridge, S.D.]",
+    "mapped_nodes": [
+      {
+        "english_name": "Pine Ridge",
+        "lakota": "Wazí Aháŋhaŋ Oyáŋke",
+        "node_type": "place"
+      }
+    ]
+  },
+  {
+    "image_id": "LOC-99613962",
+    "filename": "99613962.jpg",
+    "title": "Beef issue to Indians. Taken at Pine Ridge, Jan. 18 '91",
+    "mapped_nodes": [
+      {
+        "english_name": "Pine Ridge",
+        "lakota": "Wazí Aháŋhaŋ Oyáŋke",
+        "node_type": "place"
+      }
+    ]
+  },
+  {
+    "image_id": "LOC-99613902",
+    "filename": "99613902.jpg",
+    "title": "Indian chiefs and U.S. officials.  1. Two Strike.  2. Crow Dog.  3. Short Bull.  4. High Hawk.  5. Two Lance.  6. Kicking Bear.  7. Good Voice.  8. Thunder Hawk.  9. Rocky Bear.  10. Young Man Afraid of His Horse.  11. American Horse.  12. W.F. Cody (Buffalo Bill).  13. Maj. J.M. Burk.  14. J.C. Craiger.  15. J. McDonald.  16. J.G. Worth.  Taken at Pine Ridge, Jan. 16, '91",
+    "mapped_nodes": [
+      {
+        "english_name": "American Horse",
+        "lakota": "Tȟašúŋke Waŋkíyaŋ",
+        "node_type": "person",
+        "role": "Oglala Lakota leader"
+      },
+      {
+        "english_name": "Two Strike",
+        "lakota": "Nomkahpa",
+        "node_type": "person",
+        "role": "Brulé Lakota chief"
+      },
+      {
+        "english_name": "Crow Dog",
+        "lakota": "Kȟaŋǧí Šúŋka",
+        "node_type": "person",
+        "role": "Brulé Lakota leader"
+      },
+      {
+        "english_name": "Short Bull",
+        "lakota": "Tȟatȟáŋka Ptéčela",
+        "node_type": "person",
+        "role": "Brulé Lakota leader"
+      },
+      {
+        "english_name": "Pine Ridge",
+        "lakota": "Wazí Aháŋhaŋ Oyáŋke",
+        "node_type": "place"
+      }
+    ]
+  },
+  {
+    "image_id": "LOC-99613792",
+    "filename": "99613792.jpg",
+    "title": "Villa of Brule the great hostile Indian camp on River Brule near Pine Ridge, S.D /",
+    "mapped_nodes": [
+      {
+        "english_name": "Pine Ridge",
+        "lakota": "Wazí Aháŋhaŋ Oyáŋke",
+        "node_type": "place"
+      }
+    ]
+  },
+  {
+    "image_id": "LOC-91481329",
+    "filename": "91481329.jpg",
+    "title": "Capt. Geo Sword, chief of police with Buffalo Bill's Indians, Pine Ridge Agency, S.D.",
+    "mapped_nodes": [
+      {
+        "english_name": "Pine Ridge",
+        "lakota": "Wazí Aháŋhaŋ Oyáŋke",
+        "node_type": "place"
+      }
+    ]
+  },
+  {
+    "image_id": "LOC-2017894798",
+    "filename": "2017894798.jpg",
+    "title": "Red Cloud and Indians. Standing: Red Bear (Sons Are?), Young Man Afraid of his Horse, Good Voice, Ring Thunder, Iron Crow, White Tail, Young Spotted Tail; seated: Yellow Bear, Jack Red Cloud, Big Road, Little Wound, Black Crow",
+    "mapped_nodes": [
+      {
+        "english_name": "Red Cloud",
+        "lakota": "Maȟpíya Lúta",
+        "node_type": "person",
+        "role": "Oglala Lakota chief"
+      }
+    ]
+  },
+  {
+    "image_id": "LOC-90710797",
+    "filename": "90710797.jpg",
+    "title": "Chief Red Shirt",
+    "mapped_nodes": [
+      {
+        "english_name": "Chief Red Shirt",
+        "lakota": "Ógle Lúta",
+        "node_type": "person",
+        "role": "Oglala Lakota chief"
+      }
+    ]
+  },
+  {
+    "image_id": "LOC-91481283",
+    "filename": "91481283.jpg",
+    "title": "Walter Iron Shell",
+    "mapped_nodes": [
+      {
+        "english_name": "Iron Shell",
+        "lakota": "Mázaočeti",
+        "node_type": "person",
+        "role": "Brulé Lakota chief"
+      }
+    ]
+  },
+  {
+    "image_id": "LOC-91481327",
+    "filename": "91481327.jpg",
+    "title": "Julia American Horse",
+    "mapped_nodes": [
+      {
+        "english_name": "American Horse",
+        "lakota": "Tȟašúŋke Waŋkíyaŋ",
+        "node_type": "person",
+        "role": "Oglala Lakota leader"
+      }
+    ]
+  },
+  {
+    "image_id": "LOC-2018646095",
+    "filename": "2018646095.jpg",
+    "title": "Sitting Bull, North American chief",
+    "mapped_nodes": [
+      {
+        "english_name": "Sitting Bull",
+        "lakota": "Tȟatȟáŋka Íyotake",
+        "node_type": "person",
+        "role": "Hunkpapa Lakota chief"
+      }
+    ]
+  },
+  {
+    "image_id": "LOC-2005693372",
+    "filename": "2005693372.jpg",
+    "title": "Squaw dance Pine Ridge S.D.",
+    "mapped_nodes": [
+      {
+        "english_name": "Pine Ridge",
+        "lakota": "Wazí Aháŋhaŋ Oyáŋke",
+        "node_type": "place"
+      }
+    ]
+  },
+  {
+    "image_id": "LOC-2002715087",
+    "filename": "2002715087.jpg",
+    "title": "Fool Bull",
+    "mapped_nodes": [
+      {
+        "english_name": "Fool Bull",
+        "lakota": "Tȟatȟáŋka Witko",
+        "node_type": "person",
+        "role": "Lakota leader"
+      }
+    ]
+  }
+]

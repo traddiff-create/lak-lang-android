@@ -1,0 +1,19 @@
+[
+  {
+    "audio_id": "IA-LakotaSiouxSongChants",
+    "filename": "lakota-sioux-song-chants.mp3",
+    "mapped_nodes": [
+      {
+        "node_type": "song",
+        "english_name": "Lakota Song Chants",
+        "description": "Traditional Lakota song chants (digitized cassette recording)",
+        "cosmos_direction": "sky",
+        "cosmos_direction_lakota": "Wankantanhan",
+        "content_category": "Ceremonies/Songs"
+      }
+    ],
+    "vocabulary_categories": ["ceremonial", "sacred"],
+    "cultural_module_categories": ["ceremonies", "songs"],
+    "notes": "Single continuous recording — no individual track segmentation. Best used as ambient cultural audio or ceremony illustration."
+  }
+]

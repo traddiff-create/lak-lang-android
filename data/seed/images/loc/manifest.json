@@ -10,7 +10,10 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 117643,
-    "categories": []
+    "categories": [
+      "place",
+      "daily_living"
+    ]
   },
   {
     "id": "LOC-2024643136",
@@ -23,7 +26,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 51278,
-    "categories": []
+    "categories": [
+      "person"
+    ]
   },
   {
     "id": "LOC-2016650204",
@@ -36,7 +41,11 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 74006,
-    "categories": []
+    "categories": [
+      "place",
+      "daily_living",
+      "historical"
+    ]
   },
   {
     "id": "LOC-2006679573",
@@ -49,7 +58,10 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 43138,
-    "categories": []
+    "categories": [
+      "person",
+      "ceremonial"
+    ]
   },
   {
     "id": "LOC-2006679582",
@@ -62,7 +74,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 47891,
-    "categories": []
+    "categories": [
+      "person"
+    ]
   },
   {
     "id": "LOC-2006679583",
@@ -75,7 +89,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 36183,
-    "categories": []
+    "categories": [
+      "person"
+    ]
   },
   {
     "id": "LOC-2006679593",
@@ -88,7 +104,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 37764,
-    "categories": []
+    "categories": [
+      "person"
+    ]
   },
   {
     "id": "LOC-2020632249",
@@ -101,7 +119,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 211169,
-    "categories": []
+    "categories": [
+      "daily_living"
+    ]
   },
   {
     "id": "LOC-2007681010",
@@ -114,7 +134,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 104263,
-    "categories": []
+    "categories": [
+      "historical"
+    ]
   },
   {
     "id": "LOC-2024643130",
@@ -127,7 +149,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 42208,
-    "categories": []
+    "categories": [
+      "person"
+    ]
   },
   {
     "id": "LOC-2024643131",
@@ -140,7 +164,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 54941,
-    "categories": []
+    "categories": [
+      "uncategorized"
+    ]
   },
   {
     "id": "LOC-2024643132",
@@ -153,7 +179,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 45295,
-    "categories": []
+    "categories": [
+      "person"
+    ]
   },
   {
     "id": "LOC-2024643133",
@@ -166,7 +194,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 46650,
-    "categories": []
+    "categories": [
+      "person"
+    ]
   },
   {
     "id": "LOC-2024643134",
@@ -179,7 +209,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 54009,
-    "categories": []
+    "categories": [
+      "person"
+    ]
   },
   {
     "id": "LOC-2024643135",
@@ -192,7 +224,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 42465,
-    "categories": []
+    "categories": [
+      "person"
+    ]
   },
   {
     "id": "LOC-2023634992",
@@ -205,7 +239,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 129450,
-    "categories": []
+    "categories": [
+      "ceremony"
+    ]
   },
   {
     "id": "LOC-2023698073",
@@ -218,7 +254,10 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 118767,
-    "categories": []
+    "categories": [
+      "place",
+      "historical"
+    ]
   },
   {
     "id": "LOC-2023698072",
@@ -231,7 +270,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 141875,
-    "categories": []
+    "categories": [
+      "place"
+    ]
   },
   {
     "id": "LOC-2023698074",
@@ -244,7 +285,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 131337,
-    "categories": []
+    "categories": [
+      "place"
+    ]
   },
   {
     "id": "LOC-2023698105",
@@ -257,7 +300,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 132255,
-    "categories": []
+    "categories": [
+      "place"
+    ]
   },
   {
     "id": "LOC-2023698152",
@@ -270,7 +315,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 138018,
-    "categories": []
+    "categories": [
+      "place"
+    ]
   },
   {
     "id": "LOC-2023698153",
@@ -283,7 +330,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 133499,
-    "categories": []
+    "categories": [
+      "place"
+    ]
   },
   {
     "id": "LOC-2023698101",
@@ -296,7 +345,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 94100,
-    "categories": []
+    "categories": [
+      "place"
+    ]
   },
   {
     "id": "LOC-91481296",
@@ -309,7 +360,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 44307,
-    "categories": []
+    "categories": [
+      "person"
+    ]
   },
   {
     "id": "LOC-91481171",
@@ -322,7 +375,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 26064,
-    "categories": []
+    "categories": [
+      "person"
+    ]
   },
   {
     "id": "LOC-91481278",
@@ -335,7 +390,10 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 46747,
-    "categories": []
+    "categories": [
+      "person",
+      "ceremonial"
+    ]
   },
   {
     "id": "LOC-2005693371",
@@ -348,7 +406,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 48008,
-    "categories": []
+    "categories": [
+      "place"
+    ]
   },
   {
     "id": "LOC-2016648629",
@@ -361,7 +421,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 53392,
-    "categories": []
+    "categories": [
+      "place"
+    ]
   },
   {
     "id": "LOC-91705081",
@@ -374,7 +436,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 47096,
-    "categories": []
+    "categories": [
+      "person"
+    ]
   },
   {
     "id": "LOC-2015633465",
@@ -387,7 +451,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 182475,
-    "categories": []
+    "categories": [
+      "ceremony"
+    ]
   },
   {
     "id": "LOC-2015633466",
@@ -400,7 +466,10 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 189447,
-    "categories": []
+    "categories": [
+      "person",
+      "ceremony"
+    ]
   },
   {
     "id": "LOC-2015633470",
@@ -413,7 +482,10 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 179815,
-    "categories": []
+    "categories": [
+      "person",
+      "ceremony"
+    ]
   },
   {
     "id": "LOC-2015633471",
@@ -426,7 +498,10 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 199475,
-    "categories": []
+    "categories": [
+      "person",
+      "ceremony"
+    ]
   },
   {
     "id": "LOC-2015634111",
@@ -439,7 +514,11 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 135359,
-    "categories": []
+    "categories": [
+      "place",
+      "daily_living",
+      "historical"
+    ]
   },
   {
     "id": "LOC-2015634112",
@@ -452,7 +531,11 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 178193,
-    "categories": []
+    "categories": [
+      "place",
+      "daily_living",
+      "historical"
+    ]
   },
   {
     "id": "LOC-2015634113",
@@ -465,7 +548,11 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 154376,
-    "categories": []
+    "categories": [
+      "place",
+      "daily_living",
+      "historical"
+    ]
   },
   {
     "id": "LOC-2021757346",
@@ -478,7 +565,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 181464,
-    "categories": []
+    "categories": [
+      "ceremony"
+    ]
   },
   {
     "id": "LOC-99613797",
@@ -491,7 +580,11 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 60900,
-    "categories": []
+    "categories": [
+      "person",
+      "daily_living",
+      "historical"
+    ]
   },
   {
     "id": "LOC-99613798",
@@ -504,7 +597,11 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 64694,
-    "categories": []
+    "categories": [
+      "person",
+      "daily_living",
+      "historical"
+    ]
   },
   {
     "id": "LOC-99613796",
@@ -517,7 +614,10 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 66386,
-    "categories": []
+    "categories": [
+      "place",
+      "historical"
+    ]
   },
   {
     "id": "LOC-99613802",
@@ -530,7 +630,11 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 60856,
-    "categories": []
+    "categories": [
+      "place",
+      "daily_living",
+      "historical"
+    ]
   },
   {
     "id": "LOC-99613903",
@@ -543,7 +647,10 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 65525,
-    "categories": []
+    "categories": [
+      "place",
+      "historical"
+    ]
   },
   {
     "id": "LOC-99613811",
@@ -556,7 +663,10 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 77119,
-    "categories": []
+    "categories": [
+      "place",
+      "historical"
+    ]
   },
   {
     "id": "LOC-99613803",
@@ -569,7 +679,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 68498,
-    "categories": []
+    "categories": [
+      "daily_living"
+    ]
   },
   {
     "id": "LOC-99613900",
@@ -582,7 +694,10 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 71915,
-    "categories": []
+    "categories": [
+      "person",
+      "place"
+    ]
   },
   {
     "id": "LOC-99613901",
@@ -595,7 +710,10 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 75322,
-    "categories": []
+    "categories": [
+      "person",
+      "place"
+    ]
   },
   {
     "id": "LOC-99613905",
@@ -608,7 +726,10 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 49947,
-    "categories": []
+    "categories": [
+      "person",
+      "daily_living"
+    ]
   },
   {
     "id": "LOC-99613962",
@@ -621,7 +742,10 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 48403,
-    "categories": []
+    "categories": [
+      "place",
+      "daily_living"
+    ]
   },
   {
     "id": "LOC-99613964",
@@ -634,7 +758,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 51931,
-    "categories": []
+    "categories": [
+      "daily_living"
+    ]
   },
   {
     "id": "LOC-99613902",
@@ -647,7 +773,10 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 62375,
-    "categories": []
+    "categories": [
+      "person",
+      "place"
+    ]
   },
   {
     "id": "LOC-99613792",
@@ -660,7 +789,10 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 71693,
-    "categories": []
+    "categories": [
+      "place",
+      "historical"
+    ]
   },
   {
     "id": "LOC-99613963",
@@ -673,7 +805,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 49261,
-    "categories": []
+    "categories": [
+      "daily_living"
+    ]
   },
   {
     "id": "LOC-99613966",
@@ -686,7 +820,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 96173,
-    "categories": []
+    "categories": [
+      "daily_living"
+    ]
   },
   {
     "id": "LOC-99613812",
@@ -699,7 +835,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 50672,
-    "categories": []
+    "categories": [
+      "daily_living"
+    ]
   },
   {
     "id": "LOC-99613836",
@@ -712,7 +850,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 74594,
-    "categories": []
+    "categories": [
+      "historical"
+    ]
   },
   {
     "id": "LOC-99613791",
@@ -725,7 +865,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 72346,
-    "categories": []
+    "categories": [
+      "place"
+    ]
   },
   {
     "id": "LOC-91481329",
@@ -738,7 +880,10 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 59744,
-    "categories": []
+    "categories": [
+      "person",
+      "place"
+    ]
   },
   {
     "id": "LOC-2006679560",
@@ -751,7 +896,10 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 46086,
-    "categories": []
+    "categories": [
+      "person",
+      "ceremonial"
+    ]
   },
   {
     "id": "LOC-2017894798",
@@ -764,7 +912,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 60254,
-    "categories": []
+    "categories": [
+      "person"
+    ]
   },
   {
     "id": "LOC-90710797",
@@ -777,7 +927,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 39883,
-    "categories": []
+    "categories": [
+      "person"
+    ]
   },
   {
     "id": "LOC-91481283",
@@ -790,7 +942,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 42914,
-    "categories": []
+    "categories": [
+      "person"
+    ]
   },
   {
     "id": "LOC-91481327",
@@ -803,7 +957,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 36369,
-    "categories": []
+    "categories": [
+      "person"
+    ]
   },
   {
     "id": "LOC-2018646095",
@@ -816,7 +972,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 118352,
-    "categories": []
+    "categories": [
+      "person"
+    ]
   },
   {
     "id": "LOC-2015633905",
@@ -829,7 +987,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 65395,
-    "categories": []
+    "categories": [
+      "person"
+    ]
   },
   {
     "id": "LOC-2015633906",
@@ -842,7 +1002,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 116604,
-    "categories": []
+    "categories": [
+      "person"
+    ]
   },
   {
     "id": "LOC-2015633907",
@@ -855,7 +1017,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 120166,
-    "categories": []
+    "categories": [
+      "person"
+    ]
   },
   {
     "id": "LOC-2015633908",
@@ -868,7 +1032,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 129187,
-    "categories": []
+    "categories": [
+      "person"
+    ]
   },
   {
     "id": "LOC-2015633909",
@@ -881,7 +1047,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 118301,
-    "categories": []
+    "categories": [
+      "person"
+    ]
   },
   {
     "id": "LOC-2015633910",
@@ -894,7 +1062,9 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 125075,
-    "categories": []
+    "categories": [
+      "person"
+    ]
   },
   {
     "id": "LOC-2005693372",
@@ -907,7 +1077,10 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 49764,
-    "categories": []
+    "categories": [
+      "place",
+      "ceremony"
+    ]
   },
   {
     "id": "LOC-2002715087",
@@ -920,6 +1093,8 @@
     "license": "public_domain",
     "review_status": "draft",
     "size_bytes": 25426,
-    "categories": []
+    "categories": [
+      "person"
+    ]
   }
 ]
