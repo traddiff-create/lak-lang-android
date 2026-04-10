@@ -10,6 +10,7 @@ data class CosmosNode(
     val english: String,
     val direction: Direction,
     val orbit: OrbitParams,
+    val imageAsset: String? = null,
 )
 
 data class OrbitParams(

@@ -12,6 +12,7 @@ data class Person(
     val role: String?,
     val biography: String?,
     val source: String?,
+    @ColumnInfo(name = "image_asset") val imageAsset: String?,
     @ColumnInfo(name = "access_level") val accessLevel: String,
     @ColumnInfo(name = "review_status") val reviewStatus: String,
     @ColumnInfo(name = "review_notes") val reviewNotes: String?,

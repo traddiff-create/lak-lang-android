@@ -65,7 +65,7 @@ class CosmosViewModel(application: Application) : AndroidViewModel(application) 
             val persons = graphDao.getAllPersons()
             persons.forEachIndexed { i, p ->
                 val dir = directionForType("person")
-                nodes.add(CosmosNode(p.id, "person", p.lakotaName ?: p.englishName, p.englishName, dir, computeOrbit(i, persons.size, dir, false)))
+                nodes.add(CosmosNode(p.id, "person", p.lakotaName ?: p.englishName, p.englishName, dir, computeOrbit(i, persons.size, dir, false), imageAsset = p.imageAsset))
             }
 
             val edges = graphDao.getAllEdges()

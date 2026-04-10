@@ -17,7 +17,7 @@ import com.traddiff.laklang.data.entity.*
         DialogueExample::class,
         Bookmark::class,
     ],
-    version = 1,
+    version = 2,
     exportSchema = false,
 )
 abstract class LakLangDatabase : RoomDatabase() {

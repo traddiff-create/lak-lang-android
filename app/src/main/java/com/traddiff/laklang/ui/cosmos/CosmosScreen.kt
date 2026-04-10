@@ -1,16 +1,22 @@
 package com.traddiff.laklang.ui.cosmos
 
+import android.graphics.BitmapFactory
 import androidx.compose.animation.*
+import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.layout.ExperimentalLayoutApi
+import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material3.Text
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
+import androidx.compose.ui.graphics.asImageBitmap
+import androidx.compose.ui.layout.ContentScale
+import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.text.style.TextOverflow
@@ -126,6 +132,27 @@ private fun CosmosOverlay(
                 letterSpacing = 2.sp,
                 fontWeight = FontWeight.Medium,
             )
+
+            // Person portrait from LOC public domain photos
+            node.imageAsset?.let { assetPath ->
+                Spacer(Modifier.height(12.dp))
+                val context = LocalContext.current
+                val bitmap = remember(assetPath) {
+                    try {
+                        context.assets.open(assetPath).use { BitmapFactory.decodeStream(it) }
+                    } catch (_: Exception) { null }
+                }
+                bitmap?.let {
+                    Image(
+                        bitmap = it.asImageBitmap(),
+                        contentDescription = "${node.english} portrait",
+                        modifier = Modifier
+                            .size(96.dp)
+                            .clip(CircleShape),
+                        contentScale = ContentScale.Crop,
+                    )
+                }
+            }
 
             Spacer(Modifier.height(12.dp))
 

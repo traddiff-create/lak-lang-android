@@ -14,6 +14,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import androidx.lifecycle.viewmodel.compose.viewModel
+import com.traddiff.laklang.ui.components.AssetAudioPlayer
 import com.traddiff.laklang.viewmodel.StoriesViewModel
 
 @OptIn(ExperimentalMaterial3Api::class)
@@ -66,6 +67,18 @@ fun StoryDetailScreen(
                     style = MaterialTheme.typography.headlineMedium,
                     fontWeight = FontWeight.Bold,
                 )
+            }
+
+            // Audio player — shown when story has an audio asset
+            story.audioUrl?.let { audioPath ->
+                if (audioPath.startsWith("audio/")) {
+                    item {
+                        AssetAudioPlayer(
+                            assetPath = audioPath,
+                            label = "Lakota Song Chants",
+                        )
+                    }
+                }
             }
 
             // Values this story teaches
