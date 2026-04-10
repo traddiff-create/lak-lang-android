@@ -1,0 +1,18 @@
+[
+  {
+    "id": "IA-LakotaSiouxSongChants",
+    "filename": "lakota-sioux-song-chants.mp3",
+    "format": "mp3",
+    "size_mb": 4.7,
+    "cover_image": "lakota-sioux-song-chants-cover.jpg",
+    "source": "Internet Archive",
+    "source_url": "https://archive.org/details/LakotaSiouxSongChants",
+    "download_url": "https://archive.org/download/LakotaSiouxSongChants/Lakota%20Sioux%20-%20Song%20Chants.mp3",
+    "license": "free_download",
+    "review_status": "draft",
+    "content_type": "song_chants",
+    "description": "Traditional Lakota Sioux song chants. Cassette recording digitized and uploaded to Internet Archive.",
+    "speakers": "Unknown (thrift store cassette find, no performer credits)",
+    "notes": "Minimal metadata available. Cultural context audio — songs, not vocabulary instruction."
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "WOW-lakota-1-audio",
+    "status": "pending_download",
+    "title": "Lakota Language I — Audio Tapes",
+    "source": "Way of Wakan / Black Hills State College",
+    "source_url": "https://www.wayofwakan.com",
+    "license": "free_educational",
+    "speakers": ["Mary Young (Sicangu Lakota)", "Billy Burnette (Oglala Lakota)", "David Mathieu (instructor)"],
+    "content_type": "language_course",
+    "description": "Interactive audio tapes for Lakota I college course. Classroom language lab exercises.",
+    "review_status": "draft",
+    "notes": "Site offline as of 2026-04-10. Check Wayback Machine or contact david.mathieu902@gmail.com"
+  },
+  {
+    "id": "WOW-lakota-2-audio",
+    "status": "pending_download",
+    "title": "Lakota Language II — Audio Tapes",
+    "source": "Way of Wakan / Black Hills State College",
+    "source_url": "https://www.wayofwakan.com",
+    "license": "free_educational",
+    "speakers": ["Mary Young (Sicangu Lakota)", "Billy Burnette (Oglala Lakota)", "David Mathieu (instructor)"],
+    "content_type": "language_course",
+    "description": "Interactive audio tapes for Lakota II college course. Advanced classroom language lab exercises.",
+    "review_status": "draft",
+    "notes": "Also archived at UCLA Center of American Indian Studies"
+  }
+]
