@@ -7,9 +7,13 @@ plugins {
     id("com.google.devtools.ksp")
 }
 
-val keystoreProperties = java.util.Properties().apply {
-    val file = rootProject.file("keystore.properties")
-    if (file.exists()) load(file.inputStream())
+import java.io.FileInputStream
+import java.util.Properties
+
+val keystorePropertiesFile = rootProject.file("keystore.properties")
+val keystoreProperties = Properties()
+if (keystorePropertiesFile.exists()) {
+    keystoreProperties.load(FileInputStream(keystorePropertiesFile))
 }
 
 android {
