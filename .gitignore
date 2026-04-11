@@ -12,3 +12,5 @@ local.properties
 
 # Pre-built database (5.5MB, copied from LakLangLM)
 app/src/main/assets/laklang.db
+keystore.properties
+fastlane/service-account.json

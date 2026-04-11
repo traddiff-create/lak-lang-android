@@ -1,0 +1,13 @@
+LakLang v1.0 — Lakota Language & Cultural Preservation
+
+- 12,535 Lakota vocabulary items across 20+ categories
+- 63 Ella Deloria narratives from Dakota Texts (1932)
+- Seven Sacred Directions cosmos visualization
+- 42 pronunciation guides with IPA notation
+- 24 cultural modules on Lakota worldview
+- 19 dialogue examples for conversational practice
+- Knowledge graph with 111 connections
+- Historical Lakota leader portraits (LOC public domain)
+- Lakota Song Chants audio player
+- Spotlight search across all content
+- Bookmarks for saving favorite words
